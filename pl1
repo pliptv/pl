@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,PL| TVP info FHD
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1,PL| TVP 1 FULL HD
 http://bosstr.net:80/testskype1/6q60C0QwC4/4910
 #EXTINF:-1,PL| TVP 2
