@@ -1,459 +1,387 @@
 #EXTM3U
 #EXTINF:-1,PL| TVP info FHD
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-#EXTINF:-1,POLAND: TVP3
-http://4k-sat.com:8000/dferran/dferran/11393
-#EXTINF:-1,POLAND: TVP2
-http://4k-sat.com:8000/dferran/dferran/11394
-#EXTINF:-1,POLAND: TVP1
-http://4k-sat.com:8000/dferran/dferran/11395
-#EXTINF:-1,POLAND: TVP 1
-http://4k-sat.com:8000/dferran/dferran/11396
-#EXTINF:-1,POLAND: TVN HD
-http://4k-sat.com:8000/dferran/dferran/11397
-#EXTINF:-1,POLAND: TVPSTYLE
-http://4k-sat.com:8000/dferran/dferran/11398
-#EXTINF:-1,POLAND: TVPSERIAL
-http://4k-sat.com:8000/dferran/dferran/11399
-#EXTINF:-1,POLAND: TVPINFO
-http://4k-sat.com:8000/dferran/dferran/11400
-#EXTINF:-1,POLAND: TVP SPORT
-http://4k-sat.com:8000/dferran/dferran/11401
-#EXTINF:-1,POLAND: TVP SPORT HD
-http://4k-sat.com:8000/dferran/dferran/11402
-#EXTINF:-1,POLAND: TVP KULTURE
-http://4k-sat.com:8000/dferran/dferran/11403
-#EXTINF:-1,POLAND: TVP HISTORIA
-http://4k-sat.com:8000/dferran/dferran/11404
-#EXTINF:-1,POLAND: TVN TURBO
-http://4k-sat.com:8000/dferran/dferran/11405
-#EXTINF:-1,POLAND: POLSAT 1
-http://4k-sat.com:8000/dferran/dferran/11406
-#EXTINF:-1,POLAND: Polsat Sport News
-http://4k-sat.com:8000/dferran/dferran/11407
-#EXTINF:-1,POLAND: POLSAT SPORT EXTRA HD
-http://4k-sat.com:8000/dferran/dferran/11408
-#EXTINF:-1,POLAND: POLSAT SPORT
-http://4k-sat.com:8000/dferran/dferran/11409
-#EXTINF:-1,POLAND: POLSAT PLAY HD
-http://4k-sat.com:8000/dferran/dferran/11410
-#EXTINF:-1,POLAND: POLSAT NEWS 2
-http://4k-sat.com:8000/dferran/dferran/11411
-#EXTINF:-1,POLAND: POLSAT 2 HD
-http://4k-sat.com:8000/dferran/dferran/11412
-#EXTINF:-1,POLAND: NSport Plus
-http://4k-sat.com:8000/dferran/dferran/11413
-#EXTINF:-1,POLAND: NICLEODEON
-http://4k-sat.com:8000/dferran/dferran/11414
-#EXTINF:-1,POLAND: NICK JR POLSAKA
-http://4k-sat.com:8000/dferran/dferran/11415
-#EXTINF:-1,POLAND: NATINAL GEOGRAPHIC
-http://4k-sat.com:8000/dferran/dferran/11416
-#EXTINF:-1,POLAND: KINO POLSKA
-http://4k-sat.com:8000/dferran/dferran/11417
-#EXTINF:-1,POLAND: Hbo 3 HD
-http://4k-sat.com:8000/dferran/dferran/11418
-#EXTINF:-1,POLAND: Hbo 2 HD
-http://4k-sat.com:8000/dferran/dferran/11419
-#EXTINF:-1,POLAND: FILMBOX PREMIER
-http://4k-sat.com:8000/dferran/dferran/11420
-#EXTINF:-1,POLAND: FILMBOX FAMILY
-http://4k-sat.com:8000/dferran/dferran/11421
-#EXTINF:-1,POLAND: FILMBOX ACTION
-http://4k-sat.com:8000/dferran/dferran/11422
-#EXTINF:-1,POLAND: Extreme Sports
-http://4k-sat.com:8000/dferran/dferran/11424
-#EXTINF:-1,POLAND: ELEVEN SPORT 2 HD
-http://4k-sat.com:8000/dferran/dferran/11427
-#EXTINF:-1,POLAND: ELEVEN SPORT 1 HD
-http://4k-sat.com:8000/dferran/dferran/11428
-#EXTINF:-1,POLAND: ELEVEN SPORT 3 HD
-http://4k-sat.com:8000/dferran/dferran/11429
-#EXTINF:-1,POLAND: POLSATSPORTEXTRA
-http://4k-sat.com:8000/dferran/dferran/11430
-#EXTINF:-1,POLAND: POLSAT2
-http://4k-sat.com:8000/dferran/dferran/11431
-#EXTINF:-1,POLAND: POLSAT SPORTS NEWS
-http://4k-sat.com:8000/dferran/dferran/11432
-#EXTINF:-1,POLAND: POLSAT ROMANS
-http://4k-sat.com:8000/dferran/dferran/11433
-#EXTINF:-1,POLAND: POLSAT NEWS
-http://4k-sat.com:8000/dferran/dferran/11434
-#EXTINF:-1,POLAND: POLSAT CAFE
-http://4k-sat.com:8000/dferran/dferran/11435
-#EXTINF:-1,POLAND:  NSPORT
-http://4k-sat.com:8000/dferran/dferran/11436
-#EXTINF:-1,POLAND: N SPORT
-http://4k-sat.com:8000/dferran/dferran/11437
-#EXTINF:-1,POLAND: NATIONALGEO
-http://4k-sat.com:8000/dferran/dferran/11438
-#EXTINF:-1,POLAND: HBO3
-http://4k-sat.com:8000/dferran/dferran/11439
-#EXTINF:-1,POLAND: HBO2
-http://4k-sat.com:8000/dferran/dferran/11440
-#EXTINF:-1,POLAND: HBO
-http://4k-sat.com:8000/dferran/dferran/11441
-#EXTINF:-1,POLAND: FILMBOX PREIMUIM
-http://4k-sat.com:8000/dferran/dferran/11442
-#EXTINF:-1,POLAND: FILMBOX FAMILI
-http://4k-sat.com:8000/dferran/dferran/11443
-#EXTINF:-1,POLAND: COMEDT CENTRAL
-http://4k-sat.com:8000/dferran/dferran/11445
-#EXTINF:-1,POLAND: CINEMAX 2
-http://4k-sat.com:8000/dferran/dferran/11446
-#EXTINF:-1,POLAND: Cartoon Network HD
-http://4k-sat.com:8000/dferran/dferran/11448
-#EXTINF:-1,POLAND: POLSAT FILM HD
-http://4k-sat.com:8000/dferran/dferran/11449
-#EXTINF:-1,POLAND: CBS REALITY
-http://4k-sat.com:8000/dferran/dferran/11450
-#EXTINF:-1,POLAND: CANAL  SPORT 2  HD
-http://4k-sat.com:8000/dferran/dferran/11451
-#EXTINF:-1,POLAND: Canal  Sport
-http://4k-sat.com:8000/dferran/dferran/11453
-#EXTINF:-1,POLAND: CANAL DISCOVERY
-http://4k-sat.com:8000/dferran/dferran/11454
-#EXTINF:-1,POLAND: CANAL SERIALE
-http://4k-sat.com:8000/dferran/dferran/11455
-#EXTINF:-1,POLAND: CANAL SERIALE HD
-http://4k-sat.com:8000/dferran/dferran/11456
-#EXTINF:-1,POLAND: CANAL FILM HD
-http://4k-sat.com:8000/dferran/dferran/11457
-#EXTINF:-1,POLAND: CANAL FAMILI
-http://4k-sat.com:8000/dferran/dferran/11458
-#EXTINF:-1,POLAND: CANAL FAMILY HD
-http://4k-sat.com:8000/dferran/dferran/11459
-#EXTINF:-1,POLAND: Canal Discovery HD
-http://4k-sat.com:8000/dferran/dferran/11460
-#EXTINF:-1,POLAND: CANAL
-http://4k-sat.com:8000/dferran/dferran/11461
-#EXTINF:-1,POLAND: Canal  HD
-http://4k-sat.com:8000/dferran/dferran/11462
-#EXTINF:-1,POLAND: BBC EARTH
-http://4k-sat.com:8000/dferran/dferran/11463
-#EXTINF:-1,POLAND: BBC
-http://4k-sat.com:8000/dferran/dferran/11464
-#EXTINF:-1,POLAND: AXN WHITE
-http://4k-sat.com:8000/dferran/dferran/11465
-#EXTINF:-1,POLAND: AXN BLACK
-http://4k-sat.com:8000/dferran/dferran/11466
-#EXTINF:-1,POLAND: AXN
-http://4k-sat.com:8000/dferran/dferran/11467
-#EXTINF:-1,POLAND: ALIE KINO
-http://4k-sat.com:8000/dferran/dferran/11468
-#EXTINF:-1,POLAND: ALE KINO
-http://4k-sat.com:8000/dferran/dferran/11469
-#EXTINF:-1,POLAND: 13ULICE
-http://4k-sat.com:8000/dferran/dferran/11470
-#EXTINF:-1,USA:  5 STARMAX
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11302
-#EXTINF:-1,USA:  ACTION MAX
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11303
-#EXTINF:-1,USA:  CINEMAX EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11304
-#EXTINF:-1,USA:  CINEMAX WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11305
-#EXTINF:-1,USA:  MORE MAX
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11306
-#EXTINF:-1,USA:  OUTERMAX
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11307
-#EXTINF:-1,USA:  THRILLER MAX
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11308
-#EXTINF:-1,USA:  EPIX
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11309
-#EXTINF:-1,USA:  EPIX HITS
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11311
-#EXTINF:-1,USA:  EPIX2
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11312
-#EXTINF:-1,USA:  SHOWTIME EXTREME
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11313
-#EXTINF:-1,USA:  SHOWTIME BEYOND
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11314
-#EXTINF:-1,USA:  STARZ WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11315
-#EXTINF:-1,USA:  SHOWTIME EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11316
-#EXTINF:-1,USA:  SHOWTIME WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11317
-#EXTINF:-1,USA:  STARZ ENCORE WESTERNS
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11318
-#EXTINF:-1,USA:  STARZENCORE SUSPENSE
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11319
-#EXTINF:-1,USA:  STARZENCORE FAMILY
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11320
-#EXTINF:-1,USA:  STARZENCORE CLASSIC
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11321
-#EXTINF:-1,USA:  STARZ ENCORE ACTION
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11323
-#EXTINF:-1,USA:  STARZ ENCORE
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11324
-#EXTINF:-1,USA:  STARZ KIDS&FAMILY
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11325
-#EXTINF:-1,USA:  STARZ IN BLACK
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11326
-#EXTINF:-1,USA:  STARZ EDGE
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11327
-#EXTINF:-1,USA:  SHOWTIME WOMEN
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11328
-#EXTINF:-1,USA:  STARZ COMEDY
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11329
-#EXTINF:-1,USA:  STARZ EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11330
-#EXTINF:-1,USA:  SHOWTIME SHOWCASE
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11331
-#EXTINF:-1,USA:  SHOWTIME NEXT
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11332
-#EXTINF:-1,USA:  SHOWTIME FAMILY ZONE
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11333
-#EXTINF:-1,USA:  HBO ZONE
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11334
-#EXTINF:-1,USA:  HBO WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11335
-#EXTINF:-1,USA:  HBO COMEDY
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11336
-#EXTINF:-1,USA:  HBO SIGNATURE
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11337
-#EXTINF:-1,USA:  HBO FAMILY
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11338
-#EXTINF:-1,USA: HBO 2
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11339
-#EXTINF:-1,USA: Chicago MY50 (WPWR)
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11340
-#EXTINF:-1,USA: New York MY9 (WWORDT)
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11341
-#EXTINF:-1,USA:  WGN 9
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11343
-#EXTINF:-1,USA: NFL Network
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11344
-#EXTINF:-1,USA: H2  
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11363
-#EXTINF:-1,USA: Nat Geo Wild  
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11364
-#EXTINF:-1,USA:  BBC AMERICA
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11489
-#EXTINF:-1,USA:  BET EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11490
-#EXTINF:-1,USA:  BET WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11491
-#EXTINF:-1,USA:  BET HER
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11492
-#EXTINF:-1,USA:  BET JAMS
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11493
-#EXTINF:-1,USA:  BET SOUL
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11494
-#EXTINF:-1,USA:  BLOOMBERG
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11495
-#EXTINF:-1,USA:  BOOMERANG
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11496
-#EXTINF:-1,USA:  BOUNCE
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11497
-#EXTINF:-1,USA:  BRAVO WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11498
-#EXTINF:-1,USA:  BUZZR
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11499
-#EXTINF:-1,USA:  CNBC
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11500
-#EXTINF:-1,USA:  CNBC WORLD
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11501
-#EXTINF:-1,USA: COMEDY CENTRAL
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11503
-#EXTINF:-1,USA:  COMET
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11504
-#EXTINF:-1,USA:  COOKING CHANNEL
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11505
-#EXTINF:-1,USA:  COZI TV
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11506
-#EXTINF:-1,USA:  DISCOVERY CHANNEL EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11507
-#EXTINF:-1,USA:  DISCOVERY CHANNEL WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11508
-#EXTINF:-1,USA:  DISCOVERY ID EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11509
-#EXTINF:-1,USA:  DISCOVERY LIFE
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11510
-#EXTINF:-1,USA:  DISNEY CHANNEL WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11511
-#EXTINF:-1,USA:  DISNEY JR EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11512
-#EXTINF:-1,USA:  FXM
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11513
-#EXTINF:-1,USA:  FXX EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11514
-#EXTINF:-1,USA:  FXX WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11515
-#EXTINF:-1,USA:  FYI
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11516
-#EXTINF:-1,USA: GRIT [264:
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11517
-#EXTINF:-1,USA:  GSN
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11518
-#EXTINF:-1,USA:  HALLMARK DRAMA
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11519
-#EXTINF:-1,USA:  HALLMARK EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11520
-#EXTINF:-1,USA:  HALLMARK MOVIES AND MYSTERIES
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11521
-#EXTINF:-1,USA:  HBO EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11522
-#EXTINF:-1,USA:  INSP
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11523
-#EXTINF:-1,USA:  MTV2
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11524
-#EXTINF:-1,USA:  MTV U
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11525
-#EXTINF:-1,USA:  NAT GEO WILD
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11526
-#EXTINF:-1,USA:  NATIONAL GEOGRAPHIC EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11527
-#EXTINF:-1,USA:  NATIONAL GEOGRAPHIC WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11528
-#EXTINF:-1,USA:  NESN
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11529
-#EXTINF:-1,USA:  NEWSY
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11530
-#EXTINF:-1,USA:  NICK JR EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11531
-#EXTINF:-1,USA:  NICKELODEON EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11532
-#EXTINF:-1,USA:  NICKELODEON WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11533
-#EXTINF:-1,USA:  NICK MUSIC
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11534
-#EXTINF:-1,USA:  NICKTOONS
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11535
-#EXTINF:-1,USA:  ONE AMERICA NEWS
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11536
-#EXTINF:-1,USA:  OUTDOOR CHANNEL
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11537
-#EXTINF:-1,USA:  OUTSIDE TV
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11538
-#EXTINF:-1,USA:  OWN
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11539
-#EXTINF:-1,USA:  OXYGEN EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11540
-#EXTINF:-1,USA:  OXYGEN WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11541
-#EXTINF:-1,USA:  PARAMOUNT CHANNEL
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11542
-#EXTINF:-1,USA:  PBS KIDS
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11543
-#EXTINF:-1,USA:  PEOPLE TV
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11544
-#EXTINF:-1,USA:  POP
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11545
-#EXTINF:-1,USA:  PURSUIT
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11546
-#EXTINF:-1,USA:  REELZ
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11547
-#EXTINF:-1,USA:  REVOLT
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11548
-#EXTINF:-1,USA:  SCIENCE
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11549
-#EXTINF:-1,USA:  SMITHSONIAN EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11550
-#EXTINF:-1,USA:  SMITHSONIAN WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11551
-#EXTINF:-1,USA:  SUNDANCE
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11553
-#EXTINF:-1,USA:  SYFY EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11554
-#EXTINF:-1,USA:  SYFY WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11555
-#EXTINF:-1,USA:  TASTEMADE EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11556
-#EXTINF:-1,USA:  TBS EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11557
-#EXTINF:-1,USA:  TBS WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11558
-#EXTINF:-1,USA:  TCM
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11559
-#EXTINF:-1,USA:  TEEN NICK
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11560
-#EXTINF:-1,USA:  TLC EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11561
-#EXTINF:-1,USA:  TLC WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11562
-#EXTINF:-1,USA:  TNT EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11563
-#EXTINF:-1,USA:  TNT WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11564
-#EXTINF:-1,USA:  TRAVEL CHANNEL EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11565
-#EXTINF:-1,USA:  TRAVEL CHANNEL WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11566
-#EXTINF:-1,USA:  TRUTV EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11567
-#EXTINF:-1,USA:  TRUTV WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11568
-#EXTINF:-1,USA:  TV LAND EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11569
-#EXTINF:-1,USA:  VH1 EAST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11570
-#EXTINF:-1,USA: VH1 WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11571
-#EXTINF:-1,USA:  WE TV
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11572
-#EXTINF:-1,USA:  WEATHER CHANNEL
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11573
-#EXTINF:-1,USA:  ACC NETWORK
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11574
-#EXTINF:-1,USA:  BIG TEN NETWORK
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11575
-#EXTINF:-1,USA:  FIGHT NETWORK
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11576
-#EXTINF:-1,USA:  GOLF CHANNEL
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11577
-#EXTINF:-1,USA:  LONGHORN NETWORK
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11578
-#EXTINF:-1,USA:  MAV TV
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11579
-#EXTINF:-1,USA:  NBCSN WASHINGTON
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11580
-#EXTINF:-1,USA: TSN 1
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11581
-#EXTINF:-1,USA: TSN 2
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11582
-#EXTINF:-1,USA: TSN 3
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11583
-#EXTINF:-1,USA: TSN 4
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11584
-#EXTINF:-1,USA:  FOX SPORTS Carolina
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11586
-#EXTINF:-1,USA:  FOX SPORTS DETROIT
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11587
-#EXTINF:-1,USA:  FOX SPORTS MIDWEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11588
-#EXTINF:-1,USA:  FOX SPORTS NORTH
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11589
-#EXTINF:-1,USA:  FOX SPORTS NORTH CAROLINA
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11590
-#EXTINF:-1,USA:  FOX SPORTS OHIO
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11591
-#EXTINF:-1,USA: BALLY SPORTS OKLAHOMA
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11592
-#EXTINF:-1,USA:  FOX SPORTS PRIME TICKET
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11593
-#EXTINF:-1,USA:  FOX SPORTS SAN ANTONIO
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11594
-#EXTINF:-1,USA:  FOX SPORTS SAN DIEGO
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11595
-#EXTINF:-1,USA:  FOX SPORTS SOUTH
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11596
-#EXTINF:-1,USA:  FOX SPORTS SOUTH CAROLINA
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11597
-#EXTINF:-1,USA:  FOX SPORTS SOUTHWEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11599
-#EXTINF:-1,USA:  FOX SPORTS SOUTHWEST PLUS
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11600
-#EXTINF:-1,USA:  FOX SPORTS SPORTSTIME OHIO
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11601
-#EXTINF:-1,USA:  FOX SPORTS TENNESSEE
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11603
-#EXTINF:-1,USA:  FOX SPORTS WEST
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11604
-#EXTINF:-1,USA:  FOX SPORTS DETROIT
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11606
-#EXTINF:-1,USA:  FOX SPORTS FLORIDA
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11607
-#EXTINF:-1,USA:  FOX SPORTS SUN
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11608
+#EXTINF:-1,Pl:TELE 5
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71226
+#EXTINF:-1,Pl:Nuta TV
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71227
+#EXTINF:-1,Pl:KSW PPV FHD [ Match Time ]
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71228
+#EXTINF:-1,Pl:Polsat Sport Premium PPV 6
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71229
+#EXTINF:-1,Pl:Polsat Sport Premium PPV 5
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71230
+#EXTINF:-1,Pl:Polsat Sport Premium PPV 4
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71231
+#EXTINF:-1,Pl:Polsat Sport Premium PPV 3
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71232
+#EXTINF:-1,Pl:Polsat Sport Premium 2 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71233
+#EXTINF:-1,Pl:Polsat Sport Premium 1 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71234
+#EXTINF:-1,Pl:teleTOON+ FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71235
+#EXTINF:-1,Pl:nSport+
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71236
+#EXTINF:-1,Pl:wPolsce.pl
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71237
+#EXTINF:-1,Pl:Zoom TV
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71238
+#EXTINF:-1,Pl:WP
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71239
+#EXTINF:-1,Pl:VOX Music TV
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71240
+#EXTINF:-1,Pl:NOVELA TV
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71241
+#EXTINF:-1,Pl:VH1
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71242
+#EXTINF:-1,Pl:VOD 208
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71244
+#EXTINF:-1,Pl:VOD 207
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71245
+#EXTINF:-1,Pl:VOD 206
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71246
+#EXTINF:-1,Pl:VOD 205
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71247
+#EXTINF:-1,Pl:Da Vinci
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71250
+#EXTINF:-1,Pl:Travel Channel FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71251
+#EXTINF:-1,Pl:TVS
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71252
+#EXTINF:-1,Pl:TVP Sport HD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71253
+#EXTINF:-1,Pl:TVP Sport FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71254
+#EXTINF:-1,Pl:TVP SERIALE
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71255
+#EXTINF:-1,Pl:TVP Rozrywka
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71256
+#EXTINF:-1,Pl:TVP Kultura
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71257
+#EXTINF:-1,Pl:TVP INFO FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71258
+#EXTINF:-1,Pl:TVP Historia
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71259
+#EXTINF:-1,Pl:TVP FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71260
+#EXTINF:-1,Pl:TVP ABC
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71261
+#EXTINF:-1,Pl:TV6
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71262
+#EXTINF:-1,Pl:TV4 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71263
+#EXTINF:-1,Pl:TV Republika
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71264
+#EXTINF:-1,Pl:TV PULS FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71265
+#EXTINF:-1,Pl:TVP 3
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71266
+#EXTINF:-1,Pl:TVP 2 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71267
+#EXTINF:-1,Pl:TVP 1 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71268
+#EXTINF:-1,Pl:TVN24 BiS FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71269
+#EXTINF:-1,Pl:TVN Turbo FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71270
+#EXTINF:-1,Pl:TVN Style FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71271
+#EXTINF:-1,Pl:TVN FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71272
+#EXTINF:-1,Pl:TVN Fabula
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71273
+#EXTINF:-1,Pl:TVN 7 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71274
+#EXTINF:-1,Pl:TVN 24 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71275
+#EXTINF:-1,Pl:TV Okazje
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71276
+#EXTINF:-1,Pl:TTV FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71277
+#EXTINF:-1,Pl:TNT FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71278
+#EXTINF:-1,Pl:TLC FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71279
+#EXTINF:-1,Pl:Superstacja
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71280
+#EXTINF:-1,Pl:Super Polsat
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71281
+#EXTINF:-1,Pl:Sundance FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71282
+#EXTINF:-1,Pl:Stopklatka
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71283
+#EXTINF:-1,Pl:Sportklub FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71284
+#EXTINF:-1,Pl:SciFi FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71285
+#EXTINF:-1,Pl:Stars TV
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71286
+#EXTINF:-1,Pl:Romance TV
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71287
+#EXTINF:-1,Pl:Red Carpet TV
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71288
+#EXTINF:-1,Pl:Puls 2
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71289
+#EXTINF:-1,Pl:Polsat Viasat Nature FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71290
+#EXTINF:-1,Pl:Polsat Viasat History FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71291
+#EXTINF:-1,Pl:Polsat Viasat Explore FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71292
+#EXTINF:-1,Pl:Polsat Sport News FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71293
+#EXTINF:-1,Pl:Polsat Sport FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71294
+#EXTINF:-1,Pl:Polsat Sport Fight HD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71295
+#EXTINF:-1,Pl:Polsat Sport Fight FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71296
+#EXTINF:-1,Pl:Polsat Sport Extra HD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71297
+#EXTINF:-1,Pl:Polsat Sport Extra FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71298
+#EXTINF:-1,Pl:Polsat Romans
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71299
+#EXTINF:-1,Pl:Polsat Rodzina
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71300
+#EXTINF:-1,Pl:Polsat Jim Jam
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71301
+#EXTINF:-1,Pl:Polsat Doku FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71302
+#EXTINF:-1,Pl:Polsat Comedy Central Extra
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71303
+#EXTINF:-1,Pl:Polsat Seriale
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71304
+#EXTINF:-1,Pl:Polsat Play HD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71305
+#EXTINF:-1,Pl:Polsat Play FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71306
+#EXTINF:-1,Pl:Polsat News FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71307
+#EXTINF:-1,Pl:Polsat News 2
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71308
+#EXTINF:-1,Pl:Polsat Music FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71309
+#EXTINF:-1,Pl:Polsat Games
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71310
+#EXTINF:-1,Pl:Polsat Film FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71311
+#EXTINF:-1,Pl:Polsat Cafe FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71312
+#EXTINF:-1,Pl:Polsat 2 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71313
+#EXTINF:-1,Pl:Polsat FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71314
+#EXTINF:-1,Pl:Polo TV
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71315
+#EXTINF:-1,Pl:Planete+ FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71316
+#EXTINF:-1,Pl:Paramount Channel FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71317
+#EXTINF:-1,Pl:Nicktoons FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71318
+#EXTINF:-1,Pl:Nickelodeon
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71319
+#EXTINF:-1,Pl:Nick Jr
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71320
+#EXTINF:-1,Pl:Nowa TV
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71321
+#EXTINF:-1,Pl:Nat Geo People FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71322
+#EXTINF:-1,Pl:Nat Geo Wild FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71323
+#EXTINF:-1,Pl:NATIONAL GEO FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71324
+#EXTINF:-1,Pl:Motowizja FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71325
+#EXTINF:-1,Pl:MTV Rocks
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71326
+#EXTINF:-1,Pl:MTV Polska FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71327
+#EXTINF:-1,Pl:MTV Music 24
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71328
+#EXTINF:-1,Pl:MTV Live FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71329
+#EXTINF:-1,Pl:MiniMini+ FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71330
+#EXTINF:-1,Pl:Metro
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71331
+#EXTINF:-1,Pl:Lifetime FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71332
+#EXTINF:-1,Pl:Kuchnia+ FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71333
+#EXTINF:-1,Pl:Kino TV FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71334
+#EXTINF:-1,Pl:Kino Polska Muzyka
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71335
+#EXTINF:-1,Pl:KINO POLSKA FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71336
+#EXTINF:-1,Pl:ID FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71337
+#EXTINF:-1,Pl:HGTV FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71338
+#EXTINF:-1,Pl:History 2 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71339
+#EXTINF:-1,Pl:History FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71340
+#EXTINF:-1,Pl:HBO3 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71341
+#EXTINF:-1,Pl:HBO2 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71342
+#EXTINF:-1,Pl:HBO FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71343
+#EXTINF:-1,Pl:Golf Channel
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71344
+#EXTINF:-1,Pl:Food Network FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71345
+#EXTINF:-1,Pl:Fokus TV
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71346
+#EXTINF:-1,Pl:Fox Comedy FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71347
+#EXTINF:-1,Pl:Fox Comedy
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71348
+#EXTINF:-1,Pl:FOX FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71349
+#EXTINF:-1,Pl:FOX
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71350
+#EXTINF:-1,Pl:Filmbox Premium FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71351
+#EXTINF:-1,Pl:Filmbox Arthouse
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71352
+#EXTINF:-1,Pl:FilmBox Family
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71353
+#EXTINF:-1,Pl:FilmBox Extra FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71354
+#EXTINF:-1,Pl:FilmBox Action
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71355
+#EXTINF:-1,Pl:Fightbox FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71356
+#EXTINF:-1,Pl:Fightklub FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71357
+#EXTINF:-1,Pl:Extreme Sports HD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71358
+#EXTINF:-1,Pl:Extreme Sports FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71359
+#EXTINF:-1,Pl:Eska TV Extra
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71364
+#EXTINF:-1,Pl:Eska TV
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71365
+#EXTINF:-1,Pl:Eska Rock
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71366
+#EXTINF:-1,Pl:Epic Drama FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71367
+#EXTINF:-1,Pl:ELEVEN SPORTS 4 HD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71368
+#EXTINF:-1,Pl:ELEVEN SPORTS 4 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71369
+#EXTINF:-1,Pl:Eleven Sports 3 HD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71370
+#EXTINF:-1,Pl:Eleven Sports 3 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71371
+#EXTINF:-1,Pl:Eleven Sports 2 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71372
+#EXTINF:-1,Pl:Eleven Sports 1 HD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71373
+#EXTINF:-1,Pl:Eleven Sports 1 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71374
+#EXTINF:-1,Pl:E! Entertainment FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71375
+#EXTINF:-1,Pl:Disney XD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71376
+#EXTINF:-1,Pl:Disney Junior
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71377
+#EXTINF:-1,Pl:Disney Channel FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71378
+#EXTINF:-1,Pl:Discovery Life FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71379
+#EXTINF:-1,Pl:Discovery Historia
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71380
+#EXTINF:-1,Pl:Discovery Science FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71381
+#EXTINF:-1,Pl:Discovery FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71382
+#EXTINF:-1,Pl:Disco Polo Music
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71383
+#EXTINF:-1,Pl:DTX FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71384
+#EXTINF:-1,Pl:DOMO+ FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71385
+#EXTINF:-1,Pl:Comedy Central FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71386
+#EXTINF:-1,Pl:Cinemax 2 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71387
+#EXTINF:-1,Pl:Cinemax FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71388
+#EXTINF:-1,Pl:Cartoon Network FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71389
+#EXTINF:-1,Pl:CI Polsat FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71390
+#EXTINF:-1,Pl:CBS Reality FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71391
+#EXTINF:-1,Pl:CBS Europa FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71392
+#EXTINF:-1,Pl:Canal+ Seriale FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71393
+#EXTINF:-1,Pl:CANAL+ SPORT 3 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/111271
+#EXTINF:-1,Pl:CANAL+ SPORT 4 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/111272
+#EXTINF:-1,Pl:Canal+ Sport 2 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71394
+#EXTINF:-1,Pl:Canal+ Sport 1 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71395
+#EXTINF:-1,Pl:Canal+ Premium FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71396
+#EXTINF:-1,Pl:Canal+ Now FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71397
+#EXTINF:-1,Pl:Canal+1 FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71398
+#EXTINF:-1,Pl:Canal+ Family FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71399
+#EXTINF:-1,Pl:Canal+ Dokument FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71400
+#EXTINF:-1,Pl:Boomerang FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71401
+#EXTINF:-1,Pl:BBC Cbeebies
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71402
+#EXTINF:-1,Pl:BBC Brit FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71403
+#EXTINF:-1,Pl:BBC FIRST FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71404
+#EXTINF:-1,Pl:BBC Earth FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71405
+#EXTINF:-1,Pl:Ale kino+ FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71406
+#EXTINF:-1,Pl:ATM Rozrywka TV
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71407
+#EXTINF:-1,Pl:AMC FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71408
+#EXTINF:-1,Pl:Animal Planet FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71409
+#EXTINF:-1,Pl:Adventure FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71410
+#EXTINF:-1,Pl:Active Family
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71411
+#EXTINF:-1,Pl:AXN White
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71412
+#EXTINF:-1,Pl:AXN SPIN FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71413
+#EXTINF:-1,Pl:AXN Black
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71414
+#EXTINF:-1,Pl:AXN
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71415
+#EXTINF:-1,Pl:AXN FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71416
+#EXTINF:-1,Pl:4Fun.TV
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71417
+#EXTINF:-1,Pl:4Fun Gold Hits
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71418
+#EXTINF:-1,Pl:4Fun Dance
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71419
+#EXTINF:-1,Pl:13 Ulica FHD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71420
+#EXTINF:-1,Pl:Polsat Sport HD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/33575
+#EXTINF:-1,Pl:Polsat Sport News HD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/33576
