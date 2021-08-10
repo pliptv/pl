@@ -7,567 +7,147 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
 #EXTINF:-1 ,TVP3 Szczecin
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
-#EXTINF:-1,PL: TVP 1 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181846
-#EXTINF:-1,PL: TVP 1 PREMIERA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181847
-#EXTINF:-1,PL: TVP 2 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181848
-#EXTINF:-1,PL: TVP 3
-http://ata.mobytech.eu:8080/gokselv4/01082020/181849
-#EXTINF:-1,PL: TVP 3 BIAŁYSTOK
-http://ata.mobytech.eu:8080/gokselv4/01082020/181850
-#EXTINF:-1,PL: TVP 3 KATOWICE
-http://ata.mobytech.eu:8080/gokselv4/01082020/181851
-#EXTINF:-1,PL: TVP 3 KIELCE
-http://ata.mobytech.eu:8080/gokselv4/01082020/181852
-#EXTINF:-1,PL: TVP 3 KRAKOW
-http://ata.mobytech.eu:8080/gokselv4/01082020/181853
-#EXTINF:-1,PL: TVP 3 LUBLIN
-http://ata.mobytech.eu:8080/gokselv4/01082020/181854
-#EXTINF:-1,PL: TVP 3 OLSZTYN
-http://ata.mobytech.eu:8080/gokselv4/01082020/181855
-#EXTINF:-1,PL: TVP 3 OPOLE
-http://ata.mobytech.eu:8080/gokselv4/01082020/181856
-#EXTINF:-1,PL: TVP 3 POZNAŃ
-http://ata.mobytech.eu:8080/gokselv4/01082020/181857
-#EXTINF:-1,PL: TVP 3 RZESOW
-http://ata.mobytech.eu:8080/gokselv4/01082020/181858
-#EXTINF:-1,PL: TVP 3 WARSZAWA
-http://ata.mobytech.eu:8080/gokselv4/01082020/181859
-#EXTINF:-1,PL: TVP 3 WROCŁAW
-http://ata.mobytech.eu:8080/gokselv4/01082020/181860
-#EXTINF:-1,PL: TVP ABC HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181861
-#EXTINF:-1,PL: TVP FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181862
-#EXTINF:-1,PL: TVP HISTORY HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181863
-#EXTINF:-1,PL: TVP HISTORY HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181864
-#EXTINF:-1,PL: TVP INFO FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181865
-#EXTINF:-1,PL: TVP KULTURA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181866
-#EXTINF:-1,PL: TVP POLONIA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181867
-#EXTINF:-1,PL: TVP ROZRYWKA HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181868
-#EXTINF:-1,PL: TVP SERIALE HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181869
-#EXTINF:-1,PL: 13 ULICA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181870
-#EXTINF:-1,PL: 24 KITCHEN HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181871
-#EXTINF:-1,PL: 24 KITCHEN HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181872
-#EXTINF:-1,PL: 4FUN DANCE
-http://ata.mobytech.eu:8080/gokselv4/01082020/181873
-#EXTINF:-1,PL: 4FUN GOLD HITS
-http://ata.mobytech.eu:8080/gokselv4/01082020/181874
-#EXTINF:-1,PL: 4FUN KIDS
-http://ata.mobytech.eu:8080/gokselv4/01082020/181875
-#EXTINF:-1,PL: 4FUN KIDS
-http://ata.mobytech.eu:8080/gokselv4/01082020/181876
-#EXTINF:-1,PL: 4FUN TV HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181877
-#EXTINF:-1,PL: 4FUN TV HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181878
-#EXTINF:-1,PL: ACTIVE FAMILY
-http://ata.mobytech.eu:8080/gokselv4/01082020/181879
-#EXTINF:-1,PL: ADVENTURE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181880
-#EXTINF:-1,PL: ALE KINO+ FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181881
-#EXTINF:-1,PL: AMC HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181882
-#EXTINF:-1,PL: ANIMAL PLANET FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181883
-#EXTINF:-1,PL: ANIMAL PLANET FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181884
-#EXTINF:-1,PL: ATM ROZRYWKA
-http://ata.mobytech.eu:8080/gokselv4/01082020/181885
-#EXTINF:-1,PL: AXN BLACK HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181886
-#EXTINF:-1,PL: AXN FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181887
-#EXTINF:-1,PL: AXN SPIN FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181888
-#EXTINF:-1,PL: AXN WHITE HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181889
-#EXTINF:-1,PL: BABY TV HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181890
-#EXTINF:-1,PL: BABY TV HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181891
-#EXTINF:-1,PL: BBC BRIT FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181892
-#EXTINF:-1,PL: BBC BRIT FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181893
-#EXTINF:-1,PL: BBC CBEEBIES HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181894
-#EXTINF:-1,PL: BBC CBEEBIES HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181895
-#EXTINF:-1,PL: BBC EARTH FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181896
-#EXTINF:-1,PL: BBC EARTH FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181897
-#EXTINF:-1,PL: BBC FIRST FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181898
-#EXTINF:-1,PL: BBC LIFESTYLE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181899
-#EXTINF:-1,PL: BBC LIFESTYLE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181900
-#EXTINF:-1,PL: BLAZE HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181901
-#EXTINF:-1,PL: BOOMERANG FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181902
-#EXTINF:-1,PL: CAFE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181903
-#EXTINF:-1,PL: CANAL+ 1 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181904
-#EXTINF:-1,PL: CANAL+ DOKUMENT FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181905
-#EXTINF:-1,PL: CANAL+ FAMILY FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181906
-#EXTINF:-1,PL: CANAL+ FILM FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181907
-#EXTINF:-1,PL: CANAL+ NOW FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181908
-#EXTINF:-1,PL: CANAL+ PREMIUM FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181909
-#EXTINF:-1,PL: CANAL+ SERIALE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181910
-#EXTINF:-1,PL: CANAL+ SPORT 2 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181911
-#EXTINF:-1,PL: CANAL+ SPORT 3 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181912
-#EXTINF:-1,PL: CANAL+ SPORT 4 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181913
-#EXTINF:-1,PL: CANAL+ SPORT HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181914
-#EXTINF:-1,PL: CANAL+ SPORT HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181915
-#EXTINF:-1,PL: CARTOON NETWORK FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181916
-#EXTINF:-1,PL: CARTOON NETWORK FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181917
-#EXTINF:-1,PL: CBS EUROPA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181918
-#EXTINF:-1,PL: CBS REALITY FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181919
-#EXTINF:-1,PL: CI POLSAT HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181920
-#EXTINF:-1,PL: CINEMAX 1 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181921
-#EXTINF:-1,PL: CINEMAX 2 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181922
-#EXTINF:-1,PL: COMEDY CENTERAL FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181923
-#EXTINF:-1,PL: COMEDY CENTRAL EXTRA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181924
-#EXTINF:-1,PL: COMEDY CENTRAL FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181925
-#EXTINF:-1,PL: CRIME+ INVESTIGATION FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181926
-#EXTINF:-1,PL: DA VINCI KIDS HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181927
-#EXTINF:-1,PL: DISCO POLO MUSIC HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181928
-#EXTINF:-1,PL: DISCO POLO MUSIC HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181929
-#EXTINF:-1,PL: DISCOVERY CHANNEL FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181930
-#EXTINF:-1,PL: DISCOVERY CHANNEL FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181931
-#EXTINF:-1,PL: DISCOVERY HISTORIA
-http://ata.mobytech.eu:8080/gokselv4/01082020/181932
-#EXTINF:-1,PL: DISCOVERY HISTORY +1
-http://ata.mobytech.eu:8080/gokselv4/01082020/181933
-#EXTINF:-1,PL: DISCOVERY HISTORY +1
-http://ata.mobytech.eu:8080/gokselv4/01082020/181934
-#EXTINF:-1,PL: DISCOVERY LIFE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181935
-#EXTINF:-1,PL: DISCOVERY LIFE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181936
-#EXTINF:-1,PL: DISCOVERY SCIENCE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181937
-#EXTINF:-1,PL: DISCOVERY SCIENCE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181938
-#EXTINF:-1,PL: DISCOVERY TURBO XTRA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181939
-#EXTINF:-1,PL: DISCOVERY TURBO XTRA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181940
-#EXTINF:-1,PL: DISCOVERY WORLD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181941
-#EXTINF:-1,PL: DISNEY CHANNEL HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181942
-#EXTINF:-1,PL: DISNEY CHANNEL HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181943
-#EXTINF:-1,PL: DISNEY JUNIOR
-http://ata.mobytech.eu:8080/gokselv4/01082020/181944
-#EXTINF:-1,PL: DISNEY JUNIOR
-http://ata.mobytech.eu:8080/gokselv4/01082020/181945
-#EXTINF:-1,PL: DISNEY XD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181946
-#EXTINF:-1,PL: DISNEY XD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181947
-#EXTINF:-1,PL: DOMO FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181948
-#EXTINF:-1,PL: E! FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181949
-#EXTINF:-1,PL: E! FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181950
-#EXTINF:-1,PL: ELEVEN SPORTS 1 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181951
-#EXTINF:-1,PL: ELEVEN SPORTS 2 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181952
-#EXTINF:-1,PL: ELEVEN SPORTS 3 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181953
-#EXTINF:-1,PL: ELEVEN SPORTS 4 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181954
-#EXTINF:-1,PL: EPIC DRAMA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181955
-#EXTINF:-1,PL: ESKA ROCK TV
-http://ata.mobytech.eu:8080/gokselv4/01082020/181956
-#EXTINF:-1,PL: ESKA ROCK TV
-http://ata.mobytech.eu:8080/gokselv4/01082020/181957
-#EXTINF:-1,PL: ESKA TV HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181958
-#EXTINF:-1,PL: ESKA TV HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181959
-#EXTINF:-1,PL: EXTREME SPORTS FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181962
-#EXTINF:-1,PL: FIGHT BOX FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181963
-#EXTINF:-1,PL: FIGHT KLUB FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181964
-#EXTINF:-1,PL: FIGHT NETWORK HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181965
-#EXTINF:-1,PL: FILMBOX ACTION HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181966
-#EXTINF:-1,PL: FILMBOX ARTHOUSE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181967
-#EXTINF:-1,PL: FILMBOX EXTRA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181968
-#EXTINF:-1,PL: FILMBOX FAMILY HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181969
-#EXTINF:-1,PL: FILMBOX PREMIUM FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181970
-#EXTINF:-1,PL: FOKUS FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181971
-#EXTINF:-1,PL: FOKUS FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181972
-#EXTINF:-1,PL: FOOD NETWORK FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181973
-#EXTINF:-1,PL: FOX COMEDY FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181974
-#EXTINF:-1,PL: FOX FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181975
-#EXTINF:-1,PL: GEMPORIA HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181976
-#EXTINF:-1,PL: GOLD TV HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181977
-#EXTINF:-1,PL: HBO 1 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181978
-#EXTINF:-1,PL: HBO 2 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181979
-#EXTINF:-1,PL: HBO 3 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181980
-#EXTINF:-1,PL: HBO FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181981
-#EXTINF:-1,PL: HGTV FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181982
-#EXTINF:-1,PL: HGTV FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181983
-#EXTINF:-1,PL: HISTORY 2 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181984
-#EXTINF:-1,PL: HISTORY FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181985
-#EXTINF:-1,PL: HISTORY FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181986
-#EXTINF:-1,PL: INVESTIGATION DISCOVERY FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181987
-#EXTINF:-1,PL: INVESTIGATION DISCOVERY FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181988
-#EXTINF:-1,PL: KINO MUSIC
-http://ata.mobytech.eu:8080/gokselv4/01082020/181989
-#EXTINF:-1,PL: KINO MUSIC
-http://ata.mobytech.eu:8080/gokselv4/01082020/181990
-#EXTINF:-1,PL: KINO POLSKA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181991
-#EXTINF:-1,PL: KINO POLSKA MUZYKA
-http://ata.mobytech.eu:8080/gokselv4/01082020/181992
-#EXTINF:-1,PL: KINO TV FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181993
-#EXTINF:-1,PL: KUCHNIA+ FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181994
-#EXTINF:-1,PL: LIFETIME FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181995
-#EXTINF:-1,PL: METRO
-http://ata.mobytech.eu:8080/gokselv4/01082020/181996
-#EXTINF:-1,PL: MINIMINI FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181997
-#EXTINF:-1,PL: MINIMINI+ FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181998
-#EXTINF:-1,PL: MOTO WIZJA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/181999
-#EXTINF:-1,PL: MTV DANCE HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182000
-#EXTINF:-1,PL: MTV DANCE HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182001
-#EXTINF:-1,PL: MTV HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182002
-#EXTINF:-1,PL: MTV LIVE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182003
-#EXTINF:-1,PL: MTV LIVE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182004
-#EXTINF:-1,PL: MTV MUSIC
-http://ata.mobytech.eu:8080/gokselv4/01082020/182005
-#EXTINF:-1,PL: MTV MUSIC
-http://ata.mobytech.eu:8080/gokselv4/01082020/182006
-#EXTINF:-1,PL: MTV POLSKA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182007
-#EXTINF:-1,PL: MTV ROCKS
-http://ata.mobytech.eu:8080/gokselv4/01082020/182008
-#EXTINF:-1,PL: MTV ROCKS
-http://ata.mobytech.eu:8080/gokselv4/01082020/182009
-#EXTINF:-1,PL: MUSIC VOX TV HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182010
-#EXTINF:-1,PL: MUSIC VOX TV HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182011
-#EXTINF:-1,PL: NAT GEO FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182012
-#EXTINF:-1,PL: NAT GEO FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182013
-#EXTINF:-1,PL: NAT GEO PEOPLE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182014
-#EXTINF:-1,PL: NAT GEO PEOPLE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182015
-#EXTINF:-1,PL: NAT GEO WILD FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182016
-#EXTINF:-1,PL: NICK JUNIOR HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182017
-#EXTINF:-1,PL: NICK JUNIOR HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182018
-#EXTINF:-1,PL: NICKELODEON FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182019
-#EXTINF:-1,PL: NICKELODEON FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182020
-#EXTINF:-1,PL: NICKTOONS HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182021
-#EXTINF:-1,PL: NICKTOONS HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182022
-#EXTINF:-1,PL: NOVELA TV
-http://ata.mobytech.eu:8080/gokselv4/01082020/182023
-#EXTINF:-1,PL: NOWA TV
-http://ata.mobytech.eu:8080/gokselv4/01082020/182024
-#EXTINF:-1,PL: NSPORT+ FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182025
-#EXTINF:-1,PL: NUTA TV
-http://ata.mobytech.eu:8080/gokselv4/01082020/182026
-#EXTINF:-1,PL: PARAMOUNT CHANNEL FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182027
-#EXTINF:-1,PL: PLANETE+ FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182028
-#EXTINF:-1,PL: POLO TV FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182029
-#EXTINF:-1,PL: POLONIA 1
-http://ata.mobytech.eu:8080/gokselv4/01082020/182030
-#EXTINF:-1,PL: POLSAT 2 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182031
-#EXTINF:-1,PL: POLSAT CAFE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182032
-#EXTINF:-1,PL: POLSAT DOKU FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182033
-#EXTINF:-1,PL: POLSAT FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182034
-#EXTINF:-1,PL: POLSAT FILM FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182035
-#EXTINF:-1,PL: POLSAT GAMES FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182036
-#EXTINF:-1,PL: POLSAT JIMJAM HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182037
-#EXTINF:-1,PL: POLSAT JIMJAM HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182038
-#EXTINF:-1,PL: POLSAT MUSIC FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182039
-#EXTINF:-1,PL: POLSAT MUSIC FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182040
-#EXTINF:-1,PL: POLSAT NEWS 1 HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182041
-#EXTINF:-1,PL: POLSAT NEWS 2 HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182042
-#EXTINF:-1,PL: POLSAT NEWS FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182043
-#EXTINF:-1,PL: POLSAT PLAY FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182044
-#EXTINF:-1,PL: POLSAT PREMIUM 2 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182045
-#EXTINF:-1,PL: POLSAT RODZINA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182046
-#EXTINF:-1,PL: POLSAT SERIALE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182047
-#EXTINF:-1,PL: POLSAT SPOR HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182048
-#EXTINF:-1,PL: POLSAT SPORT EXTRA HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182049
-#EXTINF:-1,PL: POLSAT SPORT FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182050
-#EXTINF:-1,PL: POLSAT SPORT FIGHT FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182051
-#EXTINF:-1,PL: POLSAT SPORT NEWS HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182052
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM 1 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182053
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM 1 SUPER HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182054
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM 2 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182055
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM 3 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182056
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM 4 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182057
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM 5 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182058
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM 6 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182059
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM PPV 4 HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182060
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM PPV FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182061
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM PPV3 HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182062
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM PPV5 HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182063
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM PPV6 HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182064
-#EXTINF:-1,PL: POLSAT SUPER FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182065
-#EXTINF:-1,PL: POLSAT VIASAT EXPLORE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182066
-#EXTINF:-1,PL: POLSAT VIASAT HISTORY FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182067
-#EXTINF:-1,PL: POLSAT VIASAT HISTORY FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182068
-#EXTINF:-1,PL: POLSAT VIASAT NATURE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182069
-#EXTINF:-1,PL: POLSATAY FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182070
-#EXTINF:-1,PL: POWER TV HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182071
-#EXTINF:-1,PL: RED CARPET FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182072
-#EXTINF:-1,PL: ROMANCE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182073
-#EXTINF:-1,PL: SCI-FI FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182074
-#EXTINF:-1,PL: SIC MULHER
-http://ata.mobytech.eu:8080/gokselv4/01082020/182075
-#EXTINF:-1,PL: SIC RADICAL
-http://ata.mobytech.eu:8080/gokselv4/01082020/182076
-#EXTINF:-1,PL: SPORT KLUB FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182077
-#EXTINF:-1,PL: SPORT TV 1
-http://ata.mobytech.eu:8080/gokselv4/01082020/182078
-#EXTINF:-1,PL: STARS TV
-http://ata.mobytech.eu:8080/gokselv4/01082020/182079
-#EXTINF:-1,PL: STOPKLATKA TV HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182080
-#EXTINF:-1,PL: STUDIO MED TV FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182081
-#EXTINF:-1,PL: SUNDANCE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182082
-#EXTINF:-1,PL: SUPERSTACJA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182083
-#EXTINF:-1,PL: TELE 5
-http://ata.mobytech.eu:8080/gokselv4/01082020/182084
-#EXTINF:-1,PL: TELETOON+ FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182085
-#EXTINF:-1,PL: TELETOON+ FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182086
-#EXTINF:-1,PL: TLC FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182087
-#EXTINF:-1,PL: TNT FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182088
-#EXTINF:-1,PL: TOPKIDS FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182089
-#EXTINF:-1,PL: TRACE TV
-http://ata.mobytech.eu:8080/gokselv4/01082020/182090
-#EXTINF:-1,PL: TRAVEL CHANNEL FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182091
-#EXTINF:-1,PL: TRAVEL CHANNEL FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182092
-#EXTINF:-1,PL: TRWAM
-http://ata.mobytech.eu:8080/gokselv4/01082020/182093
-#EXTINF:-1,PL: TTV FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182094
-#EXTINF:-1,PL: TV 4 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182095
-#EXTINF:-1,PL: TV 6 POLSKA
-http://ata.mobytech.eu:8080/gokselv4/01082020/182096
-#EXTINF:-1,PL: TV GLOBO PREMIUM
-http://ata.mobytech.eu:8080/gokselv4/01082020/182097
-#EXTINF:-1,PL: TV KUJAWY
-http://ata.mobytech.eu:8080/gokselv4/01082020/182098
-#EXTINF:-1,PL: TV OKAZJE
-http://ata.mobytech.eu:8080/gokselv4/01082020/182099
-#EXTINF:-1,PL: TV PLUS FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182100
-#EXTINF:-1,PL: TV PULS 2 KIDS HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182101
-#EXTINF:-1,PL: TV PULS FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182102
-#EXTINF:-1,PL: TV PULS KIDS 2 HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182103
-#EXTINF:-1,PL: TV REPUBLIKA HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182104
-#EXTINF:-1,PL: TV TORUN FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182105
-#EXTINF:-1,PL: TV6 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182106
-#EXTINF:-1,PL: TVC HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182107
-#EXTINF:-1,PL: TVI FICCAO
-http://ata.mobytech.eu:8080/gokselv4/01082020/182108
-#EXTINF:-1,PL: TVI REALITY HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182109
-#EXTINF:-1,PL: TVN 7 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182110
-#EXTINF:-1,PL: TVN 24 BIS HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182111
-#EXTINF:-1,PL: TVN 24 FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182112
-#EXTINF:-1,PL: TVN FABULA FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182113
-#EXTINF:-1,PL: TVN FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182114
-#EXTINF:-1,PL: TVN SPORT
-http://ata.mobytech.eu:8080/gokselv4/01082020/182115
-#EXTINF:-1,PL: TVN STYLE FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182116
-#EXTINF:-1,PL: TVN TURBO FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182117
-#EXTINF:-1,PL: TVP SPORT FHD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182118
-#EXTINF:-1,PL: TVS HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182119
-#EXTINF:-1,PL: TVT HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182120
-#EXTINF:-1,PL: VH1 HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182121
-#EXTINF:-1,PL: VH1 HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182122
-#EXTINF:-1,PL: VOD 202
-http://ata.mobytech.eu:8080/gokselv4/01082020/182123
-#EXTINF:-1,PL: VOD 208
-http://ata.mobytech.eu:8080/gokselv4/01082020/182124
-#EXTINF:-1,PL: WATER PLANET
-http://ata.mobytech.eu:8080/gokselv4/01082020/182125
-#EXTINF:-1,PL: WP HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182126
-#EXTINF:-1,PL: WPOLSCE
-http://ata.mobytech.eu:8080/gokselv4/01082020/182127
-#EXTINF:-1,PL: WPOLSCE.PL
-http://ata.mobytech.eu:8080/gokselv4/01082020/182128
-#EXTINF:-1,PL: ZOOM TV HD
-http://ata.mobytech.eu:8080/gokselv4/01082020/182129
+#EXTINF:-1,POLAND: TVP3
+http://4k-sat.com:8000/dferran/dferran/11393
+#EXTINF:-1,POLAND: TVP2
+http://4k-sat.com:8000/dferran/dferran/11394
+#EXTINF:-1,POLAND: TVP1
+http://4k-sat.com:8000/dferran/dferran/11395
+#EXTINF:-1,POLAND: TVP 1
+http://4k-sat.com:8000/dferran/dferran/11396
+#EXTINF:-1,POLAND: TVN HD
+http://4k-sat.com:8000/dferran/dferran/11397
+#EXTINF:-1,POLAND: TVPSTYLE
+http://4k-sat.com:8000/dferran/dferran/11398
+#EXTINF:-1,POLAND: TVPSERIAL
+http://4k-sat.com:8000/dferran/dferran/11399
+#EXTINF:-1,POLAND: TVPINFO
+http://4k-sat.com:8000/dferran/dferran/11400
+#EXTINF:-1,POLAND: TVP SPORT
+http://4k-sat.com:8000/dferran/dferran/11401
+#EXTINF:-1,POLAND: TVP SPORT HD
+http://4k-sat.com:8000/dferran/dferran/11402
+#EXTINF:-1,POLAND: TVP KULTURE
+http://4k-sat.com:8000/dferran/dferran/11403
+#EXTINF:-1,POLAND: TVP HISTORIA
+http://4k-sat.com:8000/dferran/dferran/11404
+#EXTINF:-1,POLAND: TVN TURBO
+http://4k-sat.com:8000/dferran/dferran/11405
+#EXTINF:-1,POLAND: POLSAT 1
+http://4k-sat.com:8000/dferran/dferran/11406
+#EXTINF:-1,POLAND: Polsat Sport News
+http://4k-sat.com:8000/dferran/dferran/11407
+#EXTINF:-1,POLAND: POLSAT SPORT EXTRA HD
+http://4k-sat.com:8000/dferran/dferran/11408
+#EXTINF:-1,POLAND: POLSAT SPORT
+http://4k-sat.com:8000/dferran/dferran/11409
+#EXTINF:-1,POLAND: POLSAT PLAY HD
+http://4k-sat.com:8000/dferran/dferran/11410
+#EXTINF:-1,POLAND: POLSAT NEWS 2
+http://4k-sat.com:8000/dferran/dferran/11411
+#EXTINF:-1,POLAND: POLSAT 2 HD
+http://4k-sat.com:8000/dferran/dferran/11412
+#EXTINF:-1,POLAND: NSport Plus
+http://4k-sat.com:8000/dferran/dferran/11413
+#EXTINF:-1,POLAND: NICLEODEON
+http://4k-sat.com:8000/dferran/dferran/11414
+#EXTINF:-1,POLAND: NICK JR POLSAKA
+http://4k-sat.com:8000/dferran/dferran/11415
+#EXTINF:-1,POLAND: NATINAL GEOGRAPHIC
+http://4k-sat.com:8000/dferran/dferran/11416
+#EXTINF:-1,POLAND: KINO POLSKA
+http://4k-sat.com:8000/dferran/dferran/11417
+#EXTINF:-1,POLAND: Hbo 3 HD
+http://4k-sat.com:8000/dferran/dferran/11418
+#EXTINF:-1,POLAND: Hbo 2 HD
+http://4k-sat.com:8000/dferran/dferran/11419
+#EXTINF:-1,POLAND: FILMBOX PREMIER
+http://4k-sat.com:8000/dferran/dferran/11420
+#EXTINF:-1,POLAND: FILMBOX FAMILY
+http://4k-sat.com:8000/dferran/dferran/11421
+#EXTINF:-1,POLAND: FILMBOX ACTION
+http://4k-sat.com:8000/dferran/dferran/11422
+#EXTINF:-1,POLAND: Extreme Sports
+http://4k-sat.com:8000/dferran/dferran/11424
+#EXTINF:-1,POLAND: ELEVEN SPORT 2 HD
+http://4k-sat.com:8000/dferran/dferran/11427
+#EXTINF:-1,POLAND: ELEVEN SPORT 1 HD
+http://4k-sat.com:8000/dferran/dferran/11428
+#EXTINF:-1,POLAND: ELEVEN SPORT 3 HD
+http://4k-sat.com:8000/dferran/dferran/11429
+#EXTINF:-1,POLAND: POLSATSPORTEXTRA
+http://4k-sat.com:8000/dferran/dferran/11430
+#EXTINF:-1,POLAND: POLSAT2
+http://4k-sat.com:8000/dferran/dferran/11431
+#EXTINF:-1,POLAND: POLSAT SPORTS NEWS
+http://4k-sat.com:8000/dferran/dferran/11432
+#EXTINF:-1,POLAND: POLSAT ROMANS
+http://4k-sat.com:8000/dferran/dferran/11433
+#EXTINF:-1,POLAND: POLSAT NEWS
+http://4k-sat.com:8000/dferran/dferran/11434
+#EXTINF:-1,POLAND: POLSAT CAFE
+http://4k-sat.com:8000/dferran/dferran/11435
+#EXTINF:-1,POLAND:  NSPORT
+http://4k-sat.com:8000/dferran/dferran/11436
+#EXTINF:-1,POLAND: N SPORT
+http://4k-sat.com:8000/dferran/dferran/11437
+#EXTINF:-1,POLAND: NATIONALGEO
+http://4k-sat.com:8000/dferran/dferran/11438
+#EXTINF:-1,POLAND: HBO3
+http://4k-sat.com:8000/dferran/dferran/11439
+#EXTINF:-1,POLAND: HBO2
+http://4k-sat.com:8000/dferran/dferran/11440
+#EXTINF:-1,POLAND: HBO
+http://4k-sat.com:8000/dferran/dferran/11441
+#EXTINF:-1,POLAND: FILMBOX PREIMUIM
+http://4k-sat.com:8000/dferran/dferran/11442
+#EXTINF:-1,POLAND: FILMBOX FAMILI
+http://4k-sat.com:8000/dferran/dferran/11443
+#EXTINF:-1,POLAND: COMEDT CENTRAL
+http://4k-sat.com:8000/dferran/dferran/11445
+#EXTINF:-1,POLAND: CINEMAX 2
+http://4k-sat.com:8000/dferran/dferran/11446
+#EXTINF:-1,POLAND: Cartoon Network HD
+http://4k-sat.com:8000/dferran/dferran/11448
+#EXTINF:-1,POLAND: POLSAT FILM HD
+http://4k-sat.com:8000/dferran/dferran/11449
+#EXTINF:-1,POLAND: CBS REALITY
+http://4k-sat.com:8000/dferran/dferran/11450
+#EXTINF:-1,POLAND: CANAL  SPORT 2  HD
+http://4k-sat.com:8000/dferran/dferran/11451
+#EXTINF:-1,POLAND: Canal  Sport
+http://4k-sat.com:8000/dferran/dferran/11453
+#EXTINF:-1,POLAND: CANAL DISCOVERY
+http://4k-sat.com:8000/dferran/dferran/11454
+#EXTINF:-1,POLAND: CANAL SERIALE
+http://4k-sat.com:8000/dferran/dferran/11455
+#EXTINF:-1,POLAND: CANAL SERIALE HD
+http://4k-sat.com:8000/dferran/dferran/11456
+#EXTINF:-1,POLAND: CANAL FILM HD
+http://4k-sat.com:8000/dferran/dferran/11457
+#EXTINF:-1,POLAND: CANAL FAMILI
+http://4k-sat.com:8000/dferran/dferran/11458
+#EXTINF:-1,POLAND: CANAL FAMILY HD
+http://4k-sat.com:8000/dferran/dferran/11459
+#EXTINF:-1,POLAND: Canal Discovery HD
+http://4k-sat.com:8000/dferran/dferran/11460
+#EXTINF:-1,POLAND: CANAL
+http://4k-sat.com:8000/dferran/dferran/11461
+#EXTINF:-1,POLAND: Canal  HD
+http://4k-sat.com:8000/dferran/dferran/11462
+#EXTINF:-1,POLAND: BBC EARTH
+http://4k-sat.com:8000/dferran/dferran/11463
+#EXTINF:-1,POLAND: BBC
+http://4k-sat.com:8000/dferran/dferran/11464
+#EXTINF:-1,POLAND: AXN WHITE
+http://4k-sat.com:8000/dferran/dferran/11465
+#EXTINF:-1,POLAND: AXN BLACK
+http://4k-sat.com:8000/dferran/dferran/11466
+#EXTINF:-1,POLAND: AXN
+http://4k-sat.com:8000/dferran/dferran/11467
+#EXTINF:-1,POLAND: ALIE KINO
+http://4k-sat.com:8000/dferran/dferran/11468
+#EXTINF:-1,POLAND: ALE KINO
+http://4k-sat.com:8000/dferran/dferran/11469
+#EXTINF:-1,POLAND: 13ULICE
+http://4k-sat.com:8000/dferran/dferran/11470
