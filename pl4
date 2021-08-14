@@ -1,325 +1,1257 @@
 #EXTM3U
-#EXTINF:-1,PL| TVP 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4709
-#EXTINF:-1,PL| TVP 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4708
-#EXTINF:-1,PL| TVP 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14878
-#EXTINF:-1,PL| POLSAT VIASAT NATURE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14876
-#EXTINF:-1,PL| TV 6
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14875
-#EXTINF:-1,PL| POLONIA 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14874
-#EXTINF:-1,PL| POLSAT HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4722
-#EXTINF:-1,PL| POLSAT 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14873
-#EXTINF:-1,PL| POLSAT 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4725
-#EXTINF:-1,PL| SUPER POLSAT
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14872
-#EXTINF:-1,PL| TVN HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4713
-#EXTINF:-1,PL| TVN 7 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4715
-#EXTINF:-1,PL| TVS
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14871
-#EXTINF:-1,PL| TTV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14870
-#EXTINF:-1,PL| ATM ROZRYWKA TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14869
-#EXTINF:-1,PL| POLSAT CAFE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14868
-#EXTINF:-1,PL| FILMBOX ACTION
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14864
-#EXTINF:-1,PL| FILMBOX ARTHOUSE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14862
-#EXTINF:-1,PL| FILMBOX EXTRA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14866
-#EXTINF:-1,PL| FILMBOX FAMILY
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14863
-#EXTINF:-1,PL| FILMBOX PREMIUM HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14865
-#EXTINF:-1,PL| CINEMAX 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14861
-#EXTINF:-1,PL| HBO HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4734
-#EXTINF:-1,PL| HBO 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4736
-#EXTINF:-1,PL| HBO2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14860
-#EXTINF:-1,PL| HBO 3 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4735
-#EXTINF:-1,PL| HBO3 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14859
-#EXTINF:-1,PL| TNT HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14858
-#EXTINF:-1,PL| POLSAT FILM HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4723
-#EXTINF:-1,PL| KINO POL HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4732
-#EXTINF:-1,PL| ALA KINO TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14857
-#EXTINF:-1,PL| STOPKLATKA TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14856
-#EXTINF:-1,PL| CANAL  HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4744
-#EXTINF:-1,PL| NOWA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14855
-#EXTINF:-1,PL| CANAL  FAMILY HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4746
-#EXTINF:-1,PL| CANAL+ SERIALE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/80472
-#EXTINF:-1,PL| CANAL  FILM HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4745
-#EXTINF:-1,PL| CANAL  SERIALE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4743
-#EXTINF:-1,PL| CANAL+ PREMIUM HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/80471
-#EXTINF:-1,PL| FOX HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14853
-#EXTINF:-1,PL| FOX COMEDY HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14852
-#EXTINF:-1,PL| AXN HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14851
-#EXTINF:-1,PL| AXN
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14850
-#EXTINF:-1,PL| AXN WHITE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14849
-#EXTINF:-1,PL| AXN BLACK
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14848
-#EXTINF:-1,PL| AXN SPIN HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14847
-#EXTINF:-1,PL| SCIFI HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14846
-#EXTINF:-1,PL| 13 ULICA HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14845
-#EXTINF:-1,PL| EPIC DRAMA HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14844
-#EXTINF:-1,PL| E ENTERTAINMENT
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14843
-#EXTINF:-1,PL| TVP SERIALE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4706
-#EXTINF:-1,PL| TVP SERIALE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14842
-#EXTINF:-1,PL|  NOVA ACTION HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14841
-#EXTINF:-1,PL| TVP ABC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14839
-#EXTINF:-1,PL| CBS REALITY
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14840
-#EXTINF:-1,PL| POLSAT SPORT HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14838
-#EXTINF:-1,PL| COMEDY CENTRAL HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14837
-#EXTINF:-1,PL| POLSAT CAFE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4724
-#EXTINF:-1,PL| POLSAT PLAY HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4720
-#EXTINF:-1,PL| METRO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14836
-#EXTINF:-1,PL| ZOOM TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14835
-#EXTINF:-1,PL| SUNDANCE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14833
-#EXTINF:-1,PL| BBC FIRST HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14832
-#EXTINF:-1,PL| TVN STYLE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4712
-#EXTINF:-1,PL| LIFETIME HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14831
-#EXTINF:-1,PL| HGTV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14830
-#EXTINF:-1,PL| NOWA TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14829
-#EXTINF:-1,PL| COMEDY CENTRAL FAMILY
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14827
-#EXTINF:-1,PL| PARAMOUNT CHANNEL HD.
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14826
-#EXTINF:-1,PL| AMC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14825
-#EXTINF:-1,PL| TVP KULTURA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14824
-#EXTINF:-1,PL| TVN FABULA HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4714
-#EXTINF:-1,PL| TVN FABULA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14821
-#EXTINF:-1,PL| TVN FABULA HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4711
-#EXTINF:-1,PL| DA VINCI
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14815
-#EXTINF:-1,PL| FOOD NETWORK HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14814
-#EXTINF:-1,PL| BBC HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14813
-#EXTINF:-1,PL| DOMO  HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4738
-#EXTINF:-1,PL| DTX
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14812
-#EXTINF:-1,PL| FOKUS TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14810
-#EXTINF:-1,PL| KUCHNIA  HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4731
-#EXTINF:-1,PL| BBC EARTH HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14809
-#EXTINF:-1,PL| MOTOWIZJA TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14808
-#EXTINF:-1,PL| NUTA TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14807
-#EXTINF:-1,PL| BBC BRIT
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14806
-#EXTINF:-1,PL| PULS 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14805
-#EXTINF:-1,PL| ROMANCE TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14803
-#EXTINF:-1,PL| TO!TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14802
-#EXTINF:-1,PL| TVP ABC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14801
-#EXTINF:-1,PL| WP
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14800
-#EXTINF:-1,PL| POLSAT JIM JAM
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14798
-#EXTINF:-1,PL| BOOMERANG HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14797
-#EXTINF:-1,PL|  DISNEY CHANNEL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4739
-#EXTINF:-1,PL| 4 FUN TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4750
-#EXTINF:-1,PL| 4FUN DANCE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14771
-#EXTINF:-1,PL| 4FUN TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14773
-#EXTINF:-1,PL| ALE KINO HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14787
-#EXTINF:-1,PL| ANIMAL PLANET HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4749
-#EXTINF:-1,PL| BBC EARTH HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14752
-#EXTINF:-1,PL| CANAL  + DOKUMENT HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4747
-#EXTINF:-1,PL| CANAL  SPORT 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4742
-#EXTINF:-1,PL| CANAL  SPORT HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4741
-#EXTINF:-1,PL| DISCOVERY HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14760
-#EXTINF:-1,PL| DISCOVERY HISTORIA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14763
-#EXTINF:-1,PL| DISCOVERY CHANNEL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14759
-#EXTINF:-1,PL| DISCOVERY SCIENCE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14758
-#EXTINF:-1,PL| DISNEY CHANNEL HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14788
-#EXTINF:-1,PL| DISNEY JUNIOR
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14795
-#EXTINF:-1,PL| DISNEY XD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14790
-#EXTINF:-1,PL| NICK JR
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14794
-#EXTINF:-1,PL| NICK JUNIOR.
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4753
-#EXTINF:-1,PL| NICKELODEON
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14793
-#EXTINF:-1,PL| NICKELODEON HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4727
-#EXTINF:-1,PL| BBC LIFESTYLE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14792
-#EXTINF:-1,PL| TELETOON  HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14791
-#EXTINF:-1,PL| MINI MINI  HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4730
-#EXTINF:-1,PL| MTV MUSIC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14784
-#EXTINF:-1,PL| MTV POLSKA HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4729
-#EXTINF:-1,PL| MTV ROCKS
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14783
-#EXTINF:-1,PL| KINO POLSKA MUZYKA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14780
-#EXTINF:-1,PL| POLO TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14778
-#EXTINF:-1,PL| DISCO POLO MUSIC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14777
-#EXTINF:-1,PL| ESKA TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14776
-#EXTINF:-1,PL| ESKA ROCK TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14774
-#EXTINF:-1,PL| STARS TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14770
-#EXTINF:-1,PL| teleTOON+ HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14769
-#EXTINF:-1,PL| NAT GEO PEOPLE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14757
-#EXTINF:-1,PL| NAT GEO WILD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14765
-#EXTINF:-1,PL| NATIONAL GEO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14764
-#EXTINF:-1,PL| NATIONAL GEOGRAPHIC HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4728
-#EXTINF:-1,PL|  DISCOVERY HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4740
-#EXTINF:-1,PL| PLANETE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14756
-#EXTINF:-1,PL| TVP HISTORY HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4733
-#EXTINF:-1,PL| TVP HISTORIA HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4707
-#EXTINF:-1,PL| TVP HISTORIA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14753
-#EXTINF:-1,PL| H2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14751
-#EXTINF:-1,PL| POLSAT DOKU HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14750
-#EXTINF:-1,PL| POLSAT SPORT PREMIUM 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54164
-#EXTINF:-1,PL| POLSAT SPORT PREMIUM 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54165
-#EXTINF:-1,PL| POLSAT SPORT PREMIUM 3 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54166
-#EXTINF:-1,PL| POLSAT SPORT PREMIUM 4 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54167
-#EXTINF:-1,PL| POLSAT SPORT PREMIUM 5 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54168
-#EXTINF:-1,PL| POLSAT SPORT PREMIUM 6 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/54169
-#EXTINF:-1,PL| ELEVENSPORT 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/12332
-#EXTINF:-1,PL| EXTREME SPORTS HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4737
-#EXTINF:-1,PL| GOLF CHANNEL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14739
-#EXTINF:-1,PL| POLSAT SPORT HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14740
-#EXTINF:-1,PL| CANAL+ SPORT 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/80473
-#EXTINF:-1,PL| CANAL+ SPORT 3 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/80474
-#EXTINF:-1,PL| CANAL+ SPORT 4 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/80475
-#EXTINF:-1,PL| SPORT KLUB HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14743
-#EXTINF:-1,PL| TVP SPORT HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4705
-#EXTINF:-1,PL| POLSAT NEWS 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14734
-#EXTINF:-1,PL| POLSAT NEWS 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4721
-#EXTINF:-1,PL| BBC CBEEBIES
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14733
-#EXTINF:-1,PL| TV JOJ PLUS 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4717
-#EXTINF:-1,PL| TV REPUBLIKA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14732
-#EXTINF:-1,PL| TV4 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14877
-#EXTINF:-1,PL| TVN 24 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4716
-#EXTINF:-1,PL| TVN24 BIS HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/14735
-#EXTINF:-1,PL| TVP
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4710
-#EXTINF:-1,PL| TVS POLONIA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4704
+#EXTINF:-1,UK: ITV 1 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15050
+#EXTINF:-1,UK: ITV 1 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1263
+#EXTINF:-1,UK: ITV 1 +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150643
+#EXTINF:-1,UK: ITV 2 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15049
+#EXTINF:-1,UK: ITV 2 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1264
+#EXTINF:-1,UK: ITV 2 +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150642
+#EXTINF:-1,UK: ITV 3 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15048
+#EXTINF:-1,UK: ITV 3 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1265
+#EXTINF:-1,UK: ITV 3 +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150639
+#EXTINF:-1,UK: ITV 4 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15047
+#EXTINF:-1,UK: ITV 4 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1266
+#EXTINF:-1,UK: ITV 4 +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150637
+#EXTINF:-1,UK: E4 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15029
+#EXTINF:-1,UK: E4 SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207610
+#EXTINF:-1,UK: Channel 4 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1257
+#EXTINF:-1,UK: Channel 4
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15045
+#EXTINF:-1,UK: More4 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15041
+#EXTINF:-1,UK: More 4 SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207598
+#EXTINF:-1,UK: ITV Be
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/133849
+#EXTINF:-1,UK: UTV FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150638
+#EXTINF:-1,UK: UTV HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150640
+#EXTINF:-1,UK: BBC One FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15054
+#EXTINF:-1,UK: BBC One HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1251
+#EXTINF:-1,UK: BBC One
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150657
+#EXTINF:-1,UK: BBC Two FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15053
+#EXTINF:-1,UK: BBC Two HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1252
+#EXTINF:-1,UK: BBC Two
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150647
+#EXTINF:-1,UK: BBC Three FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15052
+#EXTINF:-1,UK: BBC Cbbc HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1253
+#EXTINF:-1,UK: BBC Cbbc
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150646
+#EXTINF:-1,UK: BBC Four FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15051
+#EXTINF:-1,UK: BBC Four HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1254
+#EXTINF:-1,UK: BBC Four
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150645
+#EXTINF:-1,UK: BBC One London
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150656
+#EXTINF:-1,UK: BBC One Northern Ireland
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150648
+#EXTINF:-1,UK: BBC One Scotland
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150655
+#EXTINF:-1,UK: BBC One Wales
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150654
+#EXTINF:-1,UK: BBC Parliament
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150653
+#EXTINF:-1,UK: BBC Lifestyle
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/245615
+#EXTINF:-1,UK: BBC Earth
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/245616
+#EXTINF:-1,UK: BBC Brit
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/245617
+#EXTINF:-1,UK: BBC Entertainment HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/183273
+#EXTINF:-1,UK: Fox HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/198447
+#EXTINF:-1,UK: Sky One HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1327
+#EXTINF:-1,UK: Sky One 
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207615
+#EXTINF:-1,UK: Sky Two HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15044
+#EXTINF:-1,UK: Sky Two SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207618
+#EXTINF:-1,UK: Sky Living HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1325
+#EXTINF:-1,UK: Sky Living SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177500
+#EXTINF:-1,UK: Sky Atlantic HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1323
+#EXTINF:-1,UK: Sky Atlantic SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207619
+#EXTINF:-1,UK: Sky Arts HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15020
+#EXTINF:-1,UK: Sky Arts SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207613
+#EXTINF:-1,UK: Syfy HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15021
+#EXTINF:-1,UK: Syfy SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207614
+#EXTINF:-1,UK: E! Entertainment HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15035
+#EXTINF:-1,UK: E! Entertainment SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207601
+#EXTINF:-1,UK: HGTV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/14993
+#EXTINF:-1,UK: Channel 5 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15046
+#EXTINF:-1,UK: Channel 5 SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207617
+#EXTINF:-1,UK: Paramount 
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207611
+#EXTINF:-1,UK: 5 Star HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/198448
+#EXTINF:-1,UK: 5 Star SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207609
+#EXTINF:-1,UK: 5 USA HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15031
+#EXTINF:-1,UK: 5USA
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207608
+#EXTINF:-1,UK: 5 select
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/209250
+#EXTINF:-1,UK: Colors HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15010
+#EXTINF:-1,UK: Colors SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207606
+#EXTINF:-1,UK: Comedy Central HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15014
+#EXTINF:-1,UK: Comedy Central
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207605
+#EXTINF:-1,UK: Comedy Extra HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/198452
+#EXTINF:-1,UK: Comedy Extra SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207604
+#EXTINF:-1,UK: Sky Witness HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/198451
+#EXTINF:-1,UK: Sky Witness
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207612
+#EXTINF:-1,UK: Gold HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/8564
+#EXTINF:-1,UK: Gold SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207616
+#EXTINF:-1,UK: Alibi HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15032
+#EXTINF:-1,UK: Alibi SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207607
+#EXTINF:-1,UK: Blaze
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/209246
+#EXTINF:-1,UK: Challange HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/149264
+#EXTINF:-1,UK: Challange SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207597
+#EXTINF:-1,UK: Dave HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15042
+#EXTINF:-1,UK: Dave SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207603
+#EXTINF:-1,UK: Dave ja vu
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/209245
+#EXTINF:-1,UK: Drama HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/150649
+#EXTINF:-1,UK: Drama
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207602
+#EXTINF:-1,UK: Food Network HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15026
+#EXTINF:-1,UK: Food Network SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207590
+#EXTINF:-1,UK: Food Network  +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/209251
+#EXTINF:-1,UK: Pick
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/210596
+#EXTINF:-1,UK: Quest Red
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/209249
+#EXTINF:-1,UK: Quest Red +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/209248
+#EXTINF:-1,UK: Sky Showcase tv
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/209242
+#EXTINF:-1,UK: TLC
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207664
+#EXTINF:-1,UK: Talking Pictures TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/225579
+#EXTINF:-1,UK: W HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/199543
+#EXTINF:-1,UK: W SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207593
+#EXTINF:-1,UK: Yesterday HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15043
+#EXTINF:-1,UK: Yesterday SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207587
+#EXTINF:-1,UK: Dmax HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/209244
+#EXTINF:-1,UK: DMAX  +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/209243
+#EXTINF:-1,UK: Cbs Action FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15022
+#EXTINF:-1,UK: Cbs Drama FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15023
+#EXTINF:-1,UK: Cbs Reality FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15024
+#EXTINF:-1,UK: Fashion TV HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/199545
+#EXTINF:-1,UK: PTC PUNJABI
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/199544
+#EXTINF:-1,UK: Real Lives HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/188127
+#EXTINF:-1,UK: Real Lives SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207596
+#EXTINF:-1,UK: Really HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15038
+#EXTINF:-1,UK: Really SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207588
+#EXTINF:-1,UK: Eden HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/199514
+#EXTINF:-1,UK: Eden
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207594
+#EXTINF:-1,UK: QVC
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/199509
+#EXTINF:-1,UK: QVC Beauty
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/199510
+#EXTINF:-1,UK: QVC Style
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/199511
+#EXTINF:-1,UK: STV HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/199512
+#EXTINF:-1,UK: STV 
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207592
+#EXTINF:-1,UK: AMC HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/339179
+#EXTINF:-1,UK: DW (ENGLISH)
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/313450
+#EXTINF:-1,UK: GOD CHANNEL
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/313449
+#EXTINF:-1,UK: British Muslim
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/134446
+#EXTINF:-1,UK: Sky Cinema Premiere FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177555
+#EXTINF:-1,UK: Sky Cinema Premiere HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177556
+#EXTINF:-1,UK: Sky Cinema Hits FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/226527
+#EXTINF:-1,UK: Sky Cinema Hits HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/226528
+#EXTINF:-1,UK: Sky Cinema Greats FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177553
+#EXTINF:-1,UK: Sky Cinema Greats HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177554
+#EXTINF:-1,UK: Sky Cinema Action FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177564
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177565
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1332
+#EXTINF:-1,UK: Sky Cinema Family FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177562
+#EXTINF:-1,UK: Sky Cinema Comedy FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177561
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177560
+#EXTINF:-1,UK: Sky Cinema Thriller FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177552
+#EXTINF:-1,UK: Sky Cinema Thriller HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177551
+#EXTINF:-1,UK: Sky Cinema Drama HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15016
+#EXTINF:-1,UK: Sky Cinema Drama FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177558
+#EXTINF:-1,UK: Sky Cinema Sci-fi &amp; Horror HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177550
+#EXTINF:-1,UK: Sky Cinema Sci-fi &amp; Horror FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177549
+#EXTINF:-1,UK: Film4
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177541
+#EXTINF:-1,UK: TCM HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177538
+#EXTINF:-1,UK: TCM
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177537
+#EXTINF:-1,UK: Sony Sab HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177536
+#EXTINF:-1,UK: Sony Movies HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177540
+#EXTINF:-1,UK: Sony Movies
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207591
+#EXTINF:-1,UK: Sony Movies Classic
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207585
+#EXTINF:-1,UK: Sony Movies Action HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177539
+#EXTINF:-1,UK: Sony Movies Action
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15025
+#EXTINF:-1,UK: Universal Channel HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177542
+#EXTINF:-1,UK: SKY News FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177453
+#EXTINF:-1,UK:  SKY News HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177452
+#EXTINF:-1,UK: SKY News
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1256
+#EXTINF:-1,UK: CNN International
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/73489
+#EXTINF:-1,UK: CNBC News
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177444
+#EXTINF:-1,UK:  Bloomberg
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177432
+#EXTINF:-1,UK: London Live HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/14991
+#EXTINF:-1,UK: London Live SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207599
+#EXTINF:-1,UK: France 24 News
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177434
+#EXTINF:-1,UK: Al Jazeera News FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177430
+#EXTINF:-1,UK: BBC News HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177454
+#EXTINF:-1,UK: BBC News
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/14999
+#EXTINF:-1,UK: UK: BBC World
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/312110
+#EXTINF:-1,UK: FOX News HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177448
+#EXTINF:-1,UK:  ABP News HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177450
+#EXTINF:-1,UK:  RTE News
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177442
+#EXTINF:-1,UK:  TVC News
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177438
+#EXTINF:-1,UK: GEO News
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177440
+#EXTINF:-1,UK: MTV HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177398
+#EXTINF:-1,UK: MTV Music
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/209668
+#EXTINF:-1,UK: MTV Classic
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177389
+#EXTINF:-1,UK: MTV Hits 
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177393
+#EXTINF:-1,UK: MTV Base
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15000
+#EXTINF:-1,UK: MTV Live FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177384
+#EXTINF:-1,UK: MTV Rocks HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177396
+#EXTINF:-1,UK: MTV 80's
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1295
+#EXTINF:-1,UK: Club MTV 
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177390
+#EXTINF:-1,UK: 4Music
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177382
+#EXTINF:-1,UK: Box Hits
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/233754
+#EXTINF:-1,UK: The Box
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/233746
+#EXTINF:-1,UK: Clubland TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/233750
+#EXTINF:-1,UK: Kerrang!
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/233749
+#EXTINF:-1,UK: Kiss TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/233748
+#EXTINF:-1,UK: Magic
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/233747
+#EXTINF:-1,UK: Travel Channel HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177507
+#EXTINF:-1,UK: Travel channel SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/134122
+#EXTINF:-1,UK: Animal planet
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/134123
+#EXTINF:-1,UK: Crime & Investigation HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/197242
+#EXTINF:-1,UK: Discovery Channel HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177516
+#EXTINF:-1,UK: Discovery Channel HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1275
+#EXTINF:-1,UK: Discovery History
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1280
+#EXTINF:-1,UK: Discovery History HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177517
+#EXTINF:-1,UK: Investigation Discovery
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177510
+#EXTINF:-1,UK: Investigation Discovery HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177511
+#EXTINF:-1,UK: Discovery Science
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177512
+#EXTINF:-1,UK: Discovery Science HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177513
+#EXTINF:-1,UK: Discovery Turbo HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177519
+#EXTINF:-1,UK: Discovery Turbo
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15011
+#EXTINF:-1,UK: History Channel 1 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177506
+#EXTINF:-1,UK: History Channel 2 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177505
+#EXTINF:-1,UK: Nat Geo Wild FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177504
+#EXTINF:-1,UK: Nat Geo Wild
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1286
+#EXTINF:-1,UK: National Geographic 
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15012
+#EXTINF:-1,UK: National Geographic HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177502
+#EXTINF:-1,UK: EWTN Catholic
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/360639
+#EXTINF:-1,UK: Sky Sports News HQ HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/209442
+#EXTINF:-1,UK: Sky Sports News HQ
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1314
+#EXTINF:-1,UK: Sky Sports Premier League FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/14979
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1312
+#EXTINF:-1,UK: Sky Sports Main Events FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/14986
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1308
+#EXTINF:-1,UK: Sky Sports Football FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/14980
+#EXTINF:-1,UK: Sky Sports Football HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/179085
+#EXTINF:-1,UK: Sky Sports Mix FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/204170
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/204171
+#EXTINF:-1,UK: Sky Sports Action FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/14982
+#EXTINF:-1,UK: Sky Sports Action HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/14981
+#EXTINF:-1,UK: Sky Sports Arena FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/174630
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/179526
+#EXTINF:-1,UK: Sky Sports Box Office (LIVE DURING BOXING MATCH)
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/142973
+#EXTINF:-1,UK: Sky Sports Cricket FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/14984
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1309
+#EXTINF:-1,UK: Sky Sports F1 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/14977
+#EXTINF:-1,UK: Sky Sports F1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1313
+#EXTINF:-1,UK: Sky Sports Golf FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1311
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1310
+#EXTINF:-1,UK: Premier Sports 1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/14978
+#EXTINF:-1,UK: Premier Sports 2
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1306
+#EXTINF:-1,UK: At The Races HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/155637
+#EXTINF:-1,UK: At The Races
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/207582
+#EXTINF:-1,UK: BT Sport Box Office PPV (Live During Events Only)
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/208383
+#EXTINF:-1,UK: BT Sport ESPN FHD 50fps
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/187531
+#EXTINF:-1,UK: BT Sports 1 FHD 50fps
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/187534
+#EXTINF:-1,UK: BT Sports 1 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/179086
+#EXTINF:-1,UK: BT Sports 3 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/179088
+#EXTINF:-1,UK: BT Sports 1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1297
+#EXTINF:-1,UK: BT Sports 2 FHD 50fps
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/187533
+#EXTINF:-1,UK: BT Sports 2 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/179087
+#EXTINF:-1,UK: BT Sports 2
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1298
+#EXTINF:-1,UK: BT Sports 3 FHD 50fps
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/187532
+#EXTINF:-1,UK: BT Sports 3
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/123269
+#EXTINF:-1,UK: BT Sports Extra 1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/179089
+#EXTINF:-1,UK: BT Sports Extra 2 (Live Match Only)
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/189262
+#EXTINF:-1,UK: BT Sports Extra 3
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/189263
+#EXTINF:-1,UK: BT Sports Extra 4
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/179092
+#EXTINF:-1,UK: BT Sports Extra 5 (Live Match Only)
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/179093
+#EXTINF:-1,UK: BT Sports Extra 6 (Live Match Only)
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/225156
+#EXTINF:-1,UK: FreeSports
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/204178
+#EXTINF:-1,UK: Racing UK
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/14972
+#EXTINF:-1,UK: BoxNation HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/1296
+#EXTINF:-1,UK: MUTV HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/14970
+#EXTINF:-1,UK: LFC TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/14974
+#EXTINF:-1,UK: Horse &amp; Country
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/199554
+#EXTINF:-1,UK: Red Bull TV FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/199548
+#EXTINF:-1,UK: Rangers FC TV (Live During Match Only)
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/198453
+#EXTINF:-1,UK: Cartoon Network HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177483
+#EXTINF:-1,UK: Cartoonito HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177481
+#EXTINF:-1,UK: Boomerang HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15003
+#EXTINF:-1,UK: Boomerang
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177472
+#EXTINF:-1,UK: Cbeebies
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/134445
+#EXTINF:-1,UK: Nickelodeon HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177475
+#EXTINF:-1,UK: Nicktoons HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/15008
+#EXTINF:-1,UK: Nick Jr HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177477
+#EXTINF:-1,UK: Nick Jr Too HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177479
+#EXTINF:-1,UK: Baby TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177474
+#EXTINF:-1,UK: Baby TV 
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177473
+#EXTINF:-1,UK: Tiny Pop
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/199513
+#EXTINF:-1,UK: CITV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/198455
+#EXTINF:-1,UK: Duck TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/224540
+#EXTINF:-1,UK: Jim Jam TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/224541
+#EXTINF:-1,UK: VIP ITV FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234288
+#EXTINF:-1,UK: VIP ITV +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234290
+#EXTINF:-1,UK: VIP ITV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234289
+#EXTINF:-1,UK: VIP ITV2 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234291
+#EXTINF:-1,UK: VIP ITV2 +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234293
+#EXTINF:-1,UK: VIP ITV2
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234292
+#EXTINF:-1,UK: VIP ITV3 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234294
+#EXTINF:-1,UK: VIP ITV3 +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234296
+#EXTINF:-1,UK: VIP ITV3
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234295
+#EXTINF:-1,UK: VIP ITV4 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234297
+#EXTINF:-1,UK: VIP ITV4 +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234299
+#EXTINF:-1,UK: VIP ITV4
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234298
+#EXTINF:-1,UK: VIP ITV Granada
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234306
+#EXTINF:-1,UK: VIP ITV Yorkshire
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234305
+#EXTINF:-1,UK: VIP ITV London
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234303
+#EXTINF:-1,UK: VIP ITVBe +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234302
+#EXTINF:-1,UK: VIP ITVBe
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234301
+#EXTINF:-1,UK: VIP ITVBe FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234300
+#EXTINF:-1,UK: VIP Channel 5 +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234339
+#EXTINF:-1,UK: VIP Channel 5
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234338
+#EXTINF:-1,UK: VIP Channel 5 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234337
+#EXTINF:-1,UK: VIP Channel 4 South &amp; East
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234336
+#EXTINF:-1,UK: VIP Channel 4 London
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234335
+#EXTINF:-1,UK: VIP Channel 4 +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234334
+#EXTINF:-1,UK: VIP Channel 4
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234333
+#EXTINF:-1,UK: VIP Channel 4 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234332
+#EXTINF:-1,UK: VIP BBC Entertainment HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293725
+#EXTINF:-1,UK: VIP BBC One
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234309
+#EXTINF:-1,UK: VIP BBC One HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234308
+#EXTINF:-1,UK: VIP BBC One FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234307
+#EXTINF:-1,UK: VIP BBC Two HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234311
+#EXTINF:-1,UK: VIP BBC Two FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234310
+#EXTINF:-1,UK: VIP BBC Two Wales
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234331
+#EXTINF:-1,UK: VIP BBC Two
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234330
+#EXTINF:-1,UK: VIP BBC Four FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234312
+#EXTINF:-1,UK: VIP BBC Four.
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234313
+#EXTINF:-1,UK: VIP BBC ALBA
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234314
+#EXTINF:-1,UK: VIP BBC One London
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234329
+#EXTINF:-1,UK: VIP BBC One North West
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234328
+#EXTINF:-1,UK: VIP BBC One Yorkshire &amp; North Midlands
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234327
+#EXTINF:-1,UK: VIP BBC One Channel Islands
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234326
+#EXTINF:-1,UK: VIP BBC One North East &amp; Cumbria
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234325
+#EXTINF:-1,UK: VIP BBC One East Midlands
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234324
+#EXTINF:-1,UK: VIP BBC One Scotland
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234320
+#EXTINF:-1,UK: VIP BBC One West Milands SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234319
+#EXTINF:-1,UK: VIP BBC One West
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234318
+#EXTINF:-1,UK: VIP BBC One Yorks & Lincs SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234317
+#EXTINF:-1,UK: VIP BBC One Wales SD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234316
+#EXTINF:-1,UK: VIP BBC One Oxford
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/328414
+#EXTINF:-1,UK: VIP BBC Red Button
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234315
+#EXTINF:-1,UK: VIP Virgin Media Three HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/279478
+#EXTINF:-1,UK: VIP Virgin Media Two HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/279477
+#EXTINF:-1,UK: VIP Virgin Media One HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/279476
+#EXTINF:-1,UK: VIP Bet
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234402
+#EXTINF:-1,UK: VIP Drama
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234401
+#EXTINF:-1,UK: VIP HGTV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234415
+#EXTINF:-1,UK: VIP HGTV +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234416
+#EXTINF:-1,UK: VIP DMAX
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234424
+#EXTINF:-1,UK: VIP DMAX +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234425
+#EXTINF:-1,UK: VIP CBS Justice
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234400
+#EXTINF:-1,UK: VIP CBS Drama
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234399
+#EXTINF:-1,UK: VIP CBS Reality +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234398
+#EXTINF:-1,UK: VIP CBS Reality
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234397
+#EXTINF:-1,UK: VIP PBS America
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234396
+#EXTINF:-1,UK: VIP Alibi +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234395
+#EXTINF:-1,UK: VIP Alibi
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234394
+#EXTINF:-1,UK: VIP Alibi FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234393
+#EXTINF:-1,UK: VIP E4 +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234392
+#EXTINF:-1,UK: VIP E4
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234391
+#EXTINF:-1,UK: VIP E4 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234390
+#EXTINF:-1,UK: VIP More 4
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234388
+#EXTINF:-1,UK: VIP More 4 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234387
+#EXTINF:-1,UK: VIP 4Seven
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234386
+#EXTINF:-1,UK: VIP 4Seven FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234385
+#EXTINF:-1,UK: VIP 5Select
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234383
+#EXTINF:-1,UK: VIP 5Star +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234382
+#EXTINF:-1,UK: VIP 5Star
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234381
+#EXTINF:-1,UK: VIP 5USA +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234380
+#EXTINF:-1,UK: VIP 5USA
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234379
+#EXTINF:-1,UK: VIP Dave Ja Vu
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234378
+#EXTINF:-1,UK: VIP Dave
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234377
+#EXTINF:-1,UK: VIP Dave FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234376
+#EXTINF:-1,UK: VIP GOLD +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234375
+#EXTINF:-1,UK: VIP GOLD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234374
+#EXTINF:-1,UK: VIP GOLD FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234373
+#EXTINF:-1,UK: VIP Watch +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234372
+#EXTINF:-1,UK: VIP Watch
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234371
+#EXTINF:-1,UK: VIP Watch FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234370
+#EXTINF:-1,UK: VIP Paramount +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234369
+#EXTINF:-1,UK: VIP Paramount
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234368
+#EXTINF:-1,UK: VIP Paramount FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234367
+#EXTINF:-1,UK: VIP Comedy Central FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234362
+#EXTINF:-1,UK: VIP Comedy Central
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234363
+#EXTINF:-1,UK: VIP Comedy Central +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234364
+#EXTINF:-1,UK: VIP Comedy Central Xtra
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234365
+#EXTINF:-1,UK: VIP Sky Arts FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234356
+#EXTINF:-1,UK: VIP Sky Arts HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234357
+#EXTINF:-1,UK: VIP Sky Arts
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234358
+#EXTINF:-1,UK: VIP Sky One HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234341
+#EXTINF:-1,UK: VIP Sky One
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234342
+#EXTINF:-1,UK: VIP Sky 2
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234344
+#EXTINF:-1,UK: VIP SyFy FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234353
+#EXTINF:-1,UK: VIP SyFy
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234354
+#EXTINF:-1,UK: VIP SyFy +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234355
+#EXTINF:-1,UK: VIP Sky Comedy HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234352
+#EXTINF:-1,UK: VIP Sky Comedy
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234351
+#EXTINF:-1,UK: VIP Sky Witness+1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234350
+#EXTINF:-1,UK: VIP Sky Witness
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234349
+#EXTINF:-1,UK: VIP Sky Witness FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234348
+#EXTINF:-1,UK: VIP Sky Atlantic
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234347
+#EXTINF:-1,UK: VIP Sky Atlantic +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234346
+#EXTINF:-1,UK: VIP Sky Atlantic FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234345
+#EXTINF:-1,UK: VIP Sky Crime FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234554
+#EXTINF:-1,UK: VIP Sky Crime
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234555
+#EXTINF:-1,UK: VIP E! Entertainment FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234403
+#EXTINF:-1,UK: VIP E! Entertainment
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234404
+#EXTINF:-1,UK: VIP Geo Kahani
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234434
+#EXTINF:-1,UK: VIP Noor TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234432
+#EXTINF:-1,UK: VIP S4C
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234431
+#EXTINF:-1,UK: VIP Vice
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234422
+#EXTINF:-1,UK: VIP Forces TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234421
+#EXTINF:-1,UK: VIP Pick TV +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234420
+#EXTINF:-1,UK: VIP Pick TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234419
+#EXTINF:-1,UK: VIP Real Lives
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234414
+#EXTINF:-1,UK: VIP Really
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234413
+#EXTINF:-1,UK: VIP Lifetime HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234412
+#EXTINF:-1,UK: VIP Sony Channel HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234407
+#EXTINF:-1,UK: VIP Sony Channel +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234408
+#EXTINF:-1,UK: VIP Sony Movies Classic +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234470
+#EXTINF:-1,UK: VIP Sony Movies Classic
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234469
+#EXTINF:-1,UK: VIP Sony Movies Action
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234467
+#EXTINF:-1,UK: VIP Sony Movies Action +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234468
+#EXTINF:-1,UK: VIP Sony Movies
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234465
+#EXTINF:-1,UK: VIP Sony Movies +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234466
+#EXTINF:-1,UK: VIP Challenge TV +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234406
+#EXTINF:-1,UK: VIP Challenge TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234405
+#EXTINF:-1,UK: VIP Inspiration TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/277748
+#EXTINF:-1,UK: VIP Create & Craft
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/277747
+#EXTINF:-1,UK: VIP Quest Red +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234587
+#EXTINF:-1,UK: VIP Quest Red
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234586
+#EXTINF:-1,UK: VIP Quest +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234585
+#EXTINF:-1,UK: VIP Quest
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234584
+#EXTINF:-1,UK: VIP Quest FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234583
+#EXTINF:-1,UK: VIP High Street TV 4
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234596
+#EXTINF:-1,UK: VIP High Street TV 2
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234595
+#EXTINF:-1,UK: VIP World Poker Tour
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/315504
+#EXTINF:-1,UK: VIP Food Network +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234593
+#EXTINF:-1,UK: VIP Food Network
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234592
+#EXTINF:-1,UK: VIP TLC
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234580
+#EXTINF:-1,UK: VIP TLC FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234579
+#EXTINF:-1,UK: VIP Blaze
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234577
+#EXTINF:-1,UK: VIP Yesterday +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234576
+#EXTINF:-1,UK: VIP Yesterday
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234575
+#EXTINF:-1,UK: VIP Talking Pictures
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234472
+#EXTINF:-1,UK: VIP Horror Channel
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234471
+#EXTINF:-1,UK: VIP Nat Geo Wild FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234566
+#EXTINF:-1,UK: VIP Nat Geo Wild
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234567
+#EXTINF:-1,UK: VIP Nat Geo FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234563
+#EXTINF:-1,UK: VIP Nat Geo
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234564
+#EXTINF:-1,UK: VIP Nat Geo +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234565
+#EXTINF:-1,UK: VIP Discovery FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234544
+#EXTINF:-1,UK: VIP Discovery
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234545
+#EXTINF:-1,UK: VIP Discovery +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234546
+#EXTINF:-1,UK: VIP Discovery Turbo
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234551
+#EXTINF:-1,UK: VIP Discovery History +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234550
+#EXTINF:-1,UK: VIP Discovery History
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234549
+#EXTINF:-1,UK: VIP Discovery Science +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234548
+#EXTINF:-1,UK: VIP Discovery Science
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234547
+#EXTINF:-1,UK: VIP Investigation Discovery
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234557
+#EXTINF:-1,UK: VIP Crime &amp; Investigation FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234556
+#EXTINF:-1,UK: VIP Eden +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234574
+#EXTINF:-1,UK: VIP Eden
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234573
+#EXTINF:-1,UK: VIP Eden FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234572
+#EXTINF:-1,UK: VIP H2
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234571
+#EXTINF:-1,UK: VIP H2 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234570
+#EXTINF:-1,UK: VIP History FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234568
+#EXTINF:-1,UK: VIP Sky Nature HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234569
+#EXTINF:-1,UK: VIP Animal Planet
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234561
+#EXTINF:-1,UK: VIP Animal Planet FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234560
+#EXTINF:-1,UK: VIP Sky Documentaries HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/277751
+#EXTINF:-1,UK: VIP Travel Channel
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234588
+#EXTINF:-1,UK: VIP London Live
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234582
+#EXTINF:-1,UK: VIP Smithsonian FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234578
+#EXTINF:-1,UK: VIP Sky Sports News HQ FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234474
+#EXTINF:-1,UK: VIP Sky Sports News HQ
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234475
+#EXTINF:-1,UK: VIP Sky Sports Main Event FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234476
+#EXTINF:-1,UK: VIP Sky Sports Main Event
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234477
+#EXTINF:-1,UK: VIP Sky Sports Premier League FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234480
+#EXTINF:-1,UK: VIP Sky Sports Premier League
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234481
+#EXTINF:-1,UK: VIP Sky Sports Football FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234478
+#EXTINF:-1,UK: VIP Sky Sports Football
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234479
+#EXTINF:-1,UK: VIP Sky Sports Mix FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234482
+#EXTINF:-1,UK: VIP Sky Sports Mix
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234483
+#EXTINF:-1,UK: VIP Sky Sports Racing FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234494
+#EXTINF:-1,UK: VIP Sky Sports Racing
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234495
+#EXTINF:-1,UK: VIP Sky Sports F1 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234492
+#EXTINF:-1,UK: VIP Sky Sports F1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234493
+#EXTINF:-1,UK: VIP Sky Sports Cricket FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234490
+#EXTINF:-1,UK: VIP Sky Sports Cricket
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234491
+#EXTINF:-1,UK: VIP Sky Sports Golf FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234488
+#EXTINF:-1,UK: VIP Sky Sports Golf
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234489
+#EXTINF:-1,UK: VIP Sky Sports Action
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234487
+#EXTINF:-1,UK: VIP Sky Sports Action FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234486
+#EXTINF:-1,UK: VIP Sky Sports Arena FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234484
+#EXTINF:-1,UK: VIP Sky Sports Arena
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234485
+#EXTINF:-1,UK: VIP Sky Sports Box Office FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234538
+#EXTINF:-1,UK: VIP Sky Sports Box Office
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234539
+#EXTINF:-1,UK: VIP ITV Box Office
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234542
+#EXTINF:-1,UK: VIP Virgin Media Sports FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234531
+#EXTINF:-1,UK: VIP BT Sport ESPN FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234505
+#EXTINF:-1,UK: VIP BT Sport ESPN HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234506
+#EXTINF:-1,UK: VIP BT Sport ESPN
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234507
+#EXTINF:-1,UK: VIP BT Sport 1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234498
+#EXTINF:-1,UK: VIP BT Sport 1 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234497
+#EXTINF:-1,UK: VIP BT Sport 2
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234501
+#EXTINF:-1,UK: VIP BT Sport 2 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234500
+#EXTINF:-1,UK: VIP BT Sport 3
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234504
+#EXTINF:-1,UK: VIP BT Sport 3 HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234503
+#EXTINF:-1,UK: VIP BT Sport Extra 1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234525
+#EXTINF:-1,UK: VIP BT Sport Extra 2
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234526
+#EXTINF:-1,UK: VIP BT Sport Extra 3
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234527
+#EXTINF:-1,UK: VIP BT Sport Extra 4
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234528
+#EXTINF:-1,UK: VIP BT Sport Extra 5
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234529
+#EXTINF:-1,UK: VIP BT Sport Extra 6
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234530
+#EXTINF:-1,UK: VIP BT Sport Box Office
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234541
+#EXTINF:-1,UK: VIP BT Sport Box Office FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234540
+#EXTINF:-1,UK: VIP BT Sport Ultimate HD (Match Day Only)
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/277750
+#EXTINF:-1,UK: VIP F1 TV FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332922
+#EXTINF:-1,UK: VIP F1 Pit
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332921
+#EXTINF:-1,UK: VIP F1 Data
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332920
+#EXTINF:-1,UK: VIP F1 Driver
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332919
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 01
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332918
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 02
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332917
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 03
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332916
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 04
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332915
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 05
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332914
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 06
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332913
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 07
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332912
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 08
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332911
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 09
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332910
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 10
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332909
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 11
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332908
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 12
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332907
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 13
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332906
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 14
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332905
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 15
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332904
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 16
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332903
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 17
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332902
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 18
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332901
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 19
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332900
+#EXTINF:-1,UK: VIP F1 OB Driver Cam 20
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/332899
+#EXTINF:-1,UK: VIP MUTV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234524
+#EXTINF:-1,UK: VIP MUTV FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234523
+#EXTINF:-1,UK: VIP LFC TV FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234522
+#EXTINF:-1,UK: VIP Boxnation
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234521
+#EXTINF:-1,UK: VIP Boxnation FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234520
+#EXTINF:-1,UK: VIP Racing UK
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234519
+#EXTINF:-1,UK: VIP Racing UK FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234518
+#EXTINF:-1,UK: VIP eir Sports 2 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234515
+#EXTINF:-1,UK: VIP eir Sports 1 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234514
+#EXTINF:-1,UK: VIP Premier Sports 1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234511
+#EXTINF:-1,UK: VIP Premier Sports 1 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234510
+#EXTINF:-1,UK: VIP Premier Sports 2
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234513
+#EXTINF:-1,UK: VIP Premier Sports 2 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234512
+#EXTINF:-1,UK: VIP FreeSports FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234509
+#EXTINF:-1,UK: VIP LaLigaTV FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/328418
+#EXTINF:-1,UK: VIP Redbull TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/359858
+#EXTINF:-1,UK: VIP Celtic TV (Live Match Only)
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/198454
+#EXTINF:-1,UK: VIP Cartoon Network FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234630
+#EXTINF:-1,UK: VIP Cartoonito
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234633
+#EXTINF:-1,UK: VIP Boomerang FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234634
+#EXTINF:-1,UK: VIP CBeebies
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234654
+#EXTINF:-1,UK: VIP CBeebies FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234653
+#EXTINF:-1,UK: VIP CBBC (07-21)
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234652
+#EXTINF:-1,UK: VIP CBBC FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234651
+#EXTINF:-1,UK: VIP Nickelodeon FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234636
+#EXTINF:-1,UK: VIP Nickelodeon
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234637
+#EXTINF:-1,UK: VIP Nicktoons
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234643
+#EXTINF:-1,UK: VIP Nick Jr FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234639
+#EXTINF:-1,UK: VIP Nick Jr.
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234640
+#EXTINF:-1,UK: VIP Nick Jr. Too
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234642
+#EXTINF:-1,UK: VIP Baby TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234663
+#EXTINF:-1,UK: VIP Pop
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234657
+#EXTINF:-1,UK: VIP POP Max
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234659
+#EXTINF:-1,UK: VIP Tiny Pop
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234661
+#EXTINF:-1,UK: VIP CITV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234655
+#EXTINF:-1,UK: VIP CoComelon
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/323682
+#EXTINF:-1,UK: VIP Sky Cinema Thriller FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234441
+#EXTINF:-1,UK: VIP Sky Cinema Thriller
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234442
+#EXTINF:-1,UK: VIP Sky Cinema Action FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234439
+#EXTINF:-1,UK: VIP Sky Cinema Action
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234440
+#EXTINF:-1,UK: VIP Sky Cinema Premiere FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234436
+#EXTINF:-1,UK: VIP Sky Cinema Premiere +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234438
+#EXTINF:-1,UK: VIP Sky Cinema Premier
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234437
+#EXTINF:-1,UK: VIP Sky Cinema Family FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234457
+#EXTINF:-1,UK: VIP Sky Cinema Family
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234458
+#EXTINF:-1,UK: VIP Sky Cinema Comedy
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234454
+#EXTINF:-1,UK: VIP Sky Cinema Comedy FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234453
+#EXTINF:-1,UK: VIP Sky Cinema Sci-fi &amp; Horror FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234451
+#EXTINF:-1,UK: VIP Sky Cinema Sci-fi &amp; Horror
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234452
+#EXTINF:-1,UK: VIP Sky Cinema Select FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234449
+#EXTINF:-1,UK: VIP Sky Cinema Select
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234450
+#EXTINF:-1,UK: VIP Sky Cinema Hits FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234447
+#EXTINF:-1,UK: VIP Sky Cinema Hits
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234448
+#EXTINF:-1,UK: VIP Sky Cinema Drama FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234445
+#EXTINF:-1,UK: VIP Sky Cinema Drama
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234446
+#EXTINF:-1,UK: VIP Sky Cinema Greats
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234444
+#EXTINF:-1,UK: VIP Sky Cinema Greats FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234443
+#EXTINF:-1,UK: VIP Sony Movies  +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234464
+#EXTINF:-1,UK: VIP Film4 +1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234462
+#EXTINF:-1,UK: VIP Film4
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234461
+#EXTINF:-1,UK: VIP Film4 FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234460
+#EXTINF:-1,UK: VIP TCM FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234459
+#EXTINF:-1,UK: VIP Sky News
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234598
+#EXTINF:-1,UK: VIP CNN
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177437
+#EXTINF:-1,UK: VIP BBC News FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/177455
+#EXTINF:-1,UK: VIP BBC Parliament
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234599
+#EXTINF:-1,UK: VIP NDTV 24x7
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234600
+#EXTINF:-1,UK: VIP Trace Urban
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234621
+#EXTINF:-1,UK: VIP MTV Classic
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234613
+#EXTINF:-1,UK: VIP MTV Hits
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234611
+#EXTINF:-1,UK: VIP MTV Base
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234609
+#EXTINF:-1,UK: VIP MTV 80s
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234608
+#EXTINF:-1,UK: VIP MTV HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234605
+#EXTINF:-1,UK: VIP MTV FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234602
+#EXTINF:-1,UK: VIP Kiss TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234619
+#EXTINF:-1,UK: VIP Box Hits
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234617
+#EXTINF:-1,UK: VIP The Box
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234616
+#EXTINF:-1,UK: VIP VH1
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/234614
+#EXTINF:-1,UK: VIP iConcerts HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/328432
+#EXTINF:-1,UK: VIP 4Music
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/328431
+#EXTINF:-1,UK: VIP Trace Latina FHD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/328430
+#EXTINF:-1,UK: VIP Magic
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/328429
+#EXTINF:-1,UK: VIP Kerrang! TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/328428
+#EXTINF:-1,UK: VIP Clubland TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/328427
+#EXTINF:-1,UK: VIP Now 70s
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/328425
+#EXTINF:-1,UK: VIP Now 80s
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/328424
+#EXTINF:-1,UK: VIP Now 90s
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/328423
+#EXTINF:-1,UK: VIP Spotlight TV
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/328421
+#EXTINF:-1,UK: VIP B4U MUSIC (Indian)
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/328419
+#EXTINF:-1,UK: VIP iFollow 01
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293886
+#EXTINF:-1,UK: VIP iFollow 02
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293885
+#EXTINF:-1,UK: VIP iFollow 03
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293884
+#EXTINF:-1,UK: VIP iFollow 04
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293883
+#EXTINF:-1,UK: VIP iFollow 05
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293882
+#EXTINF:-1,UK: VIP iFollow 06
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293881
+#EXTINF:-1,UK: VIP iFollow 07
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293880
+#EXTINF:-1,UK: VIP iFollow 08
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293879
+#EXTINF:-1,UK: VIP iFollow 09
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293878
+#EXTINF:-1,UK: VIP iFollow 10
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293877
+#EXTINF:-1,UK: VIP iFollow 11
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293876
+#EXTINF:-1,UK: VIP iFollow 12
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293875
+#EXTINF:-1,UK: VIP iFollow 13
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293874
+#EXTINF:-1,UK: VIP iFollow 14
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293873
+#EXTINF:-1,UK: VIP iFollow 15
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293872
+#EXTINF:-1,UK: VIP iFollow 16
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293871
+#EXTINF:-1,UK: VIP iFollow 17
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293870
+#EXTINF:-1,UK: VIP iFollow 18
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293869
+#EXTINF:-1,UK: VIP iFollow 19
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/293868
