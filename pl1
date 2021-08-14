@@ -7,385 +7,191 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
 #EXTINF:-1 ,TVP3 Szczecin
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
-#EXTINF:-1,Pl:TELE 5
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71226
-#EXTINF:-1,Pl:Nuta TV
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71227
-#EXTINF:-1,Pl:KSW PPV FHD [ Match Time ]
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71228
-#EXTINF:-1,Pl:Polsat Sport Premium PPV 6
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71229
-#EXTINF:-1,Pl:Polsat Sport Premium PPV 5
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71230
-#EXTINF:-1,Pl:Polsat Sport Premium PPV 4
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71231
-#EXTINF:-1,Pl:Polsat Sport Premium PPV 3
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71232
-#EXTINF:-1,Pl:Polsat Sport Premium 2 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71233
-#EXTINF:-1,Pl:Polsat Sport Premium 1 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71234
-#EXTINF:-1,Pl:teleTOON+ FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71235
-#EXTINF:-1,Pl:nSport+
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71236
-#EXTINF:-1,Pl:wPolsce.pl
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71237
-#EXTINF:-1,Pl:Zoom TV
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71238
-#EXTINF:-1,Pl:WP
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71239
-#EXTINF:-1,Pl:VOX Music TV
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71240
-#EXTINF:-1,Pl:NOVELA TV
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71241
-#EXTINF:-1,Pl:VH1
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71242
-#EXTINF:-1,Pl:VOD 208
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71244
-#EXTINF:-1,Pl:VOD 207
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71245
-#EXTINF:-1,Pl:VOD 206
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71246
-#EXTINF:-1,Pl:VOD 205
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71247
-#EXTINF:-1,Pl:Da Vinci
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71250
-#EXTINF:-1,Pl:Travel Channel FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71251
-#EXTINF:-1,Pl:TVS
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71252
-#EXTINF:-1,Pl:TVP Sport HD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71253
-#EXTINF:-1,Pl:TVP Sport FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71254
-#EXTINF:-1,Pl:TVP SERIALE
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71255
-#EXTINF:-1,Pl:TVP Rozrywka
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71256
-#EXTINF:-1,Pl:TVP Kultura
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71257
-#EXTINF:-1,Pl:TVP INFO FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71258
-#EXTINF:-1,Pl:TVP Historia
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71259
-#EXTINF:-1,Pl:TVP FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71260
-#EXTINF:-1,Pl:TVP ABC
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71261
-#EXTINF:-1,Pl:TV6
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71262
-#EXTINF:-1,Pl:TV4 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71263
-#EXTINF:-1,Pl:TV Republika
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71264
-#EXTINF:-1,Pl:TV PULS FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71265
-#EXTINF:-1,Pl:TVP 3
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71266
-#EXTINF:-1,Pl:TVP 2 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71267
-#EXTINF:-1,Pl:TVP 1 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71268
-#EXTINF:-1,Pl:TVN24 BiS FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71269
-#EXTINF:-1,Pl:TVN Turbo FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71270
-#EXTINF:-1,Pl:TVN Style FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71271
-#EXTINF:-1,Pl:TVN FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71272
-#EXTINF:-1,Pl:TVN Fabula
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71273
-#EXTINF:-1,Pl:TVN 7 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71274
-#EXTINF:-1,Pl:TVN 24 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71275
-#EXTINF:-1,Pl:TV Okazje
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71276
-#EXTINF:-1,Pl:TTV FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71277
-#EXTINF:-1,Pl:TNT FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71278
-#EXTINF:-1,Pl:TLC FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71279
-#EXTINF:-1,Pl:Superstacja
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71280
-#EXTINF:-1,Pl:Super Polsat
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71281
-#EXTINF:-1,Pl:Sundance FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71282
-#EXTINF:-1,Pl:Stopklatka
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71283
-#EXTINF:-1,Pl:Sportklub FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71284
-#EXTINF:-1,Pl:SciFi FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71285
-#EXTINF:-1,Pl:Stars TV
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71286
-#EXTINF:-1,Pl:Romance TV
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71287
-#EXTINF:-1,Pl:Red Carpet TV
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71288
-#EXTINF:-1,Pl:Puls 2
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71289
-#EXTINF:-1,Pl:Polsat Viasat Nature FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71290
-#EXTINF:-1,Pl:Polsat Viasat History FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71291
-#EXTINF:-1,Pl:Polsat Viasat Explore FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71292
-#EXTINF:-1,Pl:Polsat Sport News FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71293
-#EXTINF:-1,Pl:Polsat Sport FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71294
-#EXTINF:-1,Pl:Polsat Sport Fight HD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71295
-#EXTINF:-1,Pl:Polsat Sport Fight FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71296
-#EXTINF:-1,Pl:Polsat Sport Extra HD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71297
-#EXTINF:-1,Pl:Polsat Sport Extra FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71298
-#EXTINF:-1,Pl:Polsat Romans
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71299
-#EXTINF:-1,Pl:Polsat Rodzina
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71300
-#EXTINF:-1,Pl:Polsat Jim Jam
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71301
-#EXTINF:-1,Pl:Polsat Doku FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71302
-#EXTINF:-1,Pl:Polsat Comedy Central Extra
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71303
-#EXTINF:-1,Pl:Polsat Seriale
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71304
-#EXTINF:-1,Pl:Polsat Play HD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71305
-#EXTINF:-1,Pl:Polsat Play FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71306
-#EXTINF:-1,Pl:Polsat News FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71307
-#EXTINF:-1,Pl:Polsat News 2
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71308
-#EXTINF:-1,Pl:Polsat Music FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71309
-#EXTINF:-1,Pl:Polsat Games
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71310
-#EXTINF:-1,Pl:Polsat Film FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71311
-#EXTINF:-1,Pl:Polsat Cafe FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71312
-#EXTINF:-1,Pl:Polsat 2 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71313
-#EXTINF:-1,Pl:Polsat FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71314
-#EXTINF:-1,Pl:Polo TV
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71315
-#EXTINF:-1,Pl:Planete+ FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71316
-#EXTINF:-1,Pl:Paramount Channel FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71317
-#EXTINF:-1,Pl:Nicktoons FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71318
-#EXTINF:-1,Pl:Nickelodeon
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71319
-#EXTINF:-1,Pl:Nick Jr
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71320
-#EXTINF:-1,Pl:Nowa TV
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71321
-#EXTINF:-1,Pl:Nat Geo People FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71322
-#EXTINF:-1,Pl:Nat Geo Wild FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71323
-#EXTINF:-1,Pl:NATIONAL GEO FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71324
-#EXTINF:-1,Pl:Motowizja FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71325
-#EXTINF:-1,Pl:MTV Rocks
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71326
-#EXTINF:-1,Pl:MTV Polska FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71327
-#EXTINF:-1,Pl:MTV Music 24
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71328
-#EXTINF:-1,Pl:MTV Live FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71329
-#EXTINF:-1,Pl:MiniMini+ FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71330
-#EXTINF:-1,Pl:Metro
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71331
-#EXTINF:-1,Pl:Lifetime FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71332
-#EXTINF:-1,Pl:Kuchnia+ FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71333
-#EXTINF:-1,Pl:Kino TV FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71334
-#EXTINF:-1,Pl:Kino Polska Muzyka
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71335
-#EXTINF:-1,Pl:KINO POLSKA FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71336
-#EXTINF:-1,Pl:ID FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71337
-#EXTINF:-1,Pl:HGTV FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71338
-#EXTINF:-1,Pl:History 2 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71339
-#EXTINF:-1,Pl:History FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71340
-#EXTINF:-1,Pl:HBO3 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71341
-#EXTINF:-1,Pl:HBO2 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71342
-#EXTINF:-1,Pl:HBO FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71343
-#EXTINF:-1,Pl:Golf Channel
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71344
-#EXTINF:-1,Pl:Food Network FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71345
-#EXTINF:-1,Pl:Fokus TV
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71346
-#EXTINF:-1,Pl:Fox Comedy FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71347
-#EXTINF:-1,Pl:Fox Comedy
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71348
-#EXTINF:-1,Pl:FOX FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71349
-#EXTINF:-1,Pl:FOX
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71350
-#EXTINF:-1,Pl:Filmbox Premium FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71351
-#EXTINF:-1,Pl:Filmbox Arthouse
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71352
-#EXTINF:-1,Pl:FilmBox Family
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71353
-#EXTINF:-1,Pl:FilmBox Extra FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71354
-#EXTINF:-1,Pl:FilmBox Action
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71355
-#EXTINF:-1,Pl:Fightbox FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71356
-#EXTINF:-1,Pl:Fightklub FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71357
-#EXTINF:-1,Pl:Extreme Sports HD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71358
-#EXTINF:-1,Pl:Extreme Sports FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71359
-#EXTINF:-1,Pl:Eska TV Extra
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71364
-#EXTINF:-1,Pl:Eska TV
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71365
-#EXTINF:-1,Pl:Eska Rock
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71366
-#EXTINF:-1,Pl:Epic Drama FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71367
-#EXTINF:-1,Pl:ELEVEN SPORTS 4 HD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71368
-#EXTINF:-1,Pl:ELEVEN SPORTS 4 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71369
-#EXTINF:-1,Pl:Eleven Sports 3 HD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71370
-#EXTINF:-1,Pl:Eleven Sports 3 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71371
-#EXTINF:-1,Pl:Eleven Sports 2 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71372
-#EXTINF:-1,Pl:Eleven Sports 1 HD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71373
-#EXTINF:-1,Pl:Eleven Sports 1 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71374
-#EXTINF:-1,Pl:E! Entertainment FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71375
-#EXTINF:-1,Pl:Disney XD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71376
-#EXTINF:-1,Pl:Disney Junior
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71377
-#EXTINF:-1,Pl:Disney Channel FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71378
-#EXTINF:-1,Pl:Discovery Life FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71379
-#EXTINF:-1,Pl:Discovery Historia
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71380
-#EXTINF:-1,Pl:Discovery Science FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71381
-#EXTINF:-1,Pl:Discovery FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71382
-#EXTINF:-1,Pl:Disco Polo Music
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71383
-#EXTINF:-1,Pl:DTX FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71384
-#EXTINF:-1,Pl:DOMO+ FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71385
-#EXTINF:-1,Pl:Comedy Central FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71386
-#EXTINF:-1,Pl:Cinemax 2 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71387
-#EXTINF:-1,Pl:Cinemax FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71388
-#EXTINF:-1,Pl:Cartoon Network FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71389
-#EXTINF:-1,Pl:CI Polsat FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71390
-#EXTINF:-1,Pl:CBS Reality FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71391
-#EXTINF:-1,Pl:Canal+ Seriale FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71393
-#EXTINF:-1,Pl:CANAL+ SPORT 3 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/111271
-#EXTINF:-1,Pl:CANAL+ SPORT 4 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/111272
-#EXTINF:-1,Pl:Canal+ Sport 2 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71394
-#EXTINF:-1,Pl:Canal+ Sport 1 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71395
-#EXTINF:-1,Pl:Canal+ Premium FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71396
-#EXTINF:-1,Pl:Canal+ Now FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71397
-#EXTINF:-1,Pl:Canal+1 FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71398
-#EXTINF:-1,Pl:Canal+ Family FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71399
-#EXTINF:-1,Pl:Canal+ Dokument FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71400
-#EXTINF:-1,Pl:Boomerang FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71401
-#EXTINF:-1,Pl:BBC Cbeebies
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71402
-#EXTINF:-1,Pl:BBC Brit FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71403
-#EXTINF:-1,Pl:BBC FIRST FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71404
-#EXTINF:-1,Pl:BBC Earth FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71405
-#EXTINF:-1,Pl:Ale kino+ FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71406
-#EXTINF:-1,Pl:ATM Rozrywka TV
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71407
-#EXTINF:-1,Pl:AMC FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71408
-#EXTINF:-1,Pl:Animal Planet FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71409
-#EXTINF:-1,Pl:Adventure FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71410
-#EXTINF:-1,Pl:Active Family
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71411
-#EXTINF:-1,Pl:AXN White
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71412
-#EXTINF:-1,Pl:AXN SPIN FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71413
-#EXTINF:-1,Pl:AXN Black
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71414
-#EXTINF:-1,Pl:AXN
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71415
-#EXTINF:-1,Pl:AXN FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71416
-#EXTINF:-1,Pl:4Fun.TV
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71417
-#EXTINF:-1,Pl:4Fun Gold Hits
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71418
-#EXTINF:-1,Pl:4Fun Dance
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71419
-#EXTINF:-1,Pl:13 Ulica FHD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71420
-#EXTINF:-1,Pl:Polsat Sport HD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/33575
-#EXTINF:-1,Pl:Polsat Sport News HD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/33576
+#EXTINF:-1,PL | AXN HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25192
+#EXTINF:-1,PL | ANIMAL PLANET FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25193
+#EXTINF:-1,PL | BABY TV HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25194
+#EXTINF:-1,PL | BBC Brit FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25195
+#EXTINF:-1,PL | BBC Earth FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25196
+#EXTINF:-1,PL | BBC FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25197
+#EXTINF:-1,PL | BOOMERANG
+http://abmmedya.com:8080/erhansardogan/6580103092/25198
+#EXTINF:-1,PL | Da Vinci Learning
+http://abmmedya.com:8080/erhansardogan/6580103092/25216
+#EXTINF:-1,PL | Discovery HISTORIA
+http://abmmedya.com:8080/erhansardogan/6580103092/25217
+#EXTINF:-1,PL | Discovery Life FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25218
+#EXTINF:-1,PL | Discovery Science FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25219
+#EXTINF:-1,PL | DISCOVERY HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25220
+#EXTINF:-1,PL | DISCOVERY LIFE
+http://abmmedya.com:8080/erhansardogan/6580103092/25221
+#EXTINF:-1,PL | DISNEY CHANNEL HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25222
+#EXTINF:-1,PL | DISNEY XD
+http://abmmedya.com:8080/erhansardogan/6580103092/25223
+#EXTINF:-1,PL | ELEVEN SPORT HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25224
+#EXTINF:-1,PL | ELEVEN SPORTS 1 FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25225
+#EXTINF:-1,PL | ELEVEN SPORTS 2 FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25226
+#EXTINF:-1,PL | ELEVEN SPORTS 3 FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25227
+#EXTINF:-1,PL | ELEVEN SPORTS 4 FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25228
+#EXTINF:-1,PL | FIGHT BOX FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25229
+#EXTINF:-1,PL | FIGHT CLUB FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25230
+#EXTINF:-1,PL | Filmbox Action FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25231
+#EXTINF:-1,PL | FilmBox Arthouse FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25232
+#EXTINF:-1,PL | Filmbox Extra FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25233
+#EXTINF:-1,PL | FilmBox Family HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25234
+#EXTINF:-1,PL | Filmbox FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25235
+#EXTINF:-1,PL | Filmbox Premium FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25236
+#EXTINF:-1,PL | Fokus TV
+http://abmmedya.com:8080/erhansardogan/6580103092/25237
+#EXTINF:-1,PL | Food Network FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25238
+#EXTINF:-1,PL | FILMBOX ACTION
+http://abmmedya.com:8080/erhansardogan/6580103092/25239
+#EXTINF:-1,PL | FOX HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25240
+#EXTINF:-1,PL | Fox Comedy FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25241
+#EXTINF:-1,PL | FOX Life
+http://abmmedya.com:8080/erhansardogan/6580103092/25242
+#EXTINF:-1,PL | GOLF Channel FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25243
+#EXTINF:-1,PL | H2 FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25244
+#EXTINF:-1,PL | HBO 1 FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25245
+#EXTINF:-1,PL | HBO 2 FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25246
+#EXTINF:-1,PL | HBO 3 FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25247
+#EXTINF:-1,PL | HBO FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25248
+#EXTINF:-1,PL | HGTV FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25249
+#EXTINF:-1,PL | TVP Historia
+http://abmmedya.com:8080/erhansardogan/6580103092/25250
+#EXTINF:-1,PL | History 2 FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25251
+#EXTINF:-1,PL | Investigation Discovery FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25252
+#EXTINF:-1,PL | Kino Polska FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25253
+#EXTINF:-1,PL | Kino Polska Muzyka
+http://abmmedya.com:8080/erhansardogan/6580103092/25254
+#EXTINF:-1,PL | Kino TV HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25255
+#EXTINF:-1,PL | Kuchnia FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25256
+#EXTINF:-1,PL | KINO POLSKA HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25257
+#EXTINF:-1,PL | HBO 2 HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25258
+#EXTINF:-1,PL | HBO 3 HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25259
+#EXTINF:-1,PL | HBO HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25260
+#EXTINF:-1,PL | INVESTIGATION DISCOVERY POLSKA
+http://abmmedya.com:8080/erhansardogan/6580103092/25261
+#EXTINF:-1,PL | NAT GEO HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25262
+#EXTINF:-1,PL | NAT GEO WILD HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25263
+#EXTINF:-1,PL | NSPORT
+http://abmmedya.com:8080/erhansardogan/6580103092/25264
+#EXTINF:-1,PL | POLSAT 2 HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25265
+#EXTINF:-1,PL | POLSAT CAFE
+http://abmmedya.com:8080/erhansardogan/6580103092/25266
+#EXTINF:-1,PL | POLSAT FILM FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25267
+#EXTINF:-1,PL | POLSAT Doku FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25268
+#EXTINF:-1,PL | POLSAT Games FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25269
+#EXTINF:-1,PL | POLSAT JimJam HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25270
+#EXTINF:-1,PL | POLSAT Music FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25271
+#EXTINF:-1,PL | POLSAT NEWS 2 HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25272
+#EXTINF:-1,PL | POLSAT News FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25273
+#EXTINF:-1,PL | POLSAT Sport Premium 1 FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25274
+#EXTINF:-1,PL | POLSAT Sport Premium 2 FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25275
+#EXTINF:-1,PL | POLSAT HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25276
+#EXTINF:-1,PL | POLSAT PLAY
+http://abmmedya.com:8080/erhansardogan/6580103092/25277
+#EXTINF:-1,PL | POLSAT SPORT EXTRA HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25278
+#EXTINF:-1,PL | POLSAT SPORT HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25279
+#EXTINF:-1,PL |  SciFi Universal FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25280
+#EXTINF:-1,PL | SciFi Universal FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25281
+#EXTINF:-1,PL | Sport Klub FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25282
+#EXTINF:-1,PL | SPORT TV 1 ULTRA FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25283
+#EXTINF:-1,PL | TeleToon+ FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25284
+#EXTINF:-1,PL | TheBlaze TV
+http://abmmedya.com:8080/erhansardogan/6580103092/25285
+#EXTINF:-1,PL | TLC FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25286
+#EXTINF:-1,PL | TNT FHD
+http://abmmedya.com:8080/erhansardogan/6580103092/25287
+#EXTINF:-1,PL | TV 4 HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25288
+#EXTINF:-1,PL | HISTORY 2 HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25289
+#EXTINF:-1,PL | TVN 24 HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25290
+#EXTINF:-1,PL | TVN 7 HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25291
+#EXTINF:-1,PL | TVN HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25292
+#EXTINF:-1,PL | TVN STYLE HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25293
+#EXTINF:-1,PL | TVP TURBO HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25294
+#EXTINF:-1,PL | TVP 1 HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25295
+#EXTINF:-1,PL | TVP 2 HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25296
+#EXTINF:-1,PL | TVP 3 HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25297
+#EXTINF:-1,PL | TVP INFO
+http://abmmedya.com:8080/erhansardogan/6580103092/25298
+#EXTINF:-1,PL | TVP SERIALE
+http://abmmedya.com:8080/erhansardogan/6580103092/25299
+#EXTINF:-1,PL | TVP SPORT HD
+http://abmmedya.com:8080/erhansardogan/6580103092/25300
+#EXTINF:-1,PL | VOX MUSIC TV
+http://abmmedya.com:8080/erhansardogan/6580103092/25301
+#EXTINF:-1,PL | Zoom TV
+http://abmmedya.com:8080/erhansardogan/6580103092/25302
