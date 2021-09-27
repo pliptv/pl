@@ -1,317 +1,459 @@
 #EXTM3U
 #EXTINF:-1,PL| TVP info FHD
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-#EXTINF:-1 ,TVP3 Lodz
+#EXTINF:-1,TVP3 Lodz
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
-#EXTINF:-1 ,TVP3 Gdansk
+#EXTINF:-1,TVP3 Gdansk
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
-#EXTINF:-1,PL: 13 ULICA FHD
-http://62.182.81.111:8000/stef01/stef01/35669
-#EXTINF:-1,PL: 4FUN DANCE
-http://62.182.81.111:8000/stef01/stef01/35667
-#EXTINF:-1,PL: 4FUN GOLD HITS
-http://62.182.81.111:8000/stef01/stef01/35666
-#EXTINF:-1,PL: ADVENTURE HD
-http://62.182.81.111:8000/stef01/stef01/35664
-#EXTINF:-1,PL: ALE KINO  HEVC
-http://62.182.81.111:8000/stef01/stef01/35661
-#EXTINF:-1,PL: AMC HD
-http://62.182.81.111:8000/stef01/stef01/35660
-#EXTINF:-1,PL: AMC HEVC
-http://62.182.81.111:8000/stef01/stef01/35659
-#EXTINF:-1,PL: AXN FHD
-http://62.182.81.111:8000/stef01/stef01/35658
-#EXTINF:-1,PL: AXN HEVC
-http://62.182.81.111:8000/stef01/stef01/35657
-#EXTINF:-1,PL: AXN SPIN HD
-http://62.182.81.111:8000/stef01/stef01/35656
-#EXTINF:-1,PL: AXN SPIN HEVC
-http://62.182.81.111:8000/stef01/stef01/35655
-#EXTINF:-1,PL: BBC EARTH HD
-http://62.182.81.111:8000/stef01/stef01/35654
-#EXTINF:-1,PL: BBC EARTH HEVC
-http://62.182.81.111:8000/stef01/stef01/35653
-#EXTINF:-1,PL: BBC FIRST FHD
-http://62.182.81.111:8000/stef01/stef01/35652
-#EXTINF:-1,PL: BBC FIRST HEVC
-http://62.182.81.111:8000/stef01/stef01/35651
-#EXTINF:-1,PL: BOOMERANG FHD
-http://62.182.81.111:8000/stef01/stef01/35650
-#EXTINF:-1,PL: BOOMERANG HEVC
-http://62.182.81.111:8000/stef01/stef01/35649
-#EXTINF:-1,PL: CANAL  FILM HD
-http://62.182.81.111:8000/stef01/stef01/35644
-#EXTINF:-1,PL: CANAL  FILM HEVC
-http://62.182.81.111:8000/stef01/stef01/35643
-#EXTINF:-1,PL: CANAL  SERIALE HEVC
-http://62.182.81.111:8000/stef01/stef01/35639
-#EXTINF:-1,PL: CANAL  SPORT 2 FHD
-http://62.182.81.111:8000/stef01/stef01/35638
-#EXTINF:-1,PL: CANAL  SPORT 2 HEVC
-http://62.182.81.111:8000/stef01/stef01/35637
-#EXTINF:-1,PL: CANAL  SPORT HEVC
-http://62.182.81.111:8000/stef01/stef01/35635
-#EXTINF:-1,PL: CANAL 1 HD
-http://62.182.81.111:8000/stef01/stef01/35634
-#EXTINF:-1,PL: CANAL 1 HEVC
-http://62.182.81.111:8000/stef01/stef01/35633
-#EXTINF:-1,PL: CANAL SERIALE HD
-http://62.182.81.111:8000/stef01/stef01/35640
-#EXTINF:-1,PL: CBS REALITY FHD
-http://62.182.81.111:8000/stef01/stef01/35632
-#EXTINF:-1,PL: CINEMAX 2 FHD
-http://62.182.81.111:8000/stef01/stef01/35631
-#EXTINF:-1,PL: CINEMAX 2 HEVC
-http://62.182.81.111:8000/stef01/stef01/35630
-#EXTINF:-1,PL: COMEDY CENTRAL HD
-http://62.182.81.111:8000/stef01/stef01/35627
-#EXTINF:-1,PL: DA VINCI
-http://62.182.81.111:8000/stef01/stef01/35625
-#EXTINF:-1,PL: DISCOVERY FHD
-http://62.182.81.111:8000/stef01/stef01/35624
-#EXTINF:-1,PL: DISCOVERY HEVC
-http://62.182.81.111:8000/stef01/stef01/35623
-#EXTINF:-1,PL: DISCOVERY HISTORIA
-http://62.182.81.111:8000/stef01/stef01/35622
-#EXTINF:-1,PL: DISCOVERY SCIENCE HD
-http://62.182.81.111:8000/stef01/stef01/35621
-#EXTINF:-1,PL: E! ENTERTAINMENT FHD
-http://62.182.81.111:8000/stef01/stef01/35618
-#EXTINF:-1,PL: ELEVEN SPORTS 1 FHD
-http://62.182.81.111:8000/stef01/stef01/35616
-#EXTINF:-1,PL: ELEVEN SPORTS 3 HEVC
-http://62.182.81.111:8000/stef01/stef01/35612
-#EXTINF:-1,PL: ELEVEN SPORTS 4 HD
-http://62.182.81.111:8000/stef01/stef01/35611
-#EXTINF:-1,PL: ELEVEN SPORTS 4 HEVC
-http://62.182.81.111:8000/stef01/stef01/35610
-#EXTINF:-1,PL: ESKA TV EXTRA FHD
-http://62.182.81.111:8000/stef01/stef01/35608
-#EXTINF:-1,PL: ESKA TV FHD
-http://62.182.81.111:8000/stef01/stef01/35609
-#EXTINF:-1,PL: FILMBOX ARTHOUSE
-http://62.182.81.111:8000/stef01/stef01/35600
-#EXTINF:-1,PL: FILMBOX EXTRA FHD
-http://62.182.81.111:8000/stef01/stef01/35599
-#EXTINF:-1,PL: FILMBOX EXTRA HEVC
-http://62.182.81.111:8000/stef01/stef01/35598
-#EXTINF:-1,PL: FILMBOX FAMILY FHD
-http://62.182.81.111:8000/stef01/stef01/35597
-#EXTINF:-1,PL: FOKUS TV HD
-http://62.182.81.111:8000/stef01/stef01/35594
-#EXTINF:-1,PL: FOKUS TV HEVC
-http://62.182.81.111:8000/stef01/stef01/35593
-#EXTINF:-1,PL: FOOD NETWORK HEVC
-http://62.182.81.111:8000/stef01/stef01/35591
-#EXTINF:-1,PL: FOX HD
-http://62.182.81.111:8000/stef01/stef01/35588
-#EXTINF:-1,PL: HBO FHD
-http://62.182.81.111:8000/stef01/stef01/35586
-#EXTINF:-1,PL: HBO2 FHD
-http://62.182.81.111:8000/stef01/stef01/35585
-#EXTINF:-1,PL: HBO2 HEVC
-http://62.182.81.111:8000/stef01/stef01/35584
-#EXTINF:-1,PL: HBO3 FHD
-http://62.182.81.111:8000/stef01/stef01/35583
-#EXTINF:-1,PL: HBO3 HEVC
-http://62.182.81.111:8000/stef01/stef01/35582
-#EXTINF:-1,PL: HGTV HD
-http://62.182.81.111:8000/stef01/stef01/35581
-#EXTINF:-1,PL: HGTV HEVC
-http://62.182.81.111:8000/stef01/stef01/35580
-#EXTINF:-1,PL: KINO POLSKA HD
-http://62.182.81.111:8000/stef01/stef01/35574
-#EXTINF:-1,PL: KINO POLSKA HEVC
-http://62.182.81.111:8000/stef01/stef01/35573
-#EXTINF:-1,PL: KINO POLSKA MUZYKA
-http://62.182.81.111:8000/stef01/stef01/35572
-#EXTINF:-1,PL: KINO TV HD
-http://62.182.81.111:8000/stef01/stef01/35571
-#EXTINF:-1,PL: KINO TV HEVC
-http://62.182.81.111:8000/stef01/stef01/35570
-#EXTINF:-1,PL: KUCHNIA  HEVC
-http://62.182.81.111:8000/stef01/stef01/35568
-#EXTINF:-1,PL: KUCHNIA HD
-http://62.182.81.111:8000/stef01/stef01/35569
-#EXTINF:-1,PL: LIFETIME FHD
-http://62.182.81.111:8000/stef01/stef01/35567
-#EXTINF:-1,PL: LIFETIME HEVC
-http://62.182.81.111:8000/stef01/stef01/35566
-#EXTINF:-1,PL: METRO
-http://62.182.81.111:8000/stef01/stef01/35565
-#EXTINF:-1,PL: MINIMINI  HEVC
-http://62.182.81.111:8000/stef01/stef01/35563
-#EXTINF:-1,PL: MINIMINI HD
-http://62.182.81.111:8000/stef01/stef01/35564
-#EXTINF:-1,PL: MOTOWIZJA HD
-http://62.182.81.111:8000/stef01/stef01/35562
-#EXTINF:-1,PL: MTV POLSKA FHD
-http://62.182.81.111:8000/stef01/stef01/35561
-#EXTINF:-1,PL: NATIONAL GEO FHD
-http://62.182.81.111:8000/stef01/stef01/35560
-#EXTINF:-1,PL: NATIONAL GEO WILD FHD
-http://62.182.81.111:8000/stef01/stef01/35559
-#EXTINF:-1,PL: NICK JR
-http://62.182.81.111:8000/stef01/stef01/35558
-#EXTINF:-1,PL: NICKELODEON
-http://62.182.81.111:8000/stef01/stef01/35557
-#EXTINF:-1,PL: NOWA TV
-http://62.182.81.111:8000/stef01/stef01/35556
-#EXTINF:-1,PL: NSPORT  HEVC
-http://62.182.81.111:8000/stef01/stef01/35554
-#EXTINF:-1,PL: NSPORT HD
-http://62.182.81.111:8000/stef01/stef01/35555
-#EXTINF:-1,PL: NUTA TV
-http://62.182.81.111:8000/stef01/stef01/35552
-#EXTINF:-1,PL: PARAMOUNT CHANNEL HD
-http://62.182.81.111:8000/stef01/stef01/35551
-#EXTINF:-1,PL: PARAMOUNT CHANNEL HEVC
-http://62.182.81.111:8000/stef01/stef01/35550
-#EXTINF:-1,PL: PLANETE  HEVC
-http://62.182.81.111:8000/stef01/stef01/35548
-#EXTINF:-1,PL: PLANETE HD
-http://62.182.81.111:8000/stef01/stef01/35549
-#EXTINF:-1,PL: POLO TV FHD
-http://62.182.81.111:8000/stef01/stef01/35547
-#EXTINF:-1,PL: POLSAT 2 FHD
-http://62.182.81.111:8000/stef01/stef01/35546
-#EXTINF:-1,PL: POLSAT 2 HEVC
-http://62.182.81.111:8000/stef01/stef01/35545
-#EXTINF:-1,PL: POLSAT CAFE FHD
-http://62.182.81.111:8000/stef01/stef01/35544
-#EXTINF:-1,PL: POLSAT CAFE HEVC
-http://62.182.81.111:8000/stef01/stef01/35543
-#EXTINF:-1,PL: POLSAT DOKU HD
-http://62.182.81.111:8000/stef01/stef01/35542
-#EXTINF:-1,PL: POLSAT DOKU HEVC
-http://62.182.81.111:8000/stef01/stef01/35541
-#EXTINF:-1,PL: POLSAT FHD
-http://62.182.81.111:8000/stef01/stef01/35538
-#EXTINF:-1,PL: POLSAT FILM FHD
-http://62.182.81.111:8000/stef01/stef01/35540
-#EXTINF:-1,PL: POLSAT HEVC
-http://62.182.81.111:8000/stef01/stef01/35537
-#EXTINF:-1,PL: POLSAT PLAY FHD
-http://62.182.81.111:8000/stef01/stef01/35533
-#EXTINF:-1,PL: POLSAT SPORT FHD
-http://62.182.81.111:8000/stef01/stef01/35530
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM 1 FHD
-http://62.182.81.111:8000/stef01/stef01/35527
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM 1 HEVC
-http://62.182.81.111:8000/stef01/stef01/35526
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM 2 FHD
-http://62.182.81.111:8000/stef01/stef01/35525
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM PPV3 HD
-http://62.182.81.111:8000/stef01/stef01/35524
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM PPV6 HD
-http://62.182.81.111:8000/stef01/stef01/35521
-#EXTINF:-1,PL: POLSAT VIASAT NATURE HD
-http://62.182.81.111:8000/stef01/stef01/35518
-#EXTINF:-1,PL: POWER TV
-http://62.182.81.111:8000/stef01/stef01/35517
-#EXTINF:-1,PL: PULS 2 FHD
-http://62.182.81.111:8000/stef01/stef01/35516
-#EXTINF:-1,PL: ROMANCE TV FHD
-http://62.182.81.111:8000/stef01/stef01/35513
-#EXTINF:-1,PL: ROMANCE TV HEVC
-http://62.182.81.111:8000/stef01/stef01/35512
-#EXTINF:-1,PL: SCIFI HD
-http://62.182.81.111:8000/stef01/stef01/35511
-#EXTINF:-1,PL: SCIFI HEVC
-http://62.182.81.111:8000/stef01/stef01/35510
-#EXTINF:-1,PL: SPORTKLUB HD
-http://62.182.81.111:8000/stef01/stef01/35509
-#EXTINF:-1,PL: STOPKLATKA TV
-http://62.182.81.111:8000/stef01/stef01/35507
-#EXTINF:-1,PL: SUNDANCE HD
-http://62.182.81.111:8000/stef01/stef01/35506
-#EXTINF:-1,PL: SUNDANCE HEVC
-http://62.182.81.111:8000/stef01/stef01/35505
-#EXTINF:-1,PL: SUPER POLSAT HD
-http://62.182.81.111:8000/stef01/stef01/35504
-#EXTINF:-1,PL: SUPER POLSAT HEVC
-http://62.182.81.111:8000/stef01/stef01/35503
-#EXTINF:-1,PL: TELETOON  HEVC
-http://62.182.81.111:8000/stef01/stef01/35501
-#EXTINF:-1,PL: TLC HD
-http://62.182.81.111:8000/stef01/stef01/35500
-#EXTINF:-1,PL: TLC HEVC
-http://62.182.81.111:8000/stef01/stef01/35499
-#EXTINF:-1,PL: TNT HD
-http://62.182.81.111:8000/stef01/stef01/35498
-#EXTINF:-1,PL: TO!TV
-http://62.182.81.111:8000/stef01/stef01/35497
-#EXTINF:-1,PL: TRAVEL CHANNEL HD
-http://62.182.81.111:8000/stef01/stef01/35496
-#EXTINF:-1,PL: TRAVEL CHANNEL HEVC
-http://62.182.81.111:8000/stef01/stef01/35495
-#EXTINF:-1,PL: TTV FHD
-http://62.182.81.111:8000/stef01/stef01/35493
-#EXTINF:-1,PL: TTV HEVC
-http://62.182.81.111:8000/stef01/stef01/35492
-#EXTINF:-1,PL: TV REPUBLIKA
-http://62.182.81.111:8000/stef01/stef01/35489
-#EXTINF:-1,PL: TV4 FHD
-http://62.182.81.111:8000/stef01/stef01/35488
-#EXTINF:-1,PL: TV4 HEVC
-http://62.182.81.111:8000/stef01/stef01/35487
-#EXTINF:-1,PL: TV6 HEVC
-http://62.182.81.111:8000/stef01/stef01/35486
-#EXTINF:-1,PL: TVN 24 FHD
-http://62.182.81.111:8000/stef01/stef01/35485
-#EXTINF:-1,PL: TVN 24 HEVC
-http://62.182.81.111:8000/stef01/stef01/35484
-#EXTINF:-1,PL: TVN 7 FHD
-http://62.182.81.111:8000/stef01/stef01/35483
-#EXTINF:-1,PL: TVN 7 HEVC
-http://62.182.81.111:8000/stef01/stef01/35482
-#EXTINF:-1,PL: TVN FABULA HD
-http://62.182.81.111:8000/stef01/stef01/35481
-#EXTINF:-1,PL: TVN FABULA HEVC
-http://62.182.81.111:8000/stef01/stef01/35480
-#EXTINF:-1,PL: TVN FHD
-http://62.182.81.111:8000/stef01/stef01/35479
-#EXTINF:-1,PL: TVN STYLE FHD
-http://62.182.81.111:8000/stef01/stef01/35477
-#EXTINF:-1,PL: TVN TURBO FHD
-http://62.182.81.111:8000/stef01/stef01/35475
-#EXTINF:-1,PL: TVN TURBO HEVC
-http://62.182.81.111:8000/stef01/stef01/35474
-#EXTINF:-1,PL: TVN24 BIS FHD
-http://62.182.81.111:8000/stef01/stef01/35473
-#EXTINF:-1,PL: TVN24 BIS HEVC
-http://62.182.81.111:8000/stef01/stef01/35472
-#EXTINF:-1,PL: TVP 1 HEVC
-http://62.182.81.111:8000/stef01/stef01/35470
-#EXTINF:-1,PL: TVP 2 FHD
-http://62.182.81.111:8000/stef01/stef01/35469
-#EXTINF:-1,PL: TVP 2 HEVC
-http://62.182.81.111:8000/stef01/stef01/35468
-#EXTINF:-1,PL: TVP ABC FHD
-http://62.182.81.111:8000/stef01/stef01/35466
+#EXTINF:-1,PL: TVP HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/296016
 #EXTINF:-1,PL: TVP FHD
-http://62.182.81.111:8000/stef01/stef01/35465
-#EXTINF:-1,PL: TVP HEVC
-http://62.182.81.111:8000/stef01/stef01/35464
-#EXTINF:-1,PL: TVP HISTORIA
-http://62.182.81.111:8000/stef01/stef01/35463
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/168974
+#EXTINF:-1,PL: TVP 1 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/280117
+#EXTINF:-1,PL: TVP 1 FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170491
+#EXTINF:-1,PL: TVP 2 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/288401
+#EXTINF:-1,PL: TVP 2 FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7360
+#EXTINF:-1,PL: TVP 3
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7361
+#EXTINF:-1,PL: TV4 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133198
+#EXTINF:-1,PL: TVN HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170485
+#EXTINF:-1,PL: TVN FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7364
+#EXTINF:-1,PL: TVN 7 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170484
+#EXTINF:-1,PL: TVN 7 FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/294027
+#EXTINF:-1,PL: Polsat HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133225
+#EXTINF:-1,PL: POLSAT FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7362
+#EXTINF:-1,PL: Polsat 2 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7363
+#EXTINF:-1,PL: POLSAT 2 FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/294028
+#EXTINF:-1,PL: TVP Rozrywka
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170472
+#EXTINF:-1,PL: TV6 FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170463
+#EXTINF:-1,PL: TV6 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/39743
+#EXTINF:-1,PL: TV Puls HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/14966
+#EXTINF:-1,PL: TVN Fabula HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133195
+#EXTINF:-1,PL: TVN Style HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133193
+#EXTINF:-1,PL: TVN Fabula FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170479
+#EXTINF:-1,PL: TVN Turbo HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170478
+#EXTINF:-1,PL: TVP Polonia HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170476
+#EXTINF:-1,PL: Polsat Rodzina HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170366
+#EXTINF:-1,PL: FOKUS TV 
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133248
+#EXTINF:-1,PL: TVS
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133189
+#EXTINF:-1,PL: TTV FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/149745
+#EXTINF:-1,PL: SuperStacja
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/333026
+#EXTINF:-1,PL: HGTV HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170437
+#EXTINF:-1,PL: NOWA TV
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170412
+#EXTINF:-1,PL: PULS HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170468
+#EXTINF:-1,PL: Puls 2
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170467
+#EXTINF:-1,PL: TV Republika
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170464
+#EXTINF:-1,PL: Zoom TV
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170407
+#EXTINF:-1,PL: Food Network HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133247
+#EXTINF:-1,PL: Metro
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170390
+#EXTINF:-1,PL: TTV HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170462
+#EXTINF:-1,PL: TBN Polska
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/279606
+#EXTINF:-1,PL: E! Entertainment HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133258
+#EXTINF:-1,PL: DOMO+  HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170377
+#EXTINF:-1,PL: HOME TV
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/341039
+#EXTINF:-1,PL: Red Carpet TV HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/339247
+#EXTINF:-1,PL: Polonia 1
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347409
+#EXTINF:-1,PL: TV Silesia
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347410
+#EXTINF:-1,PL: Polsat News HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133219
+#EXTINF:-1,PL: Polsat News 2
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170471
+#EXTINF:-1,PL: TVP INFO FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170486
 #EXTINF:-1,PL: TVP INFO HD
-http://62.182.81.111:8000/stef01/stef01/35462
-#EXTINF:-1,PL: TVP INFO HEVC
-http://62.182.81.111:8000/stef01/stef01/35461
-#EXTINF:-1,PL: TVP KULTURA
-http://62.182.81.111:8000/stef01/stef01/35460
-#EXTINF:-1,PL: TVP ROZRYWKA
-http://62.182.81.111:8000/stef01/stef01/35459
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7379
+#EXTINF:-1,PL: TVN 24 FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170482
+#EXTINF:-1,PL: TVN 24 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/123292
+#EXTINF:-1,PL: TVN24 BiS HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170477
+#EXTINF:-1,PL: TVR
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/356339
+#EXTINF:-1,PL: Polsat Sport News HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7372
+#EXTINF:-1,PL: Polsat Sport Extra HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7371
+#EXTINF:-1,PL: Polsat Sport Fight HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170409
+#EXTINF:-1,PL: Polsat Sport FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133217
+#EXTINF:-1,PL: Polsat Sport HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7370
+#EXTINF:-1,PL: Polsat Sport Premium 1 SD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/279974
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM 1 HD(LQ)
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/279980
+#EXTINF:-1,PL: Polsat Sport Premium 1 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170117
+#EXTINF:-1,PL: Polsat Sport Premium 1 FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/279996
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM 2 HD(LQ)
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/279979
+#EXTINF:-1,PL: Polsat Sport Premium 2 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170118
+#EXTINF:-1,PL: Polsat Sport Premium 2 FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/279995
+#EXTINF:-1,PL: Polsat Sport Premium 3 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/272082
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM 4 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/279977
+#EXTINF:-1,PL: Polsat Sport Premium 5 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/272084
+#EXTINF:-1,PL: Polsat Sport Premium 6 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/272085
+#EXTINF:-1,PL: ViaPlay 1 HD ( Bundesliga Matches )
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/368357
+#EXTINF:-1,PL: PPV KSW FIGHTS (Match Time)
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/288428
+#EXTINF:-1,PL: nSport+ FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7386
+#EXTINF:-1,PL: nsport+  HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170411
+#EXTINF:-1,PL: CANAL+  SPORT FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7422
+#EXTINF:-1,PL: CANAL+ SPORT HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170425
+#EXTINF:-1,PL: CANAL+  SPORT 2 FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7423
+#EXTINF:-1,PL: CANAL+ SPORT 2 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170451
+#EXTINF:-1,PL: CANAL+ SPORT 3 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/280024
+#EXTINF:-1,PL: CANAL+ SPORT 4 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/280023
+#EXTINF:-1,PL: ELEVEN Sport HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7387
+#EXTINF:-1,PL: Eleven Sports 1 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170441
+#EXTINF:-1,PL: Eleven Sports 2 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170442
+#EXTINF:-1,PL: Eleven Sports 3 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170443
+#EXTINF:-1,PL: Eleven Sports 4 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170380
+#EXTINF:-1,PL: TVP Sport FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/380112
+#EXTINF:-1,PL: TVP Sport HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170408
+#EXTINF:-1,PL: Golf Channel HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170421
+#EXTINF:-1,PL: Sportklub HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170391
+#EXTINF:-1,PL: Extreme Sports HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133252
+#EXTINF:-1,PL: Fightklub HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/280014
+#EXTINF:-1,PL: FightBox HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133251
+#EXTINF:-1,PL: MOTOWIZJA HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170379
+#EXTINF:-1,PL: CANAL+ SERIALE HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7418
+#EXTINF:-1,PL: CANAL+ FILM HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7419
+#EXTINF:-1,PL: CANAL+ FAMILY HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7420
+#EXTINF:-1,PL: CANAL+ FAMILY FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170454
+#EXTINF:-1,PL: CANAL+ FILM FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170453
+#EXTINF:-1,PL: CANAL+ 1 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170364
+#EXTINF:-1,PL: CANAL+ PREMIUM FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/341034
+#EXTINF:-1,PL: CANAL+ NOW FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/341033
+#EXTINF:-1,PL: Novelas+ FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337818
+#EXTINF:-1,PL: AXN Black
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/37744
+#EXTINF:-1,PL: AXN White
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/37743
+#EXTINF:-1,PL: AXN HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170388
+#EXTINF:-1,PL: AXN SPIN HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170456
+#EXTINF:-1,PL: FOX HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7399
+#EXTINF:-1,PL: Fox Comedy
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7400
+#EXTINF:-1,PL: AMC
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170469
+#EXTINF:-1,PL: Ale Kino+ HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7405
+#EXTINF:-1,PL: COMEDY CENTRAL FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7392
+#EXTINF:-1,PL: Super Polsat FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/39746
+#EXTINF:-1,PL: SUPER POLSAT HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/39744
+#EXTINF:-1,PL: Polsat Cafe HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170473
+#EXTINF:-1,PL: Polsat Seriale
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170470
+#EXTINF:-1,PL: Polsat Film HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7373
+#EXTINF:-1,PL: Polsat Play HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7368
+#EXTINF:-1,PL: HBO HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7397
+#EXTINF:-1,PL: HBO 2 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7398
+#EXTINF:-1,PL: HBO 3 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170438
+#EXTINF:-1,PL: Filmbox Family
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7403
+#EXTINF:-1,PL: Filmbox Action
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7404
+#EXTINF:-1,PL: FilmBox Extra 
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133250
+#EXTINF:-1,PL: FilmBox Premium HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133249
+#EXTINF:-1,PL: Cinemax 2 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170387
+#EXTINF:-1,PL: Cinemax HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170449
+#EXTINF:-1,PL: Active Family
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/280037
 #EXTINF:-1,PL: TVP SERIALE
-http://62.182.81.111:8000/stef01/stef01/35458
-#EXTINF:-1,PL: TVP SPORT FHD
-http://62.182.81.111:8000/stef01/stef01/35457
-#EXTINF:-1,PL: TVP SPORT HEVC
-http://62.182.81.111:8000/stef01/stef01/35456
-#EXTINF:-1,PL: VH1 FHD
-http://62.182.81.111:8000/stef01/stef01/35454
-#EXTINF:-1,PL: VOX MUSIC TV FHD
-http://62.182.81.111:8000/stef01/stef01/35453
-#EXTINF:-1,PL: ZOOM TV
-http://62.182.81.111:8000/stef01/stef01/35451
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7377
+#EXTINF:-1,PL: Tele 5
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/279990
+#EXTINF:-1,PL: 13 Ulica HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170426
+#EXTINF:-1,PL: SciFi HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133211
+#EXTINF:-1,PL: Universal HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133188
+#EXTINF:-1,PL: Kuchnia+  HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170435
+#EXTINF:-1,PL: Paramount Channel HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170401
+#EXTINF:-1,PL: Romance TV
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170399
+#EXTINF:-1,PL: Stopklatka TV
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170431
+#EXTINF:-1,PL: Sundance HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133208
+#EXTINF:-1,PL: KINO POLSKA HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7394
+#EXTINF:-1,PL: TNT HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133203
+#EXTINF:-1,PL: Comedy Central Family HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170405
+#EXTINF:-1,PL: Comedy Central Poland HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/341037
+#EXTINF:-1,PL: Canal+ HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7417
+#EXTINF:-1,PL: Epic Drama HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170365
+#EXTINF:-1,PL: Filmbox Arthouse
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170439
+#EXTINF:-1,PL: VOD 205
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170429
+#EXTINF:-1,PL: VOD 206
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170376
+#EXTINF:-1,PL: VOD 207
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170428
+#EXTINF:-1,PL: VOD 208
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170427
+#EXTINF:-1,PL: Novela Tv
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/280003
+#EXTINF:-1,PL: TVP Kultura
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/14957
+#EXTINF:-1,PL: TLC HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133204
+#EXTINF:-1,PL: Polsat Doku HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170383
+#EXTINF:-1,PL: Polsat Viasat Explore HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170432
+#EXTINF:-1,PL: Polsat Viasat History HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170382
+#EXTINF:-1,PL: Polsat Viasat Nature HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170381
+#EXTINF:-1,PL: BBC FIRST HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/280033
+#EXTINF:-1,PL: StudioMed TV HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/279992
+#EXTINF:-1,PL: CBS Reality HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/14960
+#EXTINF:-1,PL: CANAL+ DOKUMENT FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/341032
+#EXTINF:-1,PL: BIZNES24 FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/356338
+#EXTINF:-1,PL: wPolsce
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/339249
+#EXTINF:-1,PL: WP
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/339248
+#EXTINF:-1,PL: Water Planet
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/14959
+#EXTINF:-1,PL: Lifetime HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133242
+#EXTINF:-1,PL: BBC LIFESTYLE HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170370
+#EXTINF:-1,PL: CBS Europa HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170423
+#EXTINF:-1,PL: BBC BRIT HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170371
+#EXTINF:-1,PL: Planete+  HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170433
+#EXTINF:-1,PL: NATIONAL GEOGRAPHIC HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170420
+#EXTINF:-1,PL: Nat Geo Wild HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7411
+#EXTINF:-1,PL: Nat Geo People HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133235
+#EXTINF:-1,PL: Discovery Life
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7416
+#EXTINF:-1,PL: Discovery HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7413
+#EXTINF:-1,PL: TVP Historia
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133190
+#EXTINF:-1,PL: Discovery Historia
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170446
+#EXTINF:-1,PL: Discovery Science HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170444
+#EXTINF:-1,PL: Crime and Investigation HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170369
+#EXTINF:-1,PL: History HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133244
+#EXTINF:-1,PL: H2 HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133245
+#EXTINF:-1,PL: ADVENTURE HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170460
+#EXTINF:-1,PL: Animal Planet HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170458
+#EXTINF:-1,PL: BBC Earth HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170414
+#EXTINF:-1,PL: Da Vinci Learning
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170448
+#EXTINF:-1,PL: DTX HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170397
+#EXTINF:-1,PL: KINO TV FHD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/341038
+#EXTINF:-1,PL: ID HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170396
+#EXTINF:-1,PL: Travel Channel HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170368
+#EXTINF:-1,PL: BBC CBeebies
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170378
+#EXTINF:-1,PL: Disney Channel HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/38744
+#EXTINF:-1,PL: Disney XD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/38743
+#EXTINF:-1,PL: MINIMINI+ HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7424
+#EXTINF:-1,PL: Baby Tv
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170373
+#EXTINF:-1,PL: Disney Junior
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170422
+#EXTINF:-1,PL: MiniMini  HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133239
+#EXTINF:-1,PL: Cartoon Network HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170424
+#EXTINF:-1,PL: Nick Jr Polska
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170403
+#EXTINF:-1,PL: Nickelodeon
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170402
+#EXTINF:-1,PL: Kino Polska Muzyka HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170395
+#EXTINF:-1,PL: Polsat Jim Jam
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/38745
+#EXTINF:-1,PL: JimJam Polska
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/198105
+#EXTINF:-1,PL: TeleToon+  HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170430
+#EXTINF:-1,PL: Nicktoons HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/280004
+#EXTINF:-1,PL: Boomerang HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/38746
+#EXTINF:-1,PL: TVP ABC
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/14964
+#EXTINF:-1,PL: Polo TV
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133226
+#EXTINF:-1,PL: 4Fun Kids
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347411
+#EXTINF:-1,PL: Polsat Music HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170410
+#EXTINF:-1,PL: MTV POLSKA HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/7390
+#EXTINF:-1,PL: MTV MUSIC 24
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/280007
+#EXTINF:-1,PL: MTV 90s
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/280006
+#EXTINF:-1,PL: MTV Live HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133238
+#EXTINF:-1,PL: 4Fun Dance
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170416
+#EXTINF:-1,PL: 4Fun Gold Hits
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170415
+#EXTINF:-1,PL: 4Fun TV
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170398
+#EXTINF:-1,PL: VOX MUSIC TV
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/276190
+#EXTINF:-1,PL: Disco Polo Music
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/198107
+#EXTINF:-1,PL: Polsat Games HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170367
+#EXTINF:-1,PL: ESKA ROCK TV
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/280016
+#EXTINF:-1,PL: TVT RYBNIK
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/378358
+#EXTINF:-1,PL: ESKA TV
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133257
+#EXTINF:-1,PL: NUTA TV
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133228
+#EXTINF:-1,PL: POWER TV
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/133213
+#EXTINF:-1,PL: STARS TV
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170392
+#EXTINF:-1,PL: ESKA TV Extra
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170385
+#EXTINF:-1,PL: TRACE TV
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170393
+#EXTINF:-1,PL: VH1
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/170400
