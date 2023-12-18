@@ -1,26 +1,12 @@
 #EXTM3U
 #EXTINF:-1 ,13 Ulica HD
 http://154.61.57.12:33001/play/a01n/index.m3u8,kasia
-#EXTINF:-1 ,4Fun Dance
-http://154.61.57.12:33001/play/a09p/index.m3u8,kasia
-#EXTINF:-1 ,4Fun Kids
-http://154.61.57.12:33001/play/a09o/index.m3u8,kasia
-#EXTINF:-1 ,4Fun.TV
-http://154.61.57.12:33001/play/a09n/index.m3u8,kasia
-#EXTINF:-1 ,ANTENA
-http://154.61.57.12:33001/play/a022/index.m3u8,kasia
-#EXTINF:-1 ,AXN HD
-http://154.61.57.12:33001/play/a042/index.m3u8,kasia
-#EXTINF:-1 ,AXN SPIN HD
-http://154.61.57.12:33001/play/a01z/index.m3u8,kasia
-#EXTINF:-1 ,Active Family
-http://154.61.57.12:33001/play/a026/index.m3u8,kasia
+#EXTINF:-1 ,Planete+ HD
+http://154.61.57.12:33001/play/a09a/index.m3u8,kasia
 #EXTINF:-1 ,Ale kino+ HD
 http://154.61.57.12:33001/play/a09c/index.m3u8,kasia
 #EXTINF:-1 ,BBC Earth HD
 http://154.61.57.12:33001/play/a00c/index.m3u8,kasia
-#EXTINF:-1 ,Baby TV
-http://154.61.57.12:33001/play/a0ai/index.m3u8,kasia
 #EXTINF:-1 ,CANAL+ DOKUMENT HD
 http://154.61.57.12:33001/play/a03k/index.m3u8,kasia
 #EXTINF:-1 ,CANAL+ DOMO HD
@@ -161,8 +147,6 @@ http://154.61.57.12:33001/play/a09y/index.m3u8,kasia
 http://154.61.57.12:33001/play/a0a2/index.m3u8,kasia
 #EXTINF:-1 ,Paramount Network Polska
 http://154.61.57.12:33001/play/a08j/index.m3u8,kasia
-#EXTINF:-1 ,Planete+ HD
-http://154.61.57.12:33001/play/a09a/index.m3u8,kasia
 #EXTINF:-1 ,Polo TV
 http://154.61.57.12:33001/play/a09u/index.m3u8,kasia
 #EXTINF:-1 ,Polonia 1
