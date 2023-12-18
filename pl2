@@ -1,393 +1,403 @@
 #EXTM3U
-#EXTINF:-1,PL| TVP info FHD
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-#EXTINF:-1 ,TVP3 Lodz
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
-#EXTINF:-1 ,TVP3 Gdansk
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
-#EXTINF:-1 ,TVP3 Szczecin
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
-#EXTINF:-1,PL| TVS
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43005
-#EXTINF:-1,PL| TVP Sport HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43006
-#EXTINF:-1,PL| TVP Sport FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43007
-#EXTINF:-1,PL| TVP SERIALE
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43008
-#EXTINF:-1,PL| TVP Rozrywka
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43009
-#EXTINF:-1,PL| TVP Kultura
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43010
-#EXTINF:-1,PL| TVP INFO FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43011
-#EXTINF:-1,PL| TVP Historia
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43012
-#EXTINF:-1,PL| TVP FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43013
-#EXTINF:-1,PL| TVP ABC
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43014
-#EXTINF:-1,PL| TV6
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43015
-#EXTINF:-1,PL| TV4 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43016
-#EXTINF:-1,PL| TV Republika
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43017
-#EXTINF:-1,PL| TV PULS FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43018
-#EXTINF:-1,PL| TVP 3
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43019
-#EXTINF:-1,PL| TVP 2 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43020
-#EXTINF:-1,PL| TVP 1 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43021
-#EXTINF:-1,PL| TVN24 BiS FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43022
-#EXTINF:-1,PL| TVN Turbo FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43023
-#EXTINF:-1,PL| TVN Style FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43024
-#EXTINF:-1,PL| TVN FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43025
-#EXTINF:-1,PL| TVN Fabula
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43026
-#EXTINF:-1,PL| TVN 7 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43027
-#EXTINF:-1,PL| TVN 24 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43028
-#EXTINF:-1,PL| TV Okazje
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43029
-#EXTINF:-1,PL| TTV FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43030
-#EXTINF:-1,PL| TNT FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43031
-#EXTINF:-1,PL| TLC FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43032
-#EXTINF:-1,PL| Superstacja
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43033
-#EXTINF:-1,PL| Super Polsat
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43034
-#EXTINF:-1,PL| TELE 5
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43035
-#EXTINF:-1,PL| Nuta TV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43036
-#EXTINF:-1,PL| TeleTOON+ FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43037
-#EXTINF:-1,PL| NSport+
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43038
-#EXTINF:-1,PL| WPolsce.pl
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43039
-#EXTINF:-1,PL| Zoom TV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43040
-#EXTINF:-1,PL| WP
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43041
-#EXTINF:-1,PL| VOX Music TV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43042
-#EXTINF:-1,PL| NOVELA TV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43043
-#EXTINF:-1,PL| VH1
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43044
-#EXTINF:-1,PL| VOD 208
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43045
-#EXTINF:-1,PL| VOD 207
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43046
-#EXTINF:-1,PL| VOD 206
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43047
-#EXTINF:-1,PL| VOD 205
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43048
-#EXTINF:-1,PL| Da Vinci
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43049
-#EXTINF:-1,PL| Travel Channel FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43050
-#EXTINF:-1,PL| Sundance FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43051
-#EXTINF:-1,PL| Stopklatka
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43052
-#EXTINF:-1,PL| Sportklub FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43053
-#EXTINF:-1,PL| SciFi FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43054
-#EXTINF:-1,PL| Stars TV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43055
-#EXTINF:-1,PL| Romance TV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43056
-#EXTINF:-1,PL| Red Carpet TV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43057
-#EXTINF:-1,PL| Puls 2
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43058
-#EXTINF:-1,PL| Polsat Viasat Nature FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43059
-#EXTINF:-1,PL| Polsat Viasat History FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43060
-#EXTINF:-1,PL| Polsat Viasat Explore FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43061
-#EXTINF:-1,PL| Polsat Sport News FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43062
-#EXTINF:-1,PL| Polsat Sport FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43063
-#EXTINF:-1,PL| Polsat Sport Fight HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43064
-#EXTINF:-1,PL| Polsat Sport Fight FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43065
-#EXTINF:-1,PL| Polsat Sport Extra HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43066
-#EXTINF:-1,PL| Polsat Sport Extra FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43067
-#EXTINF:-1,PL| Polsat Romans
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43068
-#EXTINF:-1,PL| Polsat Rodzina
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43069
-#EXTINF:-1,PL| Polsat Jim Jam
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43070
-#EXTINF:-1,PL| Polsat Doku FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43071
-#EXTINF:-1,PL| Polsat Comedy Central Extra
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43072
-#EXTINF:-1,PL| Polsat Seriale
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43073
-#EXTINF:-1,PL| Polsat Play HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43074
-#EXTINF:-1,PL| Polsat Play FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43075
-#EXTINF:-1,PL| Polsat News FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43076
-#EXTINF:-1,PL| Polsat News 2
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43077
-#EXTINF:-1,PL| Polsat Music FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43078
-#EXTINF:-1,PL| Polsat Games
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43079
-#EXTINF:-1,PL| Polsat Film FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43080
-#EXTINF:-1,PL| Polsat Cafe FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43081
-#EXTINF:-1,PL| Polsat 2 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43082
-#EXTINF:-1,PL| Polsat FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43083
-#EXTINF:-1,PL| KSW PPV FHD [ Match Time ]
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43084
-#EXTINF:-1,PL| Polsat Sport Premium PPV 6
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43085
-#EXTINF:-1,PL| Polsat Sport Premium PPV 5
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43086
-#EXTINF:-1,PL| Polsat Sport Premium PPV 4
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43087
-#EXTINF:-1,PL| Polsat Sport Premium PPV 3
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43088
-#EXTINF:-1,PL| Polsat Sport Premium 2 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43089
-#EXTINF:-1,PL| Polsat Sport Premium 1 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43090
-#EXTINF:-1,PL| Polo TV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43091
-#EXTINF:-1,PL| Planete+ FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43092
-#EXTINF:-1,PL| Paramount Channel FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43093
-#EXTINF:-1,PL| Nicktoons FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43094
-#EXTINF:-1,PL| Nickelodeon
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43095
-#EXTINF:-1,PL| Nick Jr
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43096
-#EXTINF:-1,PL| Nowa TV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43097
-#EXTINF:-1,PL| Nat Geo People FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43098
-#EXTINF:-1,PL| National Geographic Wild FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43099
-#EXTINF:-1,PL| NATIONAL GEO FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43100
-#EXTINF:-1,PL| Motowizja FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43101
-#EXTINF:-1,PL| MTV Rocks
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43102
-#EXTINF:-1,PL| MTV Polska FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43103
-#EXTINF:-1,PL| MTV Music 24
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43104
-#EXTINF:-1,PL| MTV Live FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43105
-#EXTINF:-1,PL| MiniMini+ FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43106
-#EXTINF:-1,PL| Metro
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43107
-#EXTINF:-1,PL| Lifetime FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43108
-#EXTINF:-1,PL| Kuchnia+ FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43109
-#EXTINF:-1,PL| Kino TV FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43110
-#EXTINF:-1,PL| Kino Polska Muzyka
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43111
-#EXTINF:-1,PL| KINO POLSKA FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43112
-#EXTINF:-1,PL| ID FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43113
-#EXTINF:-1,PL| HGTV FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43114
-#EXTINF:-1,PL| History 2 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43115
-#EXTINF:-1,PL| History FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43116
-#EXTINF:-1,PL| HBO3 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43117
-#EXTINF:-1,PL| HBO2 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43118
-#EXTINF:-1,PL| HBO FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43119
-#EXTINF:-1,PL| Golf Channel
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43120
-#EXTINF:-1,PL| Food Network FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43121
-#EXTINF:-1,PL| Fokus TV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43122
-#EXTINF:-1,PL| Fox Comedy FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43123
-#EXTINF:-1,PL| Fox Comedy
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43124
-#EXTINF:-1,PL| FOX FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43125
-#EXTINF:-1,PL| FOX
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43126
-#EXTINF:-1,PL| Filmbox Premium FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43127
-#EXTINF:-1,PL| Filmbox Arthouse
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43128
-#EXTINF:-1,PL| FilmBox Family
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43129
-#EXTINF:-1,PL| FilmBox Extra FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43130
-#EXTINF:-1,PL| FilmBox Action
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43131
-#EXTINF:-1,PL| Fightbox FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43132
-#EXTINF:-1,PL| Fightklub FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43133
-#EXTINF:-1,PL| Extreme Sports HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43134
-#EXTINF:-1,PL| Extreme Sports FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43135
-#EXTINF:-1,PL| Eska TV Extra
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43140
-#EXTINF:-1,PL| Eska TV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43141
-#EXTINF:-1,PL| Eska Rock
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43142
-#EXTINF:-1,PL| Epic Drama FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43143
-#EXTINF:-1,PL| ELEVEN SPORTS 4 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43144
-#EXTINF:-1,PL| ELEVEN SPORTS 4 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43145
-#EXTINF:-1,PL| Eleven Sports 3 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43146
-#EXTINF:-1,PL| Eleven Sports 3 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43147
-#EXTINF:-1,PL| Eleven Sports 2 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43148
-#EXTINF:-1,PL| Eleven Sports 1 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43149
-#EXTINF:-1,PL| Eleven Sports 1 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43150
-#EXTINF:-1,PL| E! Entertainment FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43151
-#EXTINF:-1,PL| Disney XD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43152
-#EXTINF:-1,PL| Disney Junior
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43153
-#EXTINF:-1,PL| Disney Channel FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43154
-#EXTINF:-1,PL| Discovery Life FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43155
-#EXTINF:-1,PL| Discovery Historia
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43156
-#EXTINF:-1,PL| Discovery Science FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43157
-#EXTINF:-1,PL| Discovery FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43158
-#EXTINF:-1,PL| Disco Polo Music
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43159
-#EXTINF:-1,PL| DTX FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43160
-#EXTINF:-1,PL| DOMO+ FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43161
-#EXTINF:-1,PL| Comedy Central FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43162
-#EXTINF:-1,PL| Cinemax 2 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43163
-#EXTINF:-1,PL| Cinemax FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43164
-#EXTINF:-1,PL| Cartoon Network FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43165
-#EXTINF:-1,PL| CI Polsat FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43166
-#EXTINF:-1,PL| CBS Reality FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43167
-#EXTINF:-1,PL| Canal+ Seriale FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43169
-#EXTINF:-1,PL| CANAL+ SPORT 3 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43170
-#EXTINF:-1,PL| CANAL+ SPORT 4 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43171
-#EXTINF:-1,PL| Canal+ Sport 2 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43172
-#EXTINF:-1,PL| Canal+ Sport 1 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43173
-#EXTINF:-1,PL| CANAL+ FILM FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43174
-#EXTINF:-1,PL| Canal+ Premium FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43175
-#EXTINF:-1,PL| Canal+ Now FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43176
-#EXTINF:-1,PL| Canal+1 FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43177
-#EXTINF:-1,PL| Canal+ Family FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43178
-#EXTINF:-1,PL| Canal+ Dokument FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43179
-#EXTINF:-1,PL| Boomerang FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43180
-#EXTINF:-1,PL| BBC Cbeebies
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43181
-#EXTINF:-1,PL| BBC Brit FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43182
-#EXTINF:-1,PL| BBC FIRST FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43183
-#EXTINF:-1,PL| BBC Earth FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43184
-#EXTINF:-1,PL| Ale kino+ FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43185
-#EXTINF:-1,PL| ATM Rozrywka TV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43186
-#EXTINF:-1,PL| AMC FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43187
-#EXTINF:-1,PL| Animal Planet FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43188
-#EXTINF:-1,PL| Adventure FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43189
-#EXTINF:-1,PL| Active Family
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43190
-#EXTINF:-1,PL| AXN White
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43191
-#EXTINF:-1,PL| AXN SPIN FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43192
-#EXTINF:-1,PL| AXN Black
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43193
-#EXTINF:-1,PL| AXN
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43194
-#EXTINF:-1,PL| AXN FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43195
-#EXTINF:-1,PL| 4Fun.TV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43196
-#EXTINF:-1,PL| 4Fun Gold Hits
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43197
-#EXTINF:-1,PL| 4Fun Dance
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43198
-#EXTINF:-1,PL| 13 Ulica FHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43199
-#EXTINF:-1,PL| Polsat Sport HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43200
-#EXTINF:-1,PL| Polsat Sport News HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/43201
+#EXTINF:-1 group-title="epremki.com",13 Ulica HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15100
+#EXTINF:-1 group-title="epremki.com",Adventure HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15205
+#EXTINF:-1 group-title="epremki.com",AMC Polska FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15218
+#EXTINF:-1 group-title="epremki.com",AXN Black PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11512
+#EXTINF:-1 group-title="epremki.com",AXN Polska HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11699
+#EXTINF:-1 group-title="epremki.com",AXN Spin HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11629
+#EXTINF:-1 group-title="epremki.com",AXN White PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11513
+#EXTINF:-1 group-title="epremki.com",Ale kino+ FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15219
+#EXTINF:-1 group-title="epremki.com",Animal Planet HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/13540
+#EXTINF:-1 group-title="epremki.com",BBC Earth HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/13538
+#EXTINF:-1 group-title="epremki.com",BBC First FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/13537
+#EXTINF:-1 group-title="epremki.com",Cartoonito HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11522
+#EXTINF:-1 group-title="epremki.com",Canal+ 1 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15204
+#EXTINF:-1 group-title="epremki.com",Canal+ Dokument FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15217
+#EXTINF:-1 group-title="epremki.com",Canal+ Family FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15216
+#EXTINF:-1 group-title="epremki.com",Canal+ Film FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15215
+#EXTINF:-1 group-title="epremki.com",Motowizja FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/19153
+#EXTINF:-1 group-title="epremki.com",Canal+ Seriale FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15214
+#EXTINF:-1 group-title="epremki.com",WP Telewizja PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11517
+#EXTINF:-1 group-title="epremki.com",CBS Europa FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15202
+#EXTINF:-1 group-title="epremki.com",CBS Reality PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11518
+#EXTINF:-1 group-title="epremki.com",Canal + Premium FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/13530
+#EXTINF:-1 group-title="epremki.com",Canal+ Sport FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/13535
+#EXTINF:-1 group-title="epremki.com",Canal+ Sport 2 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15709
+#EXTINF:-1 group-title="epremki.com",Cartoon Network FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15203
+#EXTINF:-1 group-title="epremki.com",Cinemax HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15710
+#EXTINF:-1 group-title="epremki.com",Cinemax 2 HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15099
+#EXTINF:-1 group-title="epremki.com",Crime & Investigation FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/24146
+#EXTINF:-1 group-title="epremki.com",Canal+ Domo FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15199
+#EXTINF:-1 group-title="epremki.com",Discovery Channel FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15213
+#EXTINF:-1 group-title="epremki.com",Discovery Historia PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15098
+#EXTINF:-1 group-title="epremki.com",Discovery Life FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11520
+#EXTINF:-1 group-title="epremki.com",Discovery Science FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15201
+#EXTINF:-1 group-title="epremki.com",Discovery Turbo Xtra FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15212
+#EXTINF:-1 group-title="epremki.com",Metro PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11195
+#EXTINF:-1 group-title="epremki.com",Disney Channel FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11523
+#EXTINF:-1 group-title="epremki.com",Disney Junior PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15200
+#EXTINF:-1 group-title="epremki.com",Disney XD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11524
+#EXTINF:-1 group-title="epremki.com",Eleven Sports 1 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15198
+#EXTINF:-1 group-title="epremki.com",Eleven Sports 2 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15197
+#EXTINF:-1 group-title="epremki.com",Eleven Sports 3 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15097
+#EXTINF:-1 group-title="epremki.com",Eleven Sports 4 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/19149
+#EXTINF:-1 group-title="epremki.com",Epic Drama FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/19081
+#EXTINF:-1 group-title="epremki.com",E! FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/22302
+#EXTINF:-1 group-title="epremki.com",Eurosport 1 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15096
+#EXTINF:-1 group-title="epremki.com",Eurosport 2 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15195
+#EXTINF:-1 group-title="epremki.com",Extreme Sports FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15194
+#EXTINF:-1 group-title="epremki.com",FightBox HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15095
+#EXTINF:-1 group-title="epremki.com",Fight Klub FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15193
+#EXTINF:-1 group-title="epremki.com",FilmBox Action PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11508
+#EXTINF:-1 group-title="epremki.com",FilmBox Family PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11509
+#EXTINF:-1 group-title="epremki.com",Kino TV HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11507
+#EXTINF:-1 group-title="epremki.com",FilmBox Premium HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11510
+#EXTINF:-1 group-title="epremki.com",Fokus TV PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/12821
+#EXTINF:-1 group-title="epremki.com",FOX Comedy Polska HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11698
+#EXTINF:-1 group-title="epremki.com",FOX Polska HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11697
+#EXTINF:-1 group-title="epremki.com",H2 Polska HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15093
+#EXTINF:-1 group-title="epremki.com",HBO FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/13526
+#EXTINF:-1 group-title="epremki.com",HBO 2 HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/13527
+#EXTINF:-1 group-title="epremki.com",HBO 3 HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15092
+#EXTINF:-1 group-title="epremki.com",History HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15091
+#EXTINF:-1 group-title="epremki.com",Investigation Discovery FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15211
+#EXTINF:-1 group-title="epremki.com",Kino Polska Muzyka PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15090
+#EXTINF:-1 group-title="epremki.com",Kino Polska FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11192
+#EXTINF:-1 group-title="epremki.com",Canal+ Kuchnia FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15210
+#EXTINF:-1 group-title="epremki.com",MTV 90s PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11703
+#EXTINF:-1 group-title="epremki.com",MTV Polska FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11702
+#EXTINF:-1 group-title="epremki.com",MTV Live HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/20424
+#EXTINF:-1 group-title="epremki.com",MiniMini + HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15088
+#EXTINF:-1 group-title="epremki.com",National Geographic FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15087
+#EXTINF:-1 group-title="epremki.com",National Geographic Polska PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11515
+#EXTINF:-1 group-title="epremki.com",National Geographic People HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15191
+#EXTINF:-1 group-title="epremki.com",National Geographic Wild HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15711
+#EXTINF:-1 group-title="epremki.com",Nick Jr. PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11706
+#EXTINF:-1 group-title="epremki.com",Nickelodeon PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11705
+#EXTINF:-1 group-title="epremki.com",Power TV PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15187
+#EXTINF:-1 group-title="epremki.com",HGTV HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11188
+#EXTINF:-1 group-title="epremki.com",JimJam Polsat PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11710
+#EXTINF:-1 group-title="epremki.com",Planete + Polska HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15208
+#EXTINF:-1 group-title="epremki.com",Polo TV FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/13517
+#EXTINF:-1 group-title="epremki.com",Polonia 1 PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11711
+#EXTINF:-1 group-title="epremki.com",Polsat 2 HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/12817
+#EXTINF:-1 group-title="epremki.com",Polsat Café HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11198
+#EXTINF:-1 group-title="epremki.com",Polsat Film FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15086
+#EXTINF:-1 group-title="epremki.com",Polsat HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11696
+#EXTINF:-1 group-title="epremki.com",Polsat News 2 PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11181
+#EXTINF:-1 group-title="epremki.com",Polsat News HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15085
+#EXTINF:-1 group-title="epremki.com",Polsat Doku HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/20123
+#EXTINF:-1 group-title="epremki.com",Polsat Music HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/21527
+#EXTINF:-1 group-title="epremki.com",Polsat Play HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11177
+#EXTINF:-1 group-title="epremki.com",Polsat Seriale FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/48712
+#EXTINF:-1 group-title="epremki.com",Polsat Sport Extra HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11201
+#EXTINF:-1 group-title="epremki.com",Polsat Sport Fight FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15188
+#EXTINF:-1 group-title="epremki.com",Polsat Sport Premium 1 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/23369
+#EXTINF:-1 group-title="epremki.com",Polsat Sport Premium 2 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/23370
+#EXTINF:-1 group-title="epremki.com",Polsat Sport Premium 3 PPV FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/23420
+#EXTINF:-1 group-title="epremki.com",Polsat Sport Premium 4 PPV FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/23421
+#EXTINF:-1 group-title="epremki.com",Polsat Sport Premium 5 PPV FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/23422
+#EXTINF:-1 group-title="epremki.com",Polsat Sport Premium 6 PPV FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/23423
+#EXTINF:-1 group-title="epremki.com",Polsat Sport HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11200
+#EXTINF:-1 group-title="epremki.com",Super Polsat HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11199
+#EXTINF:-1 group-title="epremki.com",Polsat Viasat History HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15084
+#EXTINF:-1 group-title="epremki.com",TV Puls 2 PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15185
+#EXTINF:-1 group-title="epremki.com",Romance TV Polska FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15207
+#EXTINF:-1 group-title="epremki.com",Scifi Universal FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/20124
+#EXTINF:-1 group-title="epremki.com",Stars TV PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15082
+#EXTINF:-1 group-title="epremki.com",Tele 5 PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11630
+#EXTINF:-1 group-title="epremki.com",TLC HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15080
+#EXTINF:-1 group-title="epremki.com",Warner TV FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15184
+#EXTINF:-1 group-title="epremki.com",TTV FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15181
+#EXTINF:-1 group-title="epremki.com",TV 4 HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11178
+#EXTINF:-1 group-title="epremki.com",TV 6 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/19082
+#EXTINF:-1 group-title="epremki.com",TVP Info FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15078
+#EXTINF:-1 group-title="epremki.com",TVN 24 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15180
+#EXTINF:-1 group-title="epremki.com",TVN 7 HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15179
+#EXTINF:-1 group-title="epremki.com",TVN Fabuła FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15178
+#EXTINF:-1 group-title="epremki.com",TVN FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15177
+#EXTINF:-1 group-title="epremki.com",TVN Style FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15176
+#EXTINF:-1 group-title="epremki.com",TVN Turbo FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15175
+#EXTINF:-1 group-title="epremki.com",TVN 24 BiS HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/19152
+#EXTINF:-1 group-title="epremki.com",TVP 1 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/12810
+#EXTINF:-1 group-title="epremki.com",TVP 2 HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/12811
+#EXTINF:-1 group-title="epremki.com",TVP 3 Warszawa PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15077
+#EXTINF:-1 group-title="epremki.com",TVP ABC PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15076
+#EXTINF:-1 group-title="epremki.com",TVP Historia PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15075
+#EXTINF:-1 group-title="epremki.com",TVP Seriale PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11514
+#EXTINF:-1 group-title="epremki.com",TVP Sport FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/12826
+#EXTINF:-1 group-title="epremki.com",TVP Kultura HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/24147
+#EXTINF:-1 group-title="epremki.com",TVS PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/12820
+#EXTINF:-1 group-title="epremki.com",Da Vinci Learning PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15182
+#EXTINF:-1 group-title="epremki.com",MTV 00s PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11701
+#EXTINF:-1 group-title="epremki.com",VOX Music TV PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15174
+#EXTINF:-1 group-title="epremki.com",Canal+ Sport 5 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15209
+#EXTINF:-1 group-title="epremki.com",Teletoon + FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/15206
+#EXTINF:-1 group-title="epremki.com",4 Fun Dance PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/16291
+#EXTINF:-1 group-title="epremki.com",4 Fun Kids PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/16290
+#EXTINF:-1 group-title="epremki.com",4 Fun TV PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/16289
+#EXTINF:-1 group-title="epremki.com",FilmBox Arthouse PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/16287
+#EXTINF:-1 group-title="epremki.com",Stopklatka TV PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/16284
+#EXTINF:-1 group-title="epremki.com",TV Republika PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/16283
+#EXTINF:-1 group-title="epremki.com",TVP Rozrywka PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/16282
+#EXTINF:-1 group-title="epremki.com",VOD 205 PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/16279
+#EXTINF:-1 group-title="epremki.com",VOD 206 PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/16278
+#EXTINF:-1 group-title="epremki.com",VOD 207 PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/16277
+#EXTINF:-1 group-title="epremki.com",Zoom TV PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/16271
+#EXTINF:-1 group-title="epremki.com",Sport Klub Polska HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/16835
+#EXTINF:-1 group-title="epremki.com",TV Puls HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/16606
+#EXTINF:-1 group-title="epremki.com",Viasat Explore Polsat FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/18387
+#EXTINF:-1 group-title="epremki.com",Travel Channel FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/18389
+#EXTINF:-1 group-title="epremki.com",TVP FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/18392
+#EXTINF:-1 group-title="epremki.com",W Polsce PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/19084
+#EXTINF:-1 group-title="epremki.com",NickToons Polska FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/22772
+#EXTINF:-1 group-title="epremki.com",Comedy Central Polska FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/22771
+#EXTINF:-1 group-title="epremki.com",Comedy Central Extra Polsat FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/22770
+#EXTINF:-1 group-title="epremki.com",Paramount Channel Polska FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/22769
+#EXTINF:-1 group-title="epremki.com",Nowa TV PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/22768
+#EXTINF:-1 group-title="epremki.com",Water Planet PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/22767
+#EXTINF:-1 group-title="epremki.com",TV Okazje PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/22766
+#EXTINF:-1 group-title="epremki.com",Disco Polo Music PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/22765
+#EXTINF:-1 group-title="epremki.com",Food Network FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/22764
+#EXTINF:-1 group-title="epremki.com",Viasat Nature Polsat FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/22763
+#EXTINF:-1 group-title="epremki.com",Polsat Sport News FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/22762
+#EXTINF:-1 group-title="epremki.com",Baby TV PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/22303
+#EXTINF:-1 group-title="epremki.com",Eska TV Extra PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11182
+#EXTINF:-1 group-title="epremki.com",VOD 208 PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/23299
+#EXTINF:-1 group-title="epremki.com",BBC Brit Polska FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/23317
+#EXTINF:-1 group-title="epremki.com",BBC Lifestyle Polska FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/23318
+#EXTINF:-1 group-title="epremki.com",BBC CBeebies PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/23427
+#EXTINF:-1 group-title="epremki.com",Eska TV PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/11197
+#EXTINF:-1 group-title="epremki.com",Polsat Games FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/24376
+#EXTINF:-1 group-title="epremki.com",Polsat Rodzina FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/24377
+#EXTINF:-1 group-title="epremki.com",FilmBox Extra HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/27555
+#EXTINF:-1 group-title="epremki.com",Red Carpet FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/27543
+#EXTINF:-1 group-title="epremki.com",Sundance TV FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/20422
+#EXTINF:-1 group-title="epremki.com",Golf Channel HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/27541
+#EXTINF:-1 group-title="epremki.com",Nuta TV PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/27540
+#EXTINF:-1 group-title="epremki.com",Canal+ Sport 3 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/28019
+#EXTINF:-1 group-title="epremki.com",Canal+ Sport 4 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/28020
+#EXTINF:-1 group-title="epremki.com",TVP Polonia HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/70346
+#EXTINF:-1 group-title="epremki.com",Active Family HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/20423
+#EXTINF:-1 group-title="epremki.com",Wydarzenia 24 FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/72668
+#EXTINF:-1 group-title="epremki.com",Novela TV PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/72669
+#EXTINF:-1 group-title="epremki.com",BIZNES24 HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/73733
+#EXTINF:-1 group-title="Movie: Poland",Krzysztof Krawczyk cale moje zycie [PL] [2020]
+http://clientportal.link:80/movie/a2Q9jwOARd507/PT5g6h692/77858.mkv
+#EXTINF:-1 group-title="Movie: Poland",Mozna panikowac [PL] [2020]
+http://clientportal.link:80/movie/a2Q9jwOARd507/PT5g6h692/77859.mkv
+#EXTINF:-1 group-title="Movie: Poland",Prime TIme [PL] [2021]
+http://clientportal.link:80/movie/a2Q9jwOARd507/PT5g6h692/77860.mkv
+#EXTINF:-1 group-title="Movie: Poland",Zabawa w chowanego [PL] [2020]
+http://clientportal.link:80/movie/a2Q9jwOARd507/PT5g6h692/77862.mkv
+#EXTINF:-1 group-title="Movie: Poland",Trzecia czesc nocy [PL] [1971]
+http://clientportal.link:80/movie/a2Q9jwOARd507/PT5g6h692/77861.mkv
+#EXTINF:-1 group-title="epremki.com",Eska Rock TV PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/88256
+#EXTINF:-1 group-title="epremki.com",Novelas + FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/88257
+#EXTINF:-1 group-title="epremki.com",StudioMed TV FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/88258
+#EXTINF:-1 group-title="epremki.com",Canal+ Now FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/29051
+#EXTINF:-1 group-title="epremki.com",Canal + 4K Ultra HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/118088
+#EXTINF:-1 group-title="epremki.com",Eleven Sports 1 4K PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/118089
+#EXTINF:-1 group-title="epremki.com",TVP Dokument FHD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/119956
+#EXTINF:-1 group-title="epremki.com",TV TRWAM PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/66349
+#EXTINF:-1 group-title="epremki.com",Antena PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/125846
+#EXTINF:-1 group-title="epremki.com",Home TV PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/125847
+#EXTINF:-1 group-title="epremki.com",Nuta Gold PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/125848
+#EXTINF:-1 group-title="epremki.com",TVC PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/125849
+#EXTINF:-1 group-title="epremki.com",TeenNick HD PL
+http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/125850
