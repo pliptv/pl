@@ -1,23 +1,325 @@
 #EXTM3U
-#EXTINF:-1,TVP Info
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-#EXTINF:-1,TVP3 Lodz
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
-#EXTINF:-1,TVP3 Gdansk
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
-#EXTINF:-1,TVP3 Bialystok
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
-#EXTINF:-1,TVP3 Bydgoszcz
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
-#EXTINF:-1,TVP3 Katowice
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
-#EXTINF:-1,TVP3 Krakow
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
-#EXTINF:-1,TVP3 Warszawa
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
-#EXTINF:-1,Polsat News
-http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
-#EXTINF:-1,TV Kujawy
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1,Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8 
+#EXTINF:-1 ,13 Ulica HD
+http://154.61.57.12:33001/play/a01n/index.m3u8,kasia
+#EXTINF:-1 ,4Fun Dance
+http://154.61.57.12:33001/play/a09p/index.m3u8,kasia
+#EXTINF:-1 ,4Fun Kids
+http://154.61.57.12:33001/play/a09o/index.m3u8,kasia
+#EXTINF:-1 ,4Fun.TV
+http://154.61.57.12:33001/play/a09n/index.m3u8,kasia
+#EXTINF:-1 ,ANTENA
+http://154.61.57.12:33001/play/a022/index.m3u8,kasia
+#EXTINF:-1 ,AXN HD
+http://154.61.57.12:33001/play/a042/index.m3u8,kasia
+#EXTINF:-1 ,AXN SPIN HD
+http://154.61.57.12:33001/play/a01z/index.m3u8,kasia
+#EXTINF:-1 ,Active Family
+http://154.61.57.12:33001/play/a026/index.m3u8,kasia
+#EXTINF:-1 ,Ale kino+ HD
+http://154.61.57.12:33001/play/a09c/index.m3u8,kasia
+#EXTINF:-1 ,BBC Earth HD
+http://154.61.57.12:33001/play/a00c/index.m3u8,kasia
+#EXTINF:-1 ,Baby TV
+http://154.61.57.12:33001/play/a0ai/index.m3u8,kasia
+#EXTINF:-1 ,CANAL+ DOKUMENT HD
+http://154.61.57.12:33001/play/a03k/index.m3u8,kasia
+#EXTINF:-1 ,CANAL+ DOMO HD
+http://154.61.57.12:33001/play/a036/index.m3u8,kasia
+#EXTINF:-1 ,CANAL+ FAMILY HD
+http://154.61.57.12:33001/play/a097/index.m3u8,kasia
+#EXTINF:-1 ,CANAL+ FILM HD
+http://154.61.57.12:33001/play/a096/index.m3u8,kasia
+#EXTINF:-1 ,CANAL+ KUCHNIA
+http://154.61.57.12:33001/play/a09b/index.m3u8,kasia
+#EXTINF:-1 ,CANAL+ NOW
+http://154.61.57.12:33001/play/a020/index.m3u8,kasia
+#EXTINF:-1 ,CANAL+ PREMIUM HD
+http://154.61.57.12:33001/play/a027/index.m3u8,kasia
+#EXTINF:-1 ,CANAL+ SERIALE HD
+http://154.61.57.12:33001/play/a09d/index.m3u8,kasia
+#EXTINF:-1 ,CANAL+ SPORT 2 HD
+http://154.61.57.12:33001/play/a03g/index.m3u8,kasia
+#EXTINF:-1 ,CANAL+ SPORT 3 HD
+http://154.61.57.12:33001/play/a03y/index.m3u8,kasia
+#EXTINF:-1 ,CANAL+ SPORT 4 HD
+http://154.61.57.12:33001/play/a08y/index.m3u8,kasia
+#EXTINF:-1 ,CANAL+ SPORT 5 HD
+http://154.61.57.12:33001/play/a03r/index.m3u8,kasia
+#EXTINF:-1 ,CANAL+ SPORT HD
+http://154.61.57.12:33001/play/a02d/index.m3u8,kasia
+#EXTINF:-1 ,CANAL+1 HD
+http://154.61.57.12:33001/play/a034/index.m3u8,kasia
+#EXTINF:-1 ,CBS Reality HD
+http://154.61.57.12:33001/play/a010/index.m3u8,kasia
+#EXTINF:-1 ,CI Polsat HD
+http://154.61.57.12:33001/play/a04a/index.m3u8,kasia
+#EXTINF:-1 ,CNN Europe HD
+http://154.61.57.12:33001/play/a04f/index.m3u8,kasia
+#EXTINF:-1 ,Cartoon Network HD
+http://154.61.57.12:33001/play/a08w/index.m3u8,kasia
+#EXTINF:-1 ,Cinemmax 2 HD
+http://154.61.57.12:33001/play/a043/index.m3u8,kasia
+#EXTINF:-1 ,Cinemax HD
+http://154.61.57.12:33001/play/a090/index.m3u8,kasia
+#EXTINF:-1 ,Disco Polo Music
+http://154.61.57.12:33001/play/a04g/index.m3u8,kasia
+#EXTINF:-1 ,Discovery Life
+http://154.61.57.12:33001/play/a02p/index.m3u8,kasia
+#EXTINF:-1 ,Discovery Poland HD
+http://154.61.57.12:33001/play/a02m/index.m3u8,kasia
+#EXTINF:-1 ,Disney Channel HD
+http://154.61.57.12:33001/play/a04j/index.m3u8,kasia
+#EXTINF:-1 ,Disney Junior
+http://154.61.57.12:33001/play/a095/index.m3u8,kasia
+#EXTINF:-1 ,Disney ?
+http://154.61.57.12:33001/play/a04i/index.m3u8,kasia
+#EXTINF:-1 ,Dlia Ciebie TV
+http://154.61.57.12:33001/play/a0ax/index.m3u8,kasia
+#EXTINF:-1 ,E! Entertainment
+http://154.61.57.12:33001/play/a01e/index.m3u8,kasia
+#EXTINF:-1 ,ELEVEN SPORTS 4 HD
+http://154.61.57.12:33001/play/a021/index.m3u8,kasia
+#EXTINF:-1 ,Eleven Sports 1 4K
+http://154.61.57.12:33001/play/a08c/index.m3u8,kasia
+#EXTINF:-1 ,Eleven Sports 1 HD
+http://154.61.57.12:33001/play/a038/index.m3u8,kasia
+#EXTINF:-1 ,Eleven Sports 2 HD
+http://154.61.57.12:33001/play/a03a/index.m3u8,kasia
+#EXTINF:-1 ,Eleven Sports 3 HD
+http://154.61.57.12:33001/play/a03d/index.m3u8,kasia
+#EXTINF:-1 ,Eska Rock
+http://154.61.57.12:33001/play/a00t/index.m3u8,kasia
+#EXTINF:-1 ,Eska TV Extra
+http://154.61.57.12:33001/play/a09v/index.m3u8,kasia
+#EXTINF:-1 ,Eska TV HD
+http://154.61.57.12:33001/play/a09w/index.m3u8,kasia
+#EXTINF:-1 ,Espresso TV
+http://154.61.57.12:33001/play/a0ay/index.m3u8,kasia
+#EXTINF:-1 ,Eurosport 1 Poland HD
+http://154.61.57.12:33001/play/a06p/index.m3u8,kasia
+#EXTINF:-1 ,FOX HD
+http://154.61.57.12:33001/play/a049/index.m3u8,kasia
+#EXTINF:-1 ,FilmBox Action
+http://154.61.57.12:33001/play/a018/index.m3u8,kasia
+#EXTINF:-1 ,FilmBox Extra HD
+http://154.61.57.12:33001/play/a01b/index.m3u8,kasia
+#EXTINF:-1 ,FilmBox Family
+http://154.61.57.12:33001/play/a017/index.m3u8,kasia
+#EXTINF:-1 ,Filmbox Arthouse
+http://154.61.57.12:33001/play/a00k/index.m3u8,kasia
+#EXTINF:-1 ,Filmbox Premium HD
+http://154.61.57.12:33001/play/a012/index.m3u8,kasia
+#EXTINF:-1 ,Fokus TV
+http://154.61.57.12:33001/play/a09x/index.m3u8,kasia
+#EXTINF:-1 ,Fokus TV
+http://154.61.57.12:33001/play/a00v/index.m3u8,kasia
+#EXTINF:-1 ,Food Network HD
+http://154.61.57.12:33001/play/a07p/index.m3u8,kasia
+#EXTINF:-1 ,HBO HD
+http://154.61.57.12:33001/play/a089/index.m3u8,kasia
+#EXTINF:-1 ,HBO2 HD
+http://154.61.57.12:33001/play/a039/index.m3u8,kasia
+#EXTINF:-1 ,HBO3 HD
+http://154.61.57.12:33001/play/a03e/index.m3u8,kasia
+#EXTINF:-1 ,HGTV HD
+http://154.61.57.12:33001/play/a02r/index.m3u8,kasia
+#EXTINF:-1 ,HOME TV
+http://154.61.57.12:33001/play/a0a1/index.m3u8,kasia
+#EXTINF:-1 ,ID Poland HD
+http://154.61.57.12:33001/play/a06r/index.m3u8,kasia
+#EXTINF:-1 ,KINO POLSKA HD
+http://154.61.57.12:33001/play/a03i/index.m3u8,kasia
+#EXTINF:-1 ,Kino Polska Muzyka
+http://154.61.57.12:33001/play/a015/index.m3u8,kasia
+#EXTINF:-1 ,Kino TV HD
+http://154.61.57.12:33001/play/a016/index.m3u8,kasia
+#EXTINF:-1 ,MTV Polska HD
+http://154.61.57.12:33001/play/a08l/index.m3u8,kasia
+#EXTINF:-1 ,Metro HD
+http://154.61.57.12:33001/play/a07l/index.m3u8,kasia
+#EXTINF:-1 ,MiniMini+ HD
+http://154.61.57.12:33001/play/a02f/index.m3u8,kasia
+#EXTINF:-1 ,NATIONAL GEO HD
+http://154.61.57.12:33001/play/a029/index.m3u8,kasia
+#EXTINF:-1 ,NOVELAS+
+http://154.61.57.12:33001/play/a03l/index.m3u8,kasia
+#EXTINF:-1 ,NUTA GOLD
+http://154.61.57.12:33001/play/a0a4/index.m3u8,kasia
+#EXTINF:-1 ,NUTA TV
+http://154.61.57.12:33001/play/a0a3/index.m3u8,kasia
+#EXTINF:-1 ,Nasa TV UHD
+http://154.61.57.12:33001/play/a0ae/index.m3u8,kasia
+#EXTINF:-1 ,Nat Geo People HD
+http://154.61.57.12:33001/play/a094/index.m3u8,kasia
+#EXTINF:-1 ,National Geographic Wild HD
+http://154.61.57.12:33001/play/a03b/index.m3u8,kasia
+#EXTINF:-1 ,Nickelodeon
+http://154.61.57.12:33001/play/a08h/index.m3u8,kasia
+#EXTINF:-1 ,Nowa TV
+http://154.61.57.12:33001/play/a09y/index.m3u8,kasia
+#EXTINF:-1 ,POWER TV
+http://154.61.57.12:33001/play/a0a2/index.m3u8,kasia
+#EXTINF:-1 ,Paramount Network Polska
+http://154.61.57.12:33001/play/a08j/index.m3u8,kasia
+#EXTINF:-1 ,Planete+ HD
+http://154.61.57.12:33001/play/a09a/index.m3u8,kasia
+#EXTINF:-1 ,Polo TV
+http://154.61.57.12:33001/play/a09u/index.m3u8,kasia
+#EXTINF:-1 ,Polonia 1
+http://154.61.57.12:33001/play/a0ab/index.m3u8,kasia
+#EXTINF:-1 ,Polsat 2 HD
+http://154.61.57.12:33001/play/a05w/index.m3u8,kasia
+#EXTINF:-1 ,Polsat Cafe HD
+http://154.61.57.12:33001/play/a068/index.m3u8,kasia
+#EXTINF:-1 ,Polsat Film HD
+http://154.61.57.12:33001/play/a065/index.m3u8,kasia
+#EXTINF:-1 ,Polsat Games
+http://154.61.57.12:33001/play/a0a8/index.m3u8,kasia
+#EXTINF:-1 ,Polsat HD
+http://154.61.57.12:33001/play/a05x/index.m3u8,kasia
+#EXTINF:-1 ,Polsat Jim Jam
+http://154.61.57.12:33001/play/a04k/index.m3u8,kasia
+#EXTINF:-1 ,Polsat Music HD
+http://154.61.57.12:33001/play/a00q/index.m3u8,kasia
+#EXTINF:-1 ,Polsat News 2
+http://154.61.57.12:33001/play/a05d/index.m3u8,kasia
+#EXTINF:-1 ,Polsat News HD
+http://154.61.57.12:33001/play/a066/index.m3u8,kasia
+#EXTINF:-1 ,Polsat Play HD
+http://154.61.57.12:33001/play/a05y/index.m3u8,kasia
+#EXTINF:-1 ,Polsat Sport HD
+http://154.61.57.12:33001/play/a09i/index.m3u8,kasia
+#EXTINF:-1 ,Polsat Sport News HD
+http://154.61.57.12:33001/play/a0b0/index.m3u8,kasia
+#EXTINF:-1 ,Polsat Sport Premium 1
+http://154.61.57.12:33001/play/a08a/index.m3u8,kasia
+#EXTINF:-1 ,Polsat Sport Premium 2
+http://154.61.57.12:33001/play/a08b/index.m3u8,kasia
+#EXTINF:-1 ,Polsat Sport Premium PPV3
+http://154.61.57.12:33001/play/a01k/index.m3u8,kasia
+#EXTINF:-1 ,Polsat Sport Premium PPV4
+http://154.61.57.12:33001/play/a01l/index.m3u8,kasia
+#EXTINF:-1 ,Puls 2 HD
+http://154.61.57.12:33001/play/a013/index.m3u8,kasia
+#EXTINF:-1 ,Red Carpet TV
+http://154.61.57.12:33001/play/a0a6/index.m3u8,kasia
+#EXTINF:-1 ,Romance TV
+http://154.61.57.12:33001/play/a03v/index.m3u8,kasia
+#EXTINF:-1 ,STARS.TV
+http://154.61.57.12:33001/play/a09k/index.m3u8,kasia
+#EXTINF:-1 ,Stopklatka
+http://154.61.57.12:33001/play/a00h/index.m3u8,kasia
+#EXTINF:-1 ,StudioMed TV HD
+http://154.61.57.12:33001/play/a098/index.m3u8,kasia
+#EXTINF:-1 ,Super Polsat
+http://154.61.57.12:33001/play/a05p/index.m3u8,kasia
+#EXTINF:-1 ,TELE 5
+http://154.61.57.12:33001/play/a0aa/index.m3u8,kasia
+#EXTINF:-1 ,TLC Poland HD
+http://154.61.57.12:33001/play/a02n/index.m3u8,kasia
+#EXTINF:-1 ,TTV HD
+http://154.61.57.12:33001/play/a07n/index.m3u8,kasia
+#EXTINF:-1 ,TV PULS HD
+http://154.61.57.12:33001/play/a019/index.m3u8,kasia
+#EXTINF:-1 ,TV Republika
+http://154.61.57.12:33001/play/a00j/index.m3u8,kasia
+#EXTINF:-1 ,TV4 HD
+http://154.61.57.12:33001/play/a05j/index.m3u8,kasia
+#EXTINF:-1 ,TV6
+http://154.61.57.12:33001/play/a05k/index.m3u8,kasia
+#EXTINF:-1 ,TVC
+http://154.61.57.12:33001/play/a0a5/index.m3u8,kasia
+#EXTINF:-1 ,TVN 24 HD
+http://154.61.57.12:33001/play/a07j/index.m3u8,kasia
+#EXTINF:-1 ,TVN 7 HD
+http://154.61.57.12:33001/play/a07k/index.m3u8,kasia
+#EXTINF:-1 ,TVN Fabula
+http://154.61.57.12:33001/play/a07m/index.m3u8,kasia
+#EXTINF:-1 ,TVN HD
+http://154.61.57.12:33001/play/a07e/index.m3u8,kasia
+#EXTINF:-1 ,TVN Style HD
+http://154.61.57.12:33001/play/a07f/index.m3u8,kasia
+#EXTINF:-1 ,TVN Turbo HD
+http://154.61.57.12:33001/play/a07h/index.m3u8,kasia
+#EXTINF:-1 ,TVN24 BiS HD
+http://154.61.57.12:33001/play/a02q/index.m3u8,kasia
+#EXTINF:-1 ,TVP 1 HD
+http://154.61.57.12:33001/play/a03u/index.m3u8,kasia
+#EXTINF:-1 ,TVP 2 HD
+http://154.61.57.12:33001/play/a041/index.m3u8,kasia
+#EXTINF:-1 ,TVP ABC
+http://154.61.57.12:33001/play/a014/index.m3u8,kasia
+#EXTINF:-1 ,TVP Dokument HD
+http://154.61.57.12:33001/play/a03m/index.m3u8,kasia
+#EXTINF:-1 ,TVP HD
+http://154.61.57.12:33001/play/a00d/index.m3u8,kasia
+#EXTINF:-1 ,TVP Historia
+http://154.61.57.12:33001/play/a01a/index.m3u8,kasia
+#EXTINF:-1 ,TVP INFO HD
+http://154.61.57.12:33001/play/a00e/index.m3u8,kasia
+#EXTINF:-1 ,TVP Polonia
+http://154.61.57.12:33001/play/a0aw/index.m3u8,kasia
+#EXTINF:-1 ,TVP Rozrywka
+http://154.61.57.12:33001/play/a00i/index.m3u8,kasia
+#EXTINF:-1 ,TVP SERIALE
+http://154.61.57.12:33001/play/a011/index.m3u8,kasia
+#EXTINF:-1 ,TVP Sport HD
+http://154.61.57.12:33001/play/a03n/index.m3u8,kasia
+#EXTINF:-1 ,TVS
+http://154.61.57.12:33001/play/a0a0/index.m3u8,kasia
+#EXTINF:-1 ,TeenNick
+http://154.61.57.12:33001/play/a09e/index.m3u8,kasia
+#EXTINF:-1 ,Travel Channel HD
+http://154.61.57.12:33001/play/a07o/index.m3u8,kasia
+#EXTINF:-1 ,UATV
+http://154.61.57.12:33001/play/a0ah/index.m3u8,kasia
+#EXTINF:-1 ,VOX Music TV
+http://154.61.57.12:33001/play/a09s/index.m3u8,kasia
+#EXTINF:-1 ,WP
+http://154.61.57.12:33001/play/a00z/index.m3u8,kasia
+#EXTINF:-1 ,Wydarzenia 24
+http://154.61.57.12:33001/play/a04o/index.m3u8,kasia
+#EXTINF:-1 ,Zoom TV
+http://154.61.57.12:33001/play/a00p/index.m3u8,kasia
+#EXTINF:-1 ,teleTOON+ HD
+http://154.61.57.12:33001/play/a099/index.m3u8,kasia
+#EXTINF:-1 ,TVS
+http://146.59.54.163/TVS/index.m3u8,kasia
+#EXTINF:-1 ,Filmbox Extra
+http://146.59.54.163/FilmBox-Extra-HD/index.m3u8,kasia
+#EXTINF:-1 ,Filmbox Premium
+http://146.59.54.163/Filmbox-Premium-HD/index.m3u8,kasia
+#EXTINF:-1 ,Travel
+http://146.59.54.163/Travel-Channel-HD/index.m3u8,kasia
+#EXTINF:-1 ,TLC
+http://146.59.54.163/TLC-HD/index.m3u8,kasia
+#EXTINF:-1 ,TVP Historia
+http://146.59.54.163/history2/index.m3u8,kasia
+#EXTINF:-1 ,FightBox
+http://146.59.54.163/Fightbox-Premium-HD/index.m3u8,kasia
+#EXTINF:-1 ,MTV
+http://146.59.54.163/MTV-Rocks-HD/index.m3u8,kasia
+#EXTINF:-1 ,DeeJay
+http://146.59.54.163/VH1/index.m3u8,kasia
+#EXTINF:-1 ,Porn HD
+http://146.59.54.163/347/index.m3u8,kasia
+#EXTINF:-1 ,Ola-lala
+http://146.59.54.163/350/index.m3u8,kasia
+#EXTINF:-1 ,Hustler HD
+http://146.59.54.163/348/index.m3u8,kasia
+#EXTINF:-1 ,DorcelTV
+http://146.59.54.163/345/index.m3u8,kasia
+#EXTINF:-1 ,Penthouse
+http://146.59.54.163/353/index.m3u8,kasia
+#EXTINF:-1 ,BabiesTV
+http://146.59.54.163/354/index.m3u8,kasia
+#EXTINF:-1 ,Private tv
+http://146.59.54.163/356/index.m3u8,kasia
+#EXTINF:-1 ,XXL
+http://146.59.54.163/363/index.m3u8,kasia
+#EXTINF:-1 ,Penthouse Reality TV
+http://146.59.54.163/352/index.m3u8,kasia
+#EXTINF:-1 ,ViViD Red
+http://146.59.54.163/361/index.m3u8,kasia
+#EXTINF:-1 ,XXX
+http://146.59.54.163/362/index.m3u8,kasia
