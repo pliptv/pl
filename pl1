@@ -273,3 +273,1027 @@ http://146.59.54.163/history2/index.m3u8,kasia
 http://146.59.54.163/Fightbox-Premium-HD/index.m3u8,kasia
 #EXTINF:-1 ,MTV
 http://146.59.54.163/MTV-Rocks-HD/index.m3u8,kasia
+#EXTINF:0,TVP 1 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880520&extension=ts
+#EXTINF:0,TVP 1 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880380&extension=ts
+#EXTINF:0,TVP 2 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880519&extension=ts
+#EXTINF:0,TVP 2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880379&extension=ts
+#EXTINF:0,TVP FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880504&extension=ts
+#EXTINF:0,TVP HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880364&extension=ts
+#EXTINF:0,TVP 3
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880240&extension=ts
+#EXTINF:0,TVP KOBIETA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121741&extension=ts
+#EXTINF:0,TVP ROZRYWKA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880237&extension=ts
+#EXTINF:0,TVP KULTURA FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880387&extension=ts
+#EXTINF:0,TVP KULTURA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880247&extension=ts
+#EXTINF:0,TVP KULTURA 2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121742&extension=ts
+#EXTINF:0,TTV FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880389&extension=ts
+#EXTINF:0,TTV HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880249&extension=ts
+#EXTINF:0,TVN FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880518&extension=ts
+#EXTINF:0,TVN HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880378&extension=ts
+#EXTINF:0,TVN 7 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880517&extension=ts
+#EXTINF:0,TVN 7 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880377&extension=ts
+#EXTINF:0,TVN FABULA FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880516&extension=ts
+#EXTINF:0,TVN FABULA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880376&extension=ts
+#EXTINF:0,TVN STYLE FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880515&extension=ts
+#EXTINF:0,TVN STYLE HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880375&extension=ts
+#EXTINF:0,TVN TURBO FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880514&extension=ts
+#EXTINF:0,TVN TURBO HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880374&extension=ts
+#EXTINF:0,SUPER POLSAT FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880386&extension=ts
+#EXTINF:0,SUPER POLSAT HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880246&extension=ts
+#EXTINF:0,POLSAT FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880509&extension=ts
+#EXTINF:0,POLSAT HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880369&extension=ts
+#EXTINF:0,POLSAT 2 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880508&extension=ts
+#EXTINF:0,POLSAT 2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880368&extension=ts
+#EXTINF:0,POLSAT RODZINA FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880506&extension=ts
+#EXTINF:0,POLSAT RODZINA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880366&extension=ts
+#EXTINF:0,POLSAT CAFE FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880404&extension=ts
+#EXTINF:0,POLSAT CAFE HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880264&extension=ts
+#EXTINF:0,POLSAT GAMES FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880401&extension=ts
+#EXTINF:0,POLSAT GAMES HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880261&extension=ts
+#EXTINF:0,POLSAT PLAY FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880399&extension=ts
+#EXTINF:0,POLSAT PLAY HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880259&extension=ts
+#EXTINF:0,GAMETOON HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121747&extension=ts
+#EXTINF:0,PULS FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880475&extension=ts
+#EXTINF:0,PULS HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880335&extension=ts
+#EXTINF:0,PULS 2 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880479&extension=ts
+#EXTINF:0,PULS 2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880339&extension=ts
+#EXTINF:0,TV4 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880510&extension=ts
+#EXTINF:0,TV4 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880370&extension=ts
+#EXTINF:0,TV6 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880511&extension=ts
+#EXTINF:0,TV6 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880371&extension=ts
+#EXTINF:0,TELE 5
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880230&extension=ts
+#EXTINF:0,ANTENA TV
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1060637&extension=ts
+#EXTINF:0,TLC FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880474&extension=ts
+#EXTINF:0,TLC HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880334&extension=ts
+#EXTINF:0,FOOD NETWORK FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880481&extension=ts
+#EXTINF:0,FOOD NETWORK HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880341&extension=ts
+#EXTINF:0,HGTV FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880385&extension=ts
+#EXTINF:0,HGTV HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880245&extension=ts
+#EXTINF:0,HOME TV
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880214&extension=ts
+#EXTINF:0,DOMO+ FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880424&extension=ts
+#EXTINF:0,DOMO+ HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880284&extension=ts
+#EXTINF:0,KUCHNIA+ FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880415&extension=ts
+#EXTINF:0,KUCHNIA+ HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880275&extension=ts
+#EXTINF:0,ACTIVE FAMILY
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880234&extension=ts
+#EXTINF:0,METRO
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880212&extension=ts
+#EXTINF:0,TVS
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880201&extension=ts
+#EXTINF:0,NOWA TV FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880407&extension=ts
+#EXTINF:0,NOWA TV HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880267&extension=ts
+#EXTINF:0,ZOOM TV
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880190&extension=ts
+#EXTINF:0,E! ENTERTAINMENT FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880422&extension=ts
+#EXTINF:0,E! ENTERTAINMENT HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880282&extension=ts
+#EXTINF:0,WP
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880192&extension=ts
+#EXTINF:0,TVP POLONIA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880242&extension=ts
+#EXTINF:0,TVP POLONIA 1
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880241&extension=ts
+#EXTINF:0,TVR
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880202&extension=ts
+#EXTINF:0,TRWAM TV
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=884764&extension=ts
+#EXTINF:0,###### PL RADIO ######
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882113&extension=ts
+#EXTINF:0,### PL FILMOWE ###
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1288921&extension=ts
+#EXTINF:0,CANAL+ 4K ULTRA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1271764&extension=ts
+#EXTINF:0,CANAL+ PREMIUM FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880498&extension=ts
+#EXTINF:0,CANAL+ PREMIUM HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880358&extension=ts
+#EXTINF:0,CANAL+ 1 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880501&extension=ts
+#EXTINF:0,CANAL+ 1 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880361&extension=ts
+#EXTINF:0,CANAL+ FILM FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880491&extension=ts
+#EXTINF:0,CANAL+ FILM HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880351&extension=ts
+#EXTINF:0,CANAL+ FAMILY FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880500&extension=ts
+#EXTINF:0,CANAL+ FAMILY HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880360&extension=ts
+#EXTINF:0,CANAL+ SERIALE FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880497&extension=ts
+#EXTINF:0,CANAL+ SERIALE HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880357&extension=ts
+#EXTINF:0,HBO FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880494&extension=ts
+#EXTINF:0,HBO HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880354&extension=ts
+#EXTINF:0,HBO 2 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880496&extension=ts
+#EXTINF:0,HBO 2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880356&extension=ts
+#EXTINF:0,HBO 3 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880495&extension=ts
+#EXTINF:0,HBO 3 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880355&extension=ts
+#EXTINF:0,POLSAT FILM FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880505&extension=ts
+#EXTINF:0,POLSAT FILM HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880365&extension=ts
+#EXTINF:0,PARAMOUNT CHANNEL FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880472&extension=ts
+#EXTINF:0,PARAMOUNT CHANNEL HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880332&extension=ts
+#EXTINF:0,WARNER TV FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880473&extension=ts
+#EXTINF:0,WARNER TV HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880333&extension=ts
+#EXTINF:0,13 ULICA FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880492&extension=ts
+#EXTINF:0,13 ULICA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880352&extension=ts
+#EXTINF:0,AMC FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880433&extension=ts
+#EXTINF:0,AMC HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880293&extension=ts
+#EXTINF:0,ALE KINO+ FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880493&extension=ts
+#EXTINF:0,ALE KINO+ HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880353&extension=ts
+#EXTINF:0,AXN FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880490&extension=ts
+#EXTINF:0,AXN HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880350&extension=ts
+#EXTINF:0,AXN SPIN FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880489&extension=ts
+#EXTINF:0,AXN SPIN HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880349&extension=ts
+#EXTINF:0,AXN WHITE
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880235&extension=ts
+#EXTINF:0,AXN BLACK
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880236&extension=ts
+#EXTINF:0,CINEMAX FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880485&extension=ts
+#EXTINF:0,CINEMAX HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880345&extension=ts
+#EXTINF:0,CINEMAX 2 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880488&extension=ts
+#EXTINF:0,CINEMAX 2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880348&extension=ts
+#EXTINF:0,FILMBOX PREMIUM FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880483&extension=ts
+#EXTINF:0,FILMBOX EXTRA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880344&extension=ts
+#EXTINF:0,FILMBOX EXTRA FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880484&extension=ts
+#EXTINF:0,FILMBOX ARTHOUSE
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880232&extension=ts
+#EXTINF:0,FILMBOX ACTION
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880233&extension=ts
+#EXTINF:0,FILMBOX FAMILY
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880231&extension=ts
+#EXTINF:0,COMEDY CENTRAL FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880487&extension=ts
+#EXTINF:0,COMEDY CENTRAL HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880347&extension=ts
+#EXTINF:0,POLSAT COMEDY CENTRAL EXTRA FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880403&extension=ts
+#EXTINF:0,POLSAT COMEDY CENTRAL EXTRA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880263&extension=ts
+#EXTINF:0,COMEDY CENTRAL POLAND FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880486&extension=ts
+#EXTINF:0,COMEDY CENTRAL POLAND HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880346&extension=ts
+#EXTINF:0,KINO TV FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880478&extension=ts
+#EXTINF:0,KINO TV HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880338&extension=ts
+#EXTINF:0,KINO POLSKA FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880476&extension=ts
+#EXTINF:0,KINO POLSKA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880336&extension=ts
+#EXTINF:0,TVP SERIALE
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880189&extension=ts
+#EXTINF:0,POLSAT SERIALE FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880507&extension=ts
+#EXTINF:0,POLSAT SERIALE HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880367&extension=ts
+#EXTINF:0,FILMAX HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121744&extension=ts
+#EXTINF:0,FOX FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880477&extension=ts
+#EXTINF:0,FOX HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880337&extension=ts
+#EXTINF:0,FOX COMEDY FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880480&extension=ts
+#EXTINF:0,FOX COMEDY HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880340&extension=ts
+#EXTINF:0,SCIFI UNIVERSAL FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880451&extension=ts
+#EXTINF:0,SCIFI UNIVERSAL HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880311&extension=ts
+#EXTINF:0,CBS EUROPA FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880431&extension=ts
+#EXTINF:0,CBS EUROPA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880291&extension=ts
+#EXTINF:0,EPIC DRAMA FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880421&extension=ts
+#EXTINF:0,EPIC DRAMA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880281&extension=ts
+#EXTINF:0,STOPKLATKA TV
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880229&extension=ts
+#EXTINF:0,SUNDANCE TV FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880392&extension=ts
+#EXTINF:0,SUNDANCE TV HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880252&extension=ts
+#EXTINF:0,ROMANCE TV FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880394&extension=ts
+#EXTINF:0,ROMANCE TV HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880254&extension=ts
+#EXTINF:0,NOVELA TV
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880209&extension=ts
+#EXTINF:0,NOVELAS+ FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880410&extension=ts
+#EXTINF:0,NOVELAS+ HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880270&extension=ts
+#EXTINF:0,RED CARPET TV FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880395&extension=ts
+#EXTINF:0,RED CARPET TV HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880255&extension=ts
+#EXTINF:0,DIZI HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121745&extension=ts
+#EXTINF:0,BOLLYWOOD HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121746&extension=ts
+#EXTINF:0,VOD 205
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880197&extension=ts
+#EXTINF:0,VOD 206
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880196&extension=ts
+#EXTINF:0,VOD 207
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880195&extension=ts
+#EXTINF:0,VOD 208
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880194&extension=ts
+#EXTINF:0,### PL DLA DZIECI ###
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1288920&extension=ts
+#EXTINF:0,DA VINCI LEARNING
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880224&extension=ts
+#EXTINF:0,TVP ABC
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880239&extension=ts
+#EXTINF:0,TVP ABC 2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121740&extension=ts
+#EXTINF:0,DUCK TV HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121750&extension=ts
+#EXTINF:0,DUCK TV PLUS HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121751&extension=ts
+#EXTINF:0,BBC CBEEBIES
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880226&extension=ts
+#EXTINF:0,TOP KIDS
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=897016&extension=ts
+#EXTINF:0,BABY TV
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880225&extension=ts
+#EXTINF:0,2X2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121758&extension=ts
+#EXTINF:0,4FUN KIDS
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1035704&extension=ts
+#EXTINF:0,JUNIOR MUSIC HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121756&extension=ts
+#EXTINF:0,NICK JR POLSKA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880211&extension=ts
+#EXTINF:0,NICK MUSIC HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121757&extension=ts
+#EXTINF:0,TEENNICK FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880411&extension=ts
+#EXTINF:0,TEENNICK HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880271&extension=ts
+#EXTINF:0,NICKELODEON
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880210&extension=ts
+#EXTINF:0,NICKTOONS FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880412&extension=ts
+#EXTINF:0,NICKTOONS HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880272&extension=ts
+#EXTINF:0,POLSAT JIM JAM
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880206&extension=ts
+#EXTINF:0,DISNEY CHANNEL HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880285&extension=ts
+#EXTINF:0,DISNEY JUNIOR
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880219&extension=ts
+#EXTINF:0,DISNEY XD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880218&extension=ts
+#EXTINF:0,BOOMERANG FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880443&extension=ts
+#EXTINF:0,BOOMERANG HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880303&extension=ts
+#EXTINF:0,TELETOON+ FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880390&extension=ts
+#EXTINF:0,TELETOON+ HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880250&extension=ts
+#EXTINF:0,MINIMINI FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880414&extension=ts
+#EXTINF:0,MINIMINI HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880274&extension=ts
+#EXTINF:0,CARTOON NETWORK FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880432&extension=ts
+#EXTINF:0,CARTOON NETWORK HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880292&extension=ts
+#EXTINF:0,### PL DOKUMENTALNE ###
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1288919&extension=ts
+#EXTINF:0,LOVE NATURE 4K
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1131804&extension=ts
+#EXTINF:0,TRAVEL CHANNEL FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880445&extension=ts
+#EXTINF:0,TRAVEL CHANNEL HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880305&extension=ts
+#EXTINF:0,ANIMAL PLANET FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880437&extension=ts
+#EXTINF:0,ANIMAL PLANET HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880297&extension=ts
+#EXTINF:0,ADVENTURE FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880434&extension=ts
+#EXTINF:0,ADVENTURE HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880294&extension=ts
+#EXTINF:0,BBC BRIT FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880450&extension=ts
+#EXTINF:0,BBC BRIT HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880310&extension=ts
+#EXTINF:0,BBC EARTH FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880436&extension=ts
+#EXTINF:0,BBC EARTH HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880296&extension=ts
+#EXTINF:0,BBC FIRST HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880309&extension=ts
+#EXTINF:0,BBC FIRST FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880449&extension=ts
+#EXTINF:0,BBC LIFESTYLE FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880435&extension=ts
+#EXTINF:0,BBC LIFESTYLE HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880295&extension=ts
+#EXTINF:0,CBS REALITY FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880430&extension=ts
+#EXTINF:0,CBS REALITY HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880290&extension=ts
+#EXTINF:0,CANAL+ DOKUMENT FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880442&extension=ts
+#EXTINF:0,CANAL+ DOKUMENT HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880302&extension=ts
+#EXTINF:0,DISCOVERY FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880428&extension=ts
+#EXTINF:0,DISCOVERY HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880288&extension=ts
+#EXTINF:0,DISCOVERY SCIENCE FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880426&extension=ts
+#EXTINF:0,DISCOVERY SCIENCE HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880286&extension=ts
+#EXTINF:0,DISCOVERY LIFE FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880427&extension=ts
+#EXTINF:0,DISCOVERY LIFE HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880287&extension=ts
+#EXTINF:0,DISCOVERY HISTORIA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880228&extension=ts
+#EXTINF:0,NATIONAL GEOGRAPHIC FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880438&extension=ts
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880298&extension=ts
+#EXTINF:0,NAT GEO WILD FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880439&extension=ts
+#EXTINF:0,NAT GEO WILD HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880299&extension=ts
+#EXTINF:0,NAT GEO PEOPLE FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880440&extension=ts
+#EXTINF:0,NAT GEO PEOPLE HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880300&extension=ts
+#EXTINF:0,ID FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880416&extension=ts
+#EXTINF:0,ID HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880276&extension=ts
+#EXTINF:0,CRIME AND INVESTIGATION FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880429&extension=ts
+#EXTINF:0,CRIME AND INVESTIGATION HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880289&extension=ts
+#EXTINF:0,DTX FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880423&extension=ts
+#EXTINF:0,DTX HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880283&extension=ts
+#EXTINF:0,HISTORY FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880384&extension=ts
+#EXTINF:0,HISTORY HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880244&extension=ts
+#EXTINF:0,H2 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880418&extension=ts
+#EXTINF:0,H2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880278&extension=ts
+#EXTINF:0,PLANETE+ FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880405&extension=ts
+#EXTINF:0,PLANETE+ HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880265&extension=ts
+#EXTINF:0,POLSAT DOKU FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880402&extension=ts
+#EXTINF:0,POLSAT DOKU HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880262&extension=ts
+#EXTINF:0,POLSAT VIASAT HISTORY FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880397&extension=ts
+#EXTINF:0,POLSAT VIASAT HISTORY HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880257&extension=ts
+#EXTINF:0,POLSAT VIASAT EXPLORE FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880398&extension=ts
+#EXTINF:0,POLSAT VIASAT EXPLORE HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880258&extension=ts
+#EXTINF:0,POLSAT VIASAT NATURE FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880396&extension=ts
+#EXTINF:0,POLSAT VIASAT NATURE HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880256&extension=ts
+#EXTINF:0,FOKUS TV FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880482&extension=ts
+#EXTINF:0,FOKUS TV HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880342&extension=ts
+#EXTINF:0,WATER PLANET
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880193&extension=ts
+#EXTINF:0,STUDIOMED TV FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880393&extension=ts
+#EXTINF:0,STUDIOMED TV HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880253&extension=ts
+#EXTINF:0,TVP DOKUMENT FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880388&extension=ts
+#EXTINF:0,TVP DOKUMENT HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880248&extension=ts
+#EXTINF:0,TVP HISTORIA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880238&extension=ts
+#EXTINF:0,TVP HISTORIA 2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121743&extension=ts
+#EXTINF:0,### PL SPORTOWE ###
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1288918&extension=ts
+#EXTINF:0,ELEVEN SPORTS 1 4K
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=905665&extension=ts
+#EXTINF:0,ELEVEN SPORTS 1 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880457&extension=ts
+#EXTINF:0,ELEVEN SPORTS 1 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880317&extension=ts
+#EXTINF:0,ELEVEN SPORTS 2 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880456&extension=ts
+#EXTINF:0,ELEVEN SPORTS 2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880316&extension=ts
+#EXTINF:0,ELEVEN SPORTS 3 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880455&extension=ts
+#EXTINF:0,ELEVEN SPORTS 3 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880315&extension=ts
+#EXTINF:0,ELEVEN SPORTS 4 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880454&extension=ts
+#EXTINF:0,ELEVEN SPORTS 4 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880314&extension=ts
+#EXTINF:0,EUROSPORT 1 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880453&extension=ts
+#EXTINF:0,EUROSPORT 1 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880313&extension=ts
+#EXTINF:0,EUROSPORT 2 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880452&extension=ts
+#EXTINF:0,EUROSPORT 2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880312&extension=ts
+#EXTINF:0,CANAL+ NOW FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880499&extension=ts
+#EXTINF:0,CANAL+ NOW HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880359&extension=ts
+#EXTINF:0,CANAL+ SPORT FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880461&extension=ts
+#EXTINF:0,CANAL+ SPORT HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880321&extension=ts
+#EXTINF:0,CANAL+ SPORT 2 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880460&extension=ts
+#EXTINF:0,CANAL+ SPORT 2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880320&extension=ts
+#EXTINF:0,CANAL+ SPORT 3 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880459&extension=ts
+#EXTINF:0,CANAL+ SPORT 3 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880319&extension=ts
+#EXTINF:0,CANAL+ SPORT 4 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880458&extension=ts
+#EXTINF:0,CANAL+ SPORT 4 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880318&extension=ts
+#EXTINF:0,CANAL+ SPORT 5 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880406&extension=ts
+#EXTINF:0,CANAL+ SPORT 5 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880266&extension=ts
+#EXTINF:0,POLSAT SPORT NEWS FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880468&extension=ts
+#EXTINF:0,POLSAT SPORT NEWS HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880328&extension=ts
+#EXTINF:0,POLSAT SPORT FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880470&extension=ts
+#EXTINF:0,POLSAT SPORT HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880330&extension=ts
+#EXTINF:0,POLSAT SPORT EXTRA FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880471&extension=ts
+#EXTINF:0,POLSAT SPORT EXTRA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880331&extension=ts
+#EXTINF:0,POLSAT SPORT PREMIUM 1 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880467&extension=ts
+#EXTINF:0,POLSAT SPORT PREMIUM 1 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880327&extension=ts
+#EXTINF:0,POLSAT SPORT PREMIUM 2 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880466&extension=ts
+#EXTINF:0,POLSAT SPORT PREMIUM 2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880326&extension=ts
+#EXTINF:0,POLSAT SPORT PREMIUM 3 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880465&extension=ts
+#EXTINF:0,POLSAT SPORT PREMIUM 3 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880325&extension=ts
+#EXTINF:0,POLSAT SPORT PREMIUM 4 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880464&extension=ts
+#EXTINF:0,POLSAT SPORT PREMIUM 4 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880324&extension=ts
+#EXTINF:0,POLSAT SPORT PREMIUM 5 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880463&extension=ts
+#EXTINF:0,POLSAT SPORT PREMIUM 5 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880323&extension=ts
+#EXTINF:0,POLSAT SPORT PREMIUM 6 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880462&extension=ts
+#EXTINF:0,POLSAT SPORT PREMIUM 6 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880322&extension=ts
+#EXTINF:0,POLSAT SPORT FIGHT FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880469&extension=ts
+#EXTINF:0,POLSAT SPORT FIGHT HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880329&extension=ts
+#EXTINF:0,TVP SPORT FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880502&extension=ts
+#EXTINF:0,TVP SPORT HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880362&extension=ts
+#EXTINF:0,SPORTKLUB FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880447&extension=ts
+#EXTINF:0,SPORTKLUB HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880307&extension=ts
+#EXTINF:0,FIGHTKLUB FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880420&extension=ts
+#EXTINF:0,FIGHTKLUB HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880280&extension=ts
+#EXTINF:0,FIGHTBOX FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880446&extension=ts
+#EXTINF:0,FIGHTBOX HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880306&extension=ts
+#EXTINF:0,PRIME FIGHT HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121749&extension=ts
+#EXTINF:0,EXTREME SPORTS FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880448&extension=ts
+#EXTINF:0,EXTREME SPORTS HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880308&extension=ts
+#EXTINF:0,GOLF CHANNEL FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880419&extension=ts
+#EXTINF:0,GOLF CHANNEL HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880279&extension=ts
+#EXTINF:0,MOTOWIZJA FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880413&extension=ts
+#EXTINF:0,MOTOWIZJA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880273&extension=ts
+#EXTINF:0,GINX ESPORTS TV HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121748&extension=ts
+#EXTINF:0,### PL INFORMACYJNE ###
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1288917&extension=ts
+#EXTINF:0,TVN24 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880512&extension=ts
+#EXTINF:0,TVN24 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880372&extension=ts
+#EXTINF:0,TVN 24
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=897018&extension=ts
+#EXTINF:0,TVN24 BIS FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880513&extension=ts
+#EXTINF:0,TVN24 BIS HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880373&extension=ts
+#EXTINF:0,TVP INFO FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880503&extension=ts
+#EXTINF:0,TVP INFO HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880363&extension=ts
+#EXTINF:0,TVP WORLD HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121739&extension=ts
+#EXTINF:0,TVP POLONIA FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880382&extension=ts
+#EXTINF:0,CNNI FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880997&extension=ts
+#EXTINF:0,CNNI HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880996&extension=ts
+#EXTINF:0,POLSAT NEWS FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880441&extension=ts
+#EXTINF:0,POLSAT NEWS HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880301&extension=ts
+#EXTINF:0,POLSAT NEWS 2
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880227&extension=ts
+#EXTINF:0,WYDARZENIA 24
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1137583&extension=ts
+#EXTINF:0,NEWS 24 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121738&extension=ts
+#EXTINF:0,BIZNES24 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880444&extension=ts
+#EXTINF:0,BIZNES24 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880304&extension=ts
+#EXTINF:0,WPOLSCE
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880191&extension=ts
+#EXTINF:0,TV REPUBLIKA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880203&extension=ts
+#EXTINF:0,SUPERSTACJA FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880391&extension=ts
+#EXTINF:0,SUPERSTACJA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880251&extension=ts
+#EXTINF:0,### PL MUZYCZNE ###
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1288916&extension=ts
+#EXTINF:0,ESKA TV
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880216&extension=ts
+#EXTINF:0,ESKA TV EXTRA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880215&extension=ts
+#EXTINF:0,ESKA ROCK TV
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880217&extension=ts
+#EXTINF:0,4FUN.TV
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880220&extension=ts
+#EXTINF:0,4FUN DANCE
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880222&extension=ts
+#EXTINF:0,4FUN GOLD HITS
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880221&extension=ts
+#EXTINF:0,STARS.TV
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880204&extension=ts
+#EXTINF:0,NUTA TV
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880207&extension=ts
+#EXTINF:0,MUSIC BOX POLSKA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880199&extension=ts
+#EXTINF:0,MIXTAPE HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121760&extension=ts
+#EXTINF:0,360 TUNEBOX HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121759&extension=ts
+#EXTINF:0,KINO POLSKA MUZYKA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880213&extension=ts
+#EXTINF:0,POLSAT MUSIC FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880400&extension=ts
+#EXTINF:0,POLSAT MUSIC HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880260&extension=ts
+#EXTINF:0,MTV LIVE FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880409&extension=ts
+#EXTINF:0,MTV LIVE HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880269&extension=ts
+#EXTINF:0,MTV POLSKA FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880408&extension=ts
+#EXTINF:0,MTV POLSKA HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880268&extension=ts
+#EXTINF:0,MTV 00S HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121761&extension=ts
+#EXTINF:0,MTV 00S
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880200&extension=ts
+#EXTINF:0,MTV 80S HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880208&extension=ts
+#EXTINF:0,VOX MUSIC TV
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880198&extension=ts
+#EXTINF:0,POWER TV
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880205&extension=ts
+#EXTINF:0,DISCO POLO MUSIC HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121755&extension=ts
+#EXTINF:0,DISCO POLO MUSIC
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880223&extension=ts
+#EXTINF:0,POLO TV FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880383&extension=ts
+#EXTINF:0,POLO TV HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880243&extension=ts
+#EXTINF:0,JAZZ HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121754&extension=ts
+#EXTINF:0,MEZZO HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121752&extension=ts
+#EXTINF:0,MEZZO LIVE HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1121753&extension=ts
+#EXTINF:0,### PL REGIONALNE ###
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1288915&extension=ts
+#EXTINF:0,TVP3 BIALYSTOK
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936815&extension=ts
+#EXTINF:0,TVP3 BYDGOSZCZ
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936816&extension=ts
+#EXTINF:0,TVP3 GDANSK
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936817&extension=ts
+#EXTINF:0,TVP3 GORZOW
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936818&extension=ts
+#EXTINF:0,TVP3 KATOWICE
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936819&extension=ts
+#EXTINF:0,TVP3 KIELCE
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936820&extension=ts
+#EXTINF:0,TVP3 KRAKOW
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936821&extension=ts
+#EXTINF:0,TVP3 LUBLIN
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936834&extension=ts
+#EXTINF:0,TVP3 LODZ
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936835&extension=ts
+#EXTINF:0,TVP3 OLSZTYN
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936836&extension=ts
+#EXTINF:0,TVP3 OPOLE
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936837&extension=ts
+#EXTINF:0,TVP3 POZNAN
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936838&extension=ts
+#EXTINF:0,TVP3 RZESZOW
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936839&extension=ts
+#EXTINF:0,TVP3 SZCZECIN
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936948&extension=ts
+#EXTINF:0,TVP3 WARSZAWA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936950&extension=ts
+#EXTINF:0,### PL VIAPLAY ###
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1288914&extension=ts
+#EXTINF:0,PREMIER LEAGUE TOP EVENT FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111763&extension=ts
+#EXTINF:0,PREMIER LEAGUE TOP EVENT HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111762&extension=ts
+#EXTINF:0,XTRA 1 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111761&extension=ts
+#EXTINF:0,XTRA 2 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111760&extension=ts
+#EXTINF:0,XTRA 3 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111759&extension=ts
+#EXTINF:0,XTRA 4 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111758&extension=ts
+#EXTINF:0,XTRA 5 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111757&extension=ts
+#EXTINF:0,XTRA 6 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111756&extension=ts
+#EXTINF:0,XTRA 7 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111755&extension=ts
+#EXTINF:0,XTRA 8 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111754&extension=ts
+#EXTINF:0,XTRA 9 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111753&extension=ts
+#EXTINF:0,XTRA 10 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111752&extension=ts
+#EXTINF:0,XTRA 11 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111751&extension=ts
+#EXTINF:0,XTRA 12 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111750&extension=ts
+#EXTINF:0,XTRA 13 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111749&extension=ts
+#EXTINF:0,XTRA 14 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111748&extension=ts
+#EXTINF:0,XTRA 15 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111747&extension=ts
+#EXTINF:0,XTRA 16 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111746&extension=ts
+#EXTINF:0,XTRA 17 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111745&extension=ts
+#EXTINF:0,XTRA 18 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111744&extension=ts
+#EXTINF:0,XTRA 19 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111743&extension=ts
+#EXTINF:0,XTRA 20 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111742&extension=ts
+#EXTINF:0,XTRA 21 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111741&extension=ts
+#EXTINF:0,XTRA 22 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111740&extension=ts
+#EXTINF:0,XTRA 23 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111739&extension=ts
+#EXTINF:0,XTRA 25 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111738&extension=ts
+#EXTINF:0,XTRA 26 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111737&extension=ts
+#EXTINF:0,XTRA 40 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111736&extension=ts
+#EXTINF:0,XTRA 44 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111735&extension=ts
+#EXTINF:0,XTRA 48 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111734&extension=ts
+#EXTINF:0,XTRA 49 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111733&extension=ts
+#EXTINF:0,XTRA 50 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111732&extension=ts
+#EXTINF:0,XTRA 63 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111731&extension=ts
+#EXTINF:0,XTRA 64 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111730&extension=ts
+#EXTINF:0,XTRA 65 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111729&extension=ts
+#EXTINF:0,XTRA 66 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111728&extension=ts
+#EXTINF:0,XTRA 67 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111727&extension=ts
+#EXTINF:0,XTRA 68 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111726&extension=ts
+#EXTINF:0,XTRA 69 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111725&extension=ts
+#EXTINF:0,XTRA 70 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111724&extension=ts
+#EXTINF:0,XTRA 71 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111723&extension=ts
+#EXTINF:0,XTRA 71 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111722&extension=ts
+#EXTINF:0,XTRA 72 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111721&extension=ts
+#EXTINF:0,XTRA 73 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111720&extension=ts
+#EXTINF:0,XTRA 74 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111719&extension=ts
+#EXTINF:0,XTRA 75 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111718&extension=ts
+#EXTINF:0,XTRA 76 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111717&extension=ts
+#EXTINF:0,XTRA 77 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111716&extension=ts
+#EXTINF:0,XTRA 78 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111715&extension=ts
+#EXTINF:0,XTRA 79 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111714&extension=ts
+#EXTINF:0,XTRA 80 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111713&extension=ts
+#EXTINF:0,XTRA 81 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111712&extension=ts
+#EXTINF:0,XTRA 82 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111711&extension=ts
+#EXTINF:0,XTRA 83 FHD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111710&extension=ts
+#EXTINF:0,XTRA 83 HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111709&extension=ts
+#EXTINF:0,NFL HD
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111708&extension=ts
+#EXTINF:0,### PL EUROSPORT EXTRA ###
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1288913&extension=ts
+#EXTINF:0,EUROSPORT XTRA 1
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289020&extension=ts
+#EXTINF:0,EUROSPORT XTRA 2
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289019&extension=ts
+#EXTINF:0,EUROSPORT XTRA 3
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289018&extension=ts
+#EXTINF:0,EUROSPORT XTRA 4
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289017&extension=ts
+#EXTINF:0,EUROSPORT XTRA 5
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289016&extension=ts
+#EXTINF:0,EUROSPORT XTRA 6
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289015&extension=ts
+#EXTINF:0,EUROSPORT XTRA 7
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289014&extension=ts
+#EXTINF:0,EUROSPORT XTRA 8
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289013&extension=ts
+#EXTINF:0,### PL WALKI PPV ###
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1288912&extension=ts
+#EXTINF:0,HIGH LEAGUE 6
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1142450&extension=ts
+#EXTINF:0,HIGH LEAGUE 6 BACKUP 1
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1142451&extension=ts
+#EXTINF:0,HIGH LEAGUE 6 BACKUP 2
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1142452&extension=ts
+#EXTINF:0,KSW
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289021&extension=ts
+#EXTINF:0,FAME MMA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289023&extension=ts
+#EXTINF:0,PRIME MMA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289024&extension=ts
+#EXTINF:0,HIGH LEAGUE
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289026&extension=ts
+#EXTINF:0,FEN MMA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289022&extension=ts
+#EXTINF:0,THE WAR
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289029&extension=ts
+#EXTINF:0,OKTAGON MMA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289028&extension=ts
+#EXTINF:0,WOTORE
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289027&extension=ts
+#EXTINF:0,GROMDA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1289025&extension=ts
+#EXTINF:0,CLOUT MMA
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1311423&extension=ts
+#EXTINF:0,WALKI 1 (LIVE EVENT ONLY)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1293996&extension=ts
+#EXTINF:0,WALKI 2 (LIVE EVENT ONLY)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1293995&extension=ts
+#EXTINF:0,### PL KANA£Y (NA) ###
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1288923&extension=ts
+#EXTINF:0,ITVN HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=897006&extension=ts
+#EXTINF:0,ITVN EXTRA (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=897007&extension=ts
+#EXTINF:0,TV RELAX (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1005093&extension=ts
+#EXTINF:0,TVP3 WROCLAW (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=936949&extension=ts
+#EXTINF:0,DAMI TV (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1005092&extension=ts
+#EXTINF:0,LUBELSKA TV (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=897009&extension=ts
+#EXTINF:0,CHANNEL 13 (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=897004&extension=ts
+#EXTINF:0,TVP 1 HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882111&extension=ts
+#EXTINF:0,TVP 2 HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882110&extension=ts
+#EXTINF:0,TVP SERIALE (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882105&extension=ts
+#EXTINF:0,TVP HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882112&extension=ts
+#EXTINF:0,TVP HISTORIA (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882108&extension=ts
+#EXTINF:0,TVP KULTURA HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882109&extension=ts
+#EXTINF:0,TVP ROZRYWKA (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882106&extension=ts
+#EXTINF:0,POLSAT SERIALE HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882078&extension=ts
+#EXTINF:0,TVN HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882103&extension=ts
+#EXTINF:0,TVN24 HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882083&extension=ts
+#EXTINF:0,TVN 7 HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882102&extension=ts
+#EXTINF:0,POLSAT HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882080&extension=ts
+#EXTINF:0,POLSAT 1 (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=897011&extension=ts
+#EXTINF:0,POLSAT2 HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882079&extension=ts
+#EXTINF:0,KINO POLSKA HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882095&extension=ts
+#EXTINF:0,TV4 HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882081&extension=ts
+#EXTINF:0,TV6 HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882082&extension=ts
+#EXTINF:0,TTV HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882104&extension=ts
+#EXTINF:0,TVN TURBO HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882100&extension=ts
+#EXTINF:0,TVN STYLE HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882101&extension=ts
+#EXTINF:0,POLSAT PLAY HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882099&extension=ts
+#EXTINF:0,POLSAT CAFE HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882098&extension=ts
+#EXTINF:0,HBO HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882086&extension=ts
+#EXTINF:0,HBO 2 HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882085&extension=ts
+#EXTINF:0,HBO 3 HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882084&extension=ts
+#EXTINF:0,CANAL+ PREMIUM HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882088&extension=ts
+#EXTINF:0,CANAL+ SERIALE HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882087&extension=ts
+#EXTINF:0,CANAL+ FILM HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882092&extension=ts
+#EXTINF:0,CANAL+ FAMILY HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882090&extension=ts
+#EXTINF:0,DOMO+ HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882096&extension=ts
+#EXTINF:0,POLSAT SPORT PREMIUM 1 HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882094&extension=ts
+#EXTINF:0,POLSAT SPORT PREMIUM 2 HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882093&extension=ts
+#EXTINF:0,TVP ABC (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882093&extension=ts
+#EXTINF:0,CANAL+ 1 HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882091&extension=ts
+#EXTINF:0,CANAL+ NOW HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882089&extension=ts
+#EXTINF:0,KUCHNIA+ HD (NA)
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=882097&extension=ts
+#EXTINF:0,### PL OGÓLNOTEMATYCZNE ###
+http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1288922&extension=ts
