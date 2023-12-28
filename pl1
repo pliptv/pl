@@ -1,13 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,13 Ulica HD
 http://154.61.57.12:33001/play/a01n/index.m3u8,kasia
-#EXTINF:-1 ,TV Republika1
-http://154.61.57.12:33001/play/a00j/index.m3u8,kasia
-#EXTINF:-1 ,TV Republika2
-http://clientportal.link:80/a2Q9jwOARd507/PT5g6h692/16283
-#EXTINF:-1 ,TV Republika3
-http://familyplus.me:8080/cap114/10427496932723/71264
-#EXTINF:-1 ,TV Republika4
+#EXTINF:-1 ,TV Republika
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=880203&extension=ts&play_token=C1cs2f2AlA
 #EXTINF:-1 ,TVP INFO HD
 http://154.61.57.12:33001/play/a00e/index.m3u8,kasia
