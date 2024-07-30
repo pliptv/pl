@@ -1,160 +1,593 @@
 #EXTM3U url-tvg="https://epg.ovh/pltv.xml"
-
-#EXTINF:-1 ,TVP 
-http://109.233.89.166/TVP_HD/mono.m3u8
-#EXTINF:-1 ,TVP 1
-http://109.233.89.166/TVP1_HD/mono.m3u8
-#EXTINF:-1 ,TVP 2
-http://109.233.89.166/TVP2_HD/mono.m3u8
-#EXTINF:0 ,13
-http://109.233.89.166/13ULICA_HD/mono.m3u8
-#EXTINF:-1 ,TVP Info 
-http://109.233.89.166/TVP_INFO_HD/mono.m3u8
-#EXTINF:-1 ,Romance TV 
-http://109.233.89.166/Romance_TV_HD/mono.m3u8
-#EXTINF:-1 ,Zoom TV  
-http://109.233.89.166/Zoom_TV_HD/mono.m3u8
-#EXTINF:-1 ,Paramount_Channel  
-http://109.233.89.166/Paramount_Channel_HD/mono.m3u8
-#EXTINF:-1 ,Food Network  
-http://109.233.89.166/Food_Network_HD/mono.m3u8
-#EXTINF:-1 ,Cinemax  
-http://109.233.89.166/CINEMAX_HD/mono.m3u8
-#EXTINF:-1 ,Cinemax 2 
-http://109.233.89.166/CINEMAX_2_HD/mono.m3u8
-#EXTINF:-1 ,TVP Sport  
-http://109.233.89.166/TVP_Sport_HD/mono.m3u8
-#EXTINF:-1 ,AMC  
-http://109.233.89.166/AMC_HD/mono.m3u8
-#EXTINF:-1 ,Polsat  
-http://109.233.89.166/Polsat_HD/mono.m3u8
-#EXTINF:-1 ,DTX  
-http://109.233.89.166/DTX_HD/mono.m3u8
-#EXTINF:-1 ,ESKA TV 
-http://109.233.89.166/ESKA_TV_HD/mono.m3u8
-#EXTINF:-1 ,Super Polsat  
-http://109.233.89.166/Super_Polsat_HD/mono.m3u8
-#EXTINF:-1 ,TVN 7  
-http://109.233.89.166/TVN_7_HD/mono.m3u8
-#EXTINF:-1 ,Polsat 2
-http://109.233.89.166/Polsat_2_HD/mono.m3u8
-#EXTINF:-1 ,TVN 
-http://109.233.89.166/TVN_HD/mono.m3u8
-#EXTINF:-1 ,TVN Fabuła
-http://109.233.89.166/TVN_Fabula_HD/mono.m3u8
-#EXTINF:-1 ,WP 
-http://109.233.89.166/WP_HD/mono.m3u8
-#EXTINF:-1 ,Warner TV
-http://109.233.89.166/TNT_HD/mono.m3u8
-#EXTINF:-1 ,Comedy Central 
-http://109.233.89.166/Comedy_Central_HD/mono.m3u8
-#EXTINF:-1 ,HBO 
-http://109.233.89.166/HBO_HD/mono.m3u8
-#EXTINF:-1 ,HBO 2
-http://109.233.89.166/HBO_2_HD/mono.m3u8
-#EXTINF:-1 ,HBO 3
-http://109.233.89.166/HBO_3_HD/mono.m3u8
-#EXTINF:-1 ,Cartoon Network  
-http://109.233.89.166/Cartoon_Network_HD/mono.m3u8
-#EXTINF:-1 ,Boomerang 
-http://109.233.89.166/Boomerang_HD/mono.m3u8
-#EXTINF:-1 ,Discovery_Historia
-http://109.233.89.166/Discovery_Historia/mono.m3u8
-#EXTINF:-1 ,Eleven Sports 1 
-http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
-#EXTINF:-1 ,Eleven Sports 2
-http://109.233.89.166/Eleven_Sports_2_HD/mono.m3u8
-#EXTINF:-1 ,Eleven Sports 3 
-http://109.233.89.166/Eleven_Sports_3_HD/mono.m3u8
-#EXTINF:-1 ,Eleven Sports 4
-http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
-#EXTINF:-1 ,FX
-http://109.233.89.166/FOX_HD/mono.m3u8
-#EXTINF:-1 ,HGTV 
-http://109.233.89.166/HGTV/mono.m3u8
-#EXTINF:-1 ,TV 4
-http://109.233.89.166/TV4_HD/mono.m3u8
-#EXTINF:-1 ,TV 6 
-http://109.233.89.166/TV6_HD/mono.m3u8
-#EXTINF:-1 ,WELT
-http://109.233.89.166/WELT/mono.m3u8
-#EXTINF:-1 ,VH1
-http://109.233.89.166/VH1/mono.m3u8
-#EXTINF:-1 ,TeenNick  
-http://109.233.89.166/TeenNick/mono.m3u8
-#EXTINF:-1 ,Polonia 1
-http://109.233.89.166/Polonia_1/mono.m3u8
-#EXTINF:-1 ,Tele 5
-http://109.233.89.166/Tele5_HD/mono.m3u8
-#EXTINF:-1 ,MTV Hits
-http://109.233.89.166/MTV_Hits/mono.m3u8
-#EXTINF:-1 ,Disney Channel  
-http://109.233.89.166/Disney_Channel/mono.m3u8
-#EXTINF:-1 ,TVN Turbo
-http://109.233.89.166/TVN_Turbo_HD/mono.m3u8
-#EXTINF:-1 ,Travel Channel 
-http://109.233.89.166/Travel_Channel_HD/mono.m3u8
-#EXTINF:-1 ,Disney Junior
-http://109.233.89.166/Disney_Junior/mono.m3u8
-#EXTINF:-1 ,World Fashion Channel  
-http://109.233.89.166/World_Fashion_Channel/mono.m3u8
-#EXTINF:-1 ,VOX
-http://109.233.89.166/VOX/mono.m3u8
-#EXTINF:-1 ,Fashion TV
-http://109.233.89.166/Fashion_TV/mono.m3u8
-#EXTINF:-1 ,History
-http://109.233.89.166/History_HD/mono.m3u8
-#EXTINF:-1 ,History 2
-http://109.233.89.166/History_2_HD/mono.m3u8
-#EXTINF:-1 ,National Geographic Wild
-http://109.233.89.166/National_Geographic_Wild_HD/mono.m3u8
-#EXTINF:-1 ,Animal Planet 
-http://109.233.89.166/Animal_Planet_HD/mono.m3u8
-#EXTINF:-1 ,Eurosport 1 
-http://109.233.89.166/Eurosport_1_HD/mono.m3u8
-#EXTINF:-1 ,Eurosport 2 
-http://109.233.89.166/Eurosport_2_HD/mono.m3u8
-#EXTINF:-1 ,Nickelodeon
-http://109.233.89.166/Nickelodeon/mono.m3u8
-#EXTINF:-1 ,BBC World News
-http://109.233.89.166/BBC_World_News/mono.m3u8
-#EXTINF:-1 ,AXN
-http://178.219.128.68:64888/AXN
-#EXTINF:-1 ,DTX
-http://178.219.128.68:64888/DTXHD
-#EXTINF:-1 ,ID
-http://178.219.128.68:64888/IDHD
-#EXTINF:-1 ,TLC
-http://178.219.128.68:64888/TLCHD
-#EXTINF:-1 ,Duck TV
-http://178.219.128.68:64888/DUCKTV
-#EXTINF:-1 ,Nick Jr
-http://178.219.128.68:64888/NICKJR
-#EXTINF:-1 ,MTV Polska
-http://178.219.128.68:64888/MTVHD
-#EXTINF:-1 ,TVN7
-http://178.219.128.68:64888/TVN7HD
-#EXTINF:-1 ,TVN 24
-http://178.219.128.68:64888/TVN2HD
-#EXTINF:-1 ,TVS
-http://178.219.128.68:64888/TVS
-#EXTINF:-1 ,TELE 5
-http://178.219.128.68:64888/TELE5HD
-#EXTINF:-1 ,4FUN
-http://178.219.128.68:64888/4FUNTV
-#EXTINF:-1 ,4FUN KIDS
-http://178.219.128.68:64888/4FUNKIDS
-#EXTINF:-1 ,KINO
-http://178.219.128.68:64888/KINOTV
-#EXTINF:-1 ,POLO
-http://178.219.128.68:64888/POLOTV
-#EXTINF:-1 ,Warner TV
-http://178.219.128.68:64888/TNTHD
-#EXTINF:-1 ,CANAL+ SERIALE
-http://178.219.128.68:64888/CANASERIHD
-#EXTINF:-1 ,13 ULICA
-http://178.219.128.68:64888/13ULICHD
-#EXTINF:-1 ,Canal+ Premium
-http://178.219.128.68:64889/CANAHD
-#EXTINF:-1 ,Disney XD
-http://178.219.128.68:64888/DISNXD
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP--1-HD.png",TVP 1
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880520&extension=ts&play_token=eoX5t0alke
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-2-PL.png",TVP 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880519&extension=ts&play_token=omqgBrMLfC
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP.png",TVP
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880504&extension=ts&play_token=IpMvyrYT1t
+#EXTINF:-1 group-title="Info" tvg-logo="http://logo.protv.cc/picons/logos/logos/tvrepublika.png",TV REPUBLIKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530247&extension=ts&play_token=4INc5fJZ9m
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-KOBIETA.png",TVP KOBIETA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1121741&extension=ts&play_token=pzJNPuCTbT
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-ROZ-PL.png",TVP ROZRYWKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880237&extension=ts&play_token=KpEtykGUw7
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-KULTURA.png",TVP KULTURA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880247&extension=ts&play_token=Fu3AOsyO8z
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-KULTURA-2.png",TVP KULTURA 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1121742&extension=ts&play_token=sTugkSlrje
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TTV.png",TTV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880389&extension=ts&play_token=BDX04M7frg
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN.png",TVN
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880518&extension=ts&play_token=9Ln3u0tVed
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN--7.png",TVN 7
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880517&extension=ts&play_token=NOdISOK7FE
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN-FABULA.png",TVN FABULA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880516&extension=ts&play_token=6IcjEhWXeG
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN-STYLE.png",TVN STYLE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880515&extension=ts&play_token=beghAICPgT
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN-TURBO.png",TVN TURBO
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880514&extension=ts&play_token=2XqYMXYTQZ
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/SUPER-POLSAT.png",SUPER POLSAT
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880386&extension=ts&play_token=nRaKcAWl5D
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT.png",POLSAT
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880509&extension=ts&play_token=NNXqASXny3
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-2.png",POLSAT 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880508&extension=ts&play_token=spJbBrHso9
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-RODZINA.png",POLSAT RODZINA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880506&extension=ts&play_token=QMmI8NSp3z
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-CAFE.png",POLSAT CAFE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880404&extension=ts&play_token=cmgqLu4Wl4
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-GAMES.png",POLSAT GAMES
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880401&extension=ts&play_token=g0wl3sdFI6
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-PLAY.png",POLSAT PLAY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880399&extension=ts&play_token=8yCCKvugJi
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/PULS-TV.png",PULS
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880475&extension=ts&play_token=olDxZZTnGL
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/PULS-2.png",PULS 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880479&extension=ts&play_token=wAm3n40IvC
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TV4.png",TV 4
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880510&extension=ts&play_token=3Uz5cYVrVL
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TV6.png",TV 6
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880511&extension=ts&play_token=dhADBpE0el
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/Antenna_TV.png",ANTENA TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1060637&extension=ts&play_token=m8ylW5K2AX
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TLC--PL.png",TLC
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880474&extension=ts&play_token=7LAKigVyq9
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FOOD-NETWORK--PL.png",FOOD NETWORK
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880481&extension=ts&play_token=7IUVazv7nY
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HGTV--PL.png",HGTV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880385&extension=ts&play_token=IeEsuvXwD3
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HOME-TV.png",HOME TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880214&extension=ts&play_token=bKqgFoe2bW
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/Canal+-Domo.png",DOMO+
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880424&extension=ts&play_token=bgvA1K0Lj0
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/piconsnew/kuchniaplushd.png",KUCHNIA+
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880415&extension=ts&play_token=Zh9GzFeMxM
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/activefamily.png",ACTIVE FAMILY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880234&extension=ts&play_token=C52IIHa168
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/METRO.png",METRO
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880212&extension=ts&play_token=AZUT7sWiEJ
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NOWA-TV.png",NOWA TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880407&extension=ts&play_token=GQ9i47rfUi
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/E-ENTER--PL.png",E! ENTERTAINMENT
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880422&extension=ts&play_token=1nHNbEqmn7
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/WP.png",WP
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880192&extension=ts&play_token=jmq8KPC04o
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/tvppolonia.png",TVP POLONIA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880242&extension=ts&play_token=NPpeFpYJ3q
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-PL.png",TVP POLONIA 1
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880241&extension=ts&play_token=Bpw4bWRKEs
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TRWAM-PL.png",TRWAM TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=884764&extension=ts&play_token=6PTBiBvhsv
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-4K-ULTRA.png",CANAL+ 4K ULTRA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1271764&extension=ts&play_token=SXu8PCE25R
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/piconsnew/canalpluspremiumhd.png",CANAL+ PREMIUM
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880498&extension=ts&play_token=atNJgT5ADu
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/piconsnew/canalplus1.png",CANAL+ 1
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880501&extension=ts&play_token=WLJvJAIVU6
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/piconsnew/canalplusfilm.png",CANAL+ FILM
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880491&extension=ts&play_token=7veCOvHXqO
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/piconsnew/canalplusfamily.png",CANAL+ FAMILY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880500&extension=ts&play_token=aMIGEciSSW
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/piconsnew/canalplusseriale.png",CANAL+ SERIALE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880357&extension=ts&play_token=VlO15ENP4g
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HBO--PL.png",HBO
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880494&extension=ts&play_token=6SQW1vAKyy
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HBO-2--PL.png",HBO 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880496&extension=ts&play_token=f9Da8cdBuz
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HBO-3--PL.png",HBO 3
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880495&extension=ts&play_token=488Tt92IlP
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-FILM.png",POLSAT FILM
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880505&extension=ts&play_token=btlSImAnXV
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/PARAMOUNT--PL.png",PARAMOUNT CHANNEL
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880472&extension=ts&play_token=7tLOwafwU2
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/Warner-TV-Poland.png",WARNER TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880473&extension=ts&play_token=sw8bpmvEyp
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/13-ULICA.png",13 ULICA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880492&extension=ts&play_token=ewguyARjIh
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/AMC--PL.png",AMC
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880433&extension=ts&play_token=UAmyVv9mI1
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ALE-KINO+.png",ALE KINO+
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880493&extension=ts&play_token=egysBDkIb6
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/AXN.png",AXN
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880490&extension=ts&play_token=xcdCdCGwge
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/AXN-SPIN.png",AXN SPIN
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880489&extension=ts&play_token=e3IAHinPLd
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX-POLSKA.png",CINEMAX
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880485&extension=ts&play_token=u3g0suvO9x
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX-POLSKA.png",CINEMAX 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880488&extension=ts&play_token=HHUBn0M7Me
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FILMBOX-PREMIUM--PL.png",FILMBOX PREMIUM
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880483&extension=ts&play_token=pEVSQAcKc7
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FILMBOX-XTRA--PL.png",FILMBOX EXTRA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880344&extension=ts&play_token=QI7Rqt0VkN
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FILMBOX-ARTHOUSE.png",FILMBOX ARTHOUSE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880232&extension=ts&play_token=BUv33S55mq
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FILMBOX-ACTION.png",FILMBOX ACTION
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880233&extension=ts&play_token=TXdpIR0gUM
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/COMEDY-CENTRAL--PL.png",COMEDY CENTRAL
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880487&extension=ts&play_token=lDoOpsuXvb
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-COMEDY-CENTRAL-EXTRA.png",POLSAT COMEDY CENTRAL EXTRA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880403&extension=ts&play_token=Suli2EbMFs
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/COMEDY-CENTRAL--PL.png",COMEDY CENTRAL POLAND
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880486&extension=ts&play_token=wb6ndZhC3G
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/KINO-TV.png",KINO TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880478&extension=ts&play_token=MbkqlexXi6
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/KINO-POLSKA.png",KINO POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880476&extension=ts&play_token=qBU3OxePKr
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SERIALE.png",POLSAT SERIALE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880507&extension=ts&play_token=mNzeWYCFe6
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FOX--PL.png",FOX
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880477&extension=ts&play_token=DXRF2WzjAN
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FOX-COMEDY--PL.png",FOX COMEDY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880480&extension=ts&play_token=4jWXYABxhT
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/SCIFI-UNIVERSAL.png",SCIFI UNIVERSAL
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880451&extension=ts&play_token=wspHOMWTci
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CBS-EUROPA.png",CBS EUROPA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880431&extension=ts&play_token=RgfXxXfS63
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EPIC-DRAMA.png",EPIC DRAMA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880421&extension=ts&play_token=GOCoe120BM
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/STOPKLATKA-TV.png",STOPKLATKA TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880229&extension=ts&play_token=4jidg4nsJE
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/Sundance-TV-Poland.png",SUNDANCE TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880392&extension=ts&play_token=vF5lNNYU4D
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/Romance-TV-Poland.png",ROMANCE TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880394&extension=ts&play_token=snRFsnfyar
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/NOVELAS+.png",NOVELAS+
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880410&extension=ts&play_token=3lrHxceS4c
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/RED-CARPET.png",RED CARPET TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880395&extension=ts&play_token=veLNXrNeWI
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/vod205.png",VOD 205
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880197&extension=ts&play_token=duZz47gKLr
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/vod206.png",VOD 206
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880196&extension=ts&play_token=6PCavg7rGz
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/vod207.png",VOD 207
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880195&extension=ts&play_token=kHYg0W67lX
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/vod208.png",VOD 208
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880194&extension=ts&play_token=NhjrKpcgJM
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-KRYMINALNIE.png",TVN KRYMINALNIE ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433874&extension=ts&play_token=T4eg3q8lBY
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-KRYMINALNIE.png",TVN KRYMINALNIE ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433875&extension=ts&play_token=S3dYGmnn1k
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-KULTOWE-SERIALE.png",TVN KULTOWE SERIALE ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433876&extension=ts&play_token=9ToDeiP4dZ
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-KULTOWE-SERIALE.png",TVN KULTOWE SERIALE ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433877&extension=ts&play_token=p1vTMkqhWT
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-MOMENTY-PRAWDY.png",TVN MOMENTY PRAWDY ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433878&extension=ts&play_token=HOxiIM8nQy
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-MOMENTY-PRAWDY.png",TVN MOMENTY PRAWDY ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433879&extension=ts&play_token=IvvGZtS64G
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-MOTO.png",TVN MOTO ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433880&extension=ts&play_token=J9I78RIhIG
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-MOTO.png",TVN MOTO ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433881&extension=ts&play_token=fLjeCwC2S1
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-PRAWO-I-%c5%bbYCIE.png",TVN PRAWO I ŻYCIE ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433882&extension=ts&play_token=2EaP1ZAe26
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-PRAWO-I-%c5%bbYCIE.png",TVN PRAWO I ŻYCIE ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433883&extension=ts&play_token=P4uTF3eLVB
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-RAJSKA-MI%c5%81O%c5%9a%c4%86.png",TVN RAJSKA MIŁOŚĆ ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433884&extension=ts&play_token=vvRckPSBrK
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-RAJSKA-MI%c5%81O%c5%9a%c4%86.png",TVN RAJSKA MIŁOŚĆ ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433885&extension=ts&play_token=RBFemGwApR
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-REWOLUCJE-W-KUCHNI.png",TVN REWOLUCJE W KUCHNI ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433886&extension=ts&play_token=NHhqxdiw4k
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-REWOLUCJE-W-KUCHNI.png",TVN REWOLUCJE W KUCHNI ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433887&extension=ts&play_token=th7ECUIAUj
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-SERIAL-O-KOBIETACH.png",TVN SERIAL O KOBIETACH ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433888&extension=ts&play_token=MtE1wHcU2A
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-SERIAL-O-KOBIETACH.png",TVN SERIAL O KOBIETACH ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433889&extension=ts&play_token=7ECwJYrgnd
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-SZKO%c5%81A-%c5%bbYCIA.png",TVN SZKOŁA ŻYCIA ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433890&extension=ts&play_token=XHdn1y0KvE
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-SZKO%c5%81A-%c5%bbYCIA.png",TVN SZKOŁA ŻYCIA ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433891&extension=ts&play_token=w58VNQ0eNy
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-SZPITALNE-HISTORIE.png",TVN SZPITALNE HISTORIE ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433892&extension=ts&play_token=N7mllBuHo4
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-SZPITALNE-HISTORIE.png",TVN SZPITALNE HISTORIE ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433893&extension=ts&play_token=3M9VfRj4rP
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-TALK-SHOW.png",TVN TALK-SHOW ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433894&extension=ts&play_token=FIZCM3gAxD
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-TALK-SHOW.png",TVN TALK-SHOW ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433895&extension=ts&play_token=ZEsdx3Tkxz
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-TELENOWELE.png",TVN TELENOWELE ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433896&extension=ts&play_token=py5mfe5iK2
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-TELENOWELE.png",TVN TELENOWELE ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433897&extension=ts&play_token=w9F6MZC7gJ
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-USTERKA.png",TVN USTERKA ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433898&extension=ts&play_token=v0Fc28yDud
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-USTERKA.png",TVN USTERKA ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433899&extension=ts&play_token=TaGz6sagsf
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-W-DOMU.png",TVN W DOMU ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433900&extension=ts&play_token=PkfUU0OuET
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-W-DOMU.png",TVN W DOMU ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433901&extension=ts&play_token=wzT4GGaETf
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/MILIONERZY.png",TVN MILIONERZY ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1496498&extension=ts&play_token=lUE86NYfMg
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/logos/MILIONERZY.png",TVN MILIONERZY ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1496497&extension=ts&play_token=GycNgwzZew
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-%c5%bbYCIE-JAK-W-BAJCE.png",TVN ŻYCIE JAK W BAJCE ᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433902&extension=ts&play_token=VvPqzpnKZs
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-%c5%bbYCIE-JAK-W-BAJCE.png",TVN ŻYCIE JAK W BAJCE ᵁᴴᴰ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1433903&extension=ts&play_token=Uy3yXjJy4M
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/DA-VINCI-POLSKA.png",DA VINCI LEARNING
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880224&extension=ts&play_token=NE1PNN0urb
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-ABC-2.png",TVP ABC 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1121740&extension=ts&play_token=VYowtvLBLM
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DUCK-TV.png",DUCK TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1121750&extension=ts&play_token=VAmuNWeMpV
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CBEEBIS--PL.png",BBC CBEEBIES
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880226&extension=ts&play_token=WMjv1Ei30D
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/topkids.png",TOP KIDS
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=897016&extension=ts&play_token=Kw89NCmnWb
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/BABY-TV-HD.png",BABY TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880225&extension=ts&play_token=MYvUbqiQRs
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/Nick-Jr-Poland.png",NICK JR POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880211&extension=ts&play_token=G7DkNftfp9
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NICK-MUSIC-PL.png",NICK MUSIC
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1121757&extension=ts&play_token=HWrOq2X1YN
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TEENNICK--PL.png",TEENNICK
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880411&extension=ts&play_token=dS7MkXKNxG
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NICKTOONS--PL.png",NICKTOONS
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880412&extension=ts&play_token=KGEeoPcVES
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-JIM-JAM.png",POLSAT JIM JAM
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880206&extension=ts&play_token=hLXTNcQ7U4
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/DISNEY-CHANNEL-POLSKA.png",DISNEY CHANNEL
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880285&extension=ts&play_token=qoM0YgA5kC
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/BOOMERANG-POLSKA.png",BOOMERANG
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880443&extension=ts&play_token=3Lmq0oAEbe
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TELETOON+.png",TELETOON+
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880390&extension=ts&play_token=5zn0UQXmAH
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MINIMINI.png",MINIMINI
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880414&extension=ts&play_token=hOFmAK9o7c
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/CARTOON-NETWORK-POLSKA.png",CARTOON NETWORK
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880432&extension=ts&play_token=uSATG9GQBq
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/LOVE-NATURE.png",LOVE NATURE 4K+
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1131804&extension=ts&play_token=3fGLXSSxmz
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TRAVEL--PL.png",TRAVEL CHANNEL
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880445&extension=ts&play_token=U56AFJd3Oe
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/animal-planet--pl.png",ANIMAL PLANET
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880437&extension=ts&play_token=tRKM41Idqf
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ADVENTURE-TV.png",ADVENTURE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880434&extension=ts&play_token=BdqZBisrJu
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BBC-BRIT-PL.png",BBC BRIT
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880450&extension=ts&play_token=wpNeCZa7Jq
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BBC-EARTH--PL.png",BBC EARTH
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880436&extension=ts&play_token=CVwNQtMDdA
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BBC-FIRST--PL.png",BBC FIRST
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880309&extension=ts&play_token=pNsCzMsHAE
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BBC-LIFESTYLE--PL.png",BBC LIFESTYLE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880435&extension=ts&play_token=5r4BnZOmL9
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/CBS-REALITY-POLSKA.png",CBS REALITY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880430&extension=ts&play_token=K5wraI30oI
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/piconsnew/canalplusdokumenthd.png",CANAL+ DOKUMENT
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880442&extension=ts&play_token=zx2AqgO72o
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DISCOVERY--PL.png",DISCOVERY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880428&extension=ts&play_token=V67Ovzx6La
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DISCOVERY-SCIENCE--PL.png",DISCOVERY SCIENCE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880426&extension=ts&play_token=CTeySef2cl
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DISCOVERY-LIFE--PL.png",DISCOVERY LIFE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880427&extension=ts&play_token=n6bwb3RRRx
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DISCOVERY-HISTORIA.png",DISCOVERY HISTORIA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530077&extension=ts&play_token=ueptIyHZ9c
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NAT-GEO-WILD--PL.png",NAT GEO WILD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880439&extension=ts&play_token=Fxb13pT6f0
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/Nat-Geo-People--PL.png",NAT GEO PEOPLE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880440&extension=ts&play_token=BMLyIojciS
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ID.png",ID
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880416&extension=ts&play_token=4AoN9Gv9pt
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CRIME-AND-INVESTIGATION-POLSAT.png",CRIME AND INVESTIGATION
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880429&extension=ts&play_token=c0D1xpGzGl
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DTX--PL.png",DTX
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880423&extension=ts&play_token=PT1F9howxe
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/History-Poland.png",HISTORY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880384&extension=ts&play_token=b911ZyizFQ
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/H-2--PL.png",H2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880418&extension=ts&play_token=xg1yu2kGms
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/PLANETE+.png",PLANETE+
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880405&extension=ts&play_token=5xHHMze91H
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-DOKU.png",POLSAT DOKU
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880402&extension=ts&play_token=eqSRfBoYAB
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-VIASAT-HISTORY.png",POLSAT VIASAT HISTORY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880397&extension=ts&play_token=FQWIK3qj9U
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-VIASAT-EXPLORE.png",POLSAT VIASAT EXPLORE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880398&extension=ts&play_token=9CXIDzac8P
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-VIASAT-NATURE.png",POLSAT VIASAT NATURE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880396&extension=ts&play_token=FwSJLQXo1i
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FOKUS-TV.png",FOKUS TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880482&extension=ts&play_token=lnvkIyqhql
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/STUDIOMED-TV.png",STUDIOMED TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880393&extension=ts&play_token=KS3zcLAA2Q
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-DOKUMENT-PL.png",TVP DOKUMENT
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880388&extension=ts&play_token=4qLjs7JuwP
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-HISTORIA.png",TVP HISTORIA 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1121743&extension=ts&play_token=zZXuRVTZr5
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png",ELEVEN SPORTS 1 4K/UHD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1498959&extension=ts&play_token=uwuMp5I3CV
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png",ELEVEN SPORTS 1
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880457&extension=ts&play_token=v2YBgfNeu9
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-2--PL.png",ELEVEN SPORTS 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880456&extension=ts&play_token=4tzOY23qtv
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-3--PL.png",ELEVEN SPORTS 3
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880455&extension=ts&play_token=3Oj5fcBMiD
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-4--PL.png",ELEVEN SPORTS 4
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880454&extension=ts&play_token=jnFfMMdt8g
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EUROSPORT-1--PL.png",EUROSPORT 1
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880453&extension=ts&play_token=PRHaCJXImu
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EUROSPORT-2--PL.png",EUROSPORT 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880452&extension=ts&play_token=ffp4XfE7D0
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-NOW.png",CANAL+ NOW
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880499&extension=ts&play_token=geGMNUwb5L
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-SPORT.png",CANAL+ SPORT
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880461&extension=ts&play_token=zhcRKyp8Sl
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-SPORT-2.png",CANAL+ SPORT 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880460&extension=ts&play_token=e826VECbXC
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-SPORT-3.png",CANAL+ SPORT 3
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880459&extension=ts&play_token=mSBR4t66iY
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-SPORT-4.png",CANAL+ SPORT 4
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880458&extension=ts&play_token=RiQ68toJlM
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-SPORT-5.png",CANAL+ SPORT 5
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880406&extension=ts&play_token=I1sQ0jUiFf
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-NEWS.png",POLSAT SPORT NEWS
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880468&extension=ts&play_token=KAI4VjULnw
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT.png",POLSAT SPORT 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880470&extension=ts&play_token=g4SDgPJKic
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png",POLSAT SPORT 1
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880471&extension=ts&play_token=4PwEWM5Yob
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-1.png",POLSAT SPORT PREMIUM 1
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880467&extension=ts&play_token=lc3Cxrvoic
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-2.png",POLSAT SPORT PREMIUM 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880466&extension=ts&play_token=wFsfg2p256
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-3.png",POLSAT SPORT PREMIUM 3
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880465&extension=ts&play_token=ZOGqfHt81C
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-4.png",POLSAT SPORT PREMIUM 4
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880464&extension=ts&play_token=7YSMu4XXGM
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-5.png",POLSAT SPORT PREMIUM 5
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880463&extension=ts&play_token=b5ShGpZxTP
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-6.png",POLSAT SPORT PREMIUM 6
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880462&extension=ts&play_token=qZOnD0Tm5e
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-FIGHT.png",POLSAT SPORT FIGHT
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880469&extension=ts&play_token=vJ8BmTRQ6j
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-SPORT.png",TVP SPORT
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880502&extension=ts&play_token=wakO4ITtdu
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/SPORTKLUB--PL.png",SPORTKLUB
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880447&extension=ts&play_token=GPPTgTDMB2
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FIGHTKLUB.png",FIGHTKLUB
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880420&extension=ts&play_token=jOBG1hkayJ
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FIGHTBOX.png",FIGHTBOX
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880446&extension=ts&play_token=SfjpzZNEA5
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/EXTREME-SPORTS-TV.png",EXTREME SPORTS
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880448&extension=ts&play_token=QjLYwcGloV
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/GOLF-CHANNEL-NP.png",GOLF CHANNEL
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880419&extension=ts&play_token=TIB3A6tfne
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MOTOWIZJA.png",MOTOWIZJA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880413&extension=ts&play_token=gqs1pWRUCm
+#EXTINF:-1 group-title="Info" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN24.png",TVN 24
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880512&extension=ts&play_token=7DIXOPp2Rn
+#EXTINF:-1 group-title="Info" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN24-BIS.png",TVN 24 BIS
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880513&extension=ts&play_token=OjwR81ya5A
+#EXTINF:-1 group-title="Info" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-INFO-PL.png",TVP INFO
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880503&extension=ts&play_token=Qqasd2IiFJ
+#EXTINF:-1 group-title="Info" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-WORLD-1.jpeg",TVP WORLD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1121739&extension=ts&play_token=lgsUpltoQd
+#EXTINF:-1 group-title="Info" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-NEWS.png",POLSAT NEWS
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880441&extension=ts&play_token=4zrpV32wYe
+#EXTINF:-1 group-title="Info" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-NEWS-2.png",POLSAT NEWS 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880227&extension=ts&play_token=v8niqrPYlK
+#EXTINF:-1 group-title="Info" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BIZNES24.png",BIZNES24
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880444&extension=ts&play_token=IVnZBl65FE
+#EXTINF:-1 group-title="Info" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/WPOLSCE.png",WPOLSCE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880191&extension=ts&play_token=Rk80euPuG9
+#EXTINF:-1 group-title="Info" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/POLSAT-NEWS-POLITYKA.png",POLSAT NEWS POLITYKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880391&extension=ts&play_token=rYhwYI2ZaJ
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ESKA-TV-EXTRA.png",ESKA TV EXTRA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880215&extension=ts&play_token=fXaAjwKGSm
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/4FUN-TV.png",4FUN.TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880220&extension=ts&play_token=aeQJWAjMdU
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/4FUN-GOLD-HITS.png",4FUN GOLD HITS
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880221&extension=ts&play_token=8FxG7JkOt9
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/STARS-TV.png",STARS.TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880204&extension=ts&play_token=x8TCbB5cvV
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NUTA-TV.png",NUTA TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880207&extension=ts&play_token=mDQmTIgpOo
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MUSIC-BOX-POLSKA.png",MUSIC BOX POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880199&extension=ts&play_token=6J2bhTY3Ho
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/360-TUNEBOX.png",360 TUNEBOX
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1121759&extension=ts&play_token=LiBy0d5pWB
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/KINO-POLSKA-MUZYKA.png",KINO POLSKA MUZYKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880213&extension=ts&play_token=PtCGReGQxE
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-MUSIC.png",POLSAT MUSIC
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880400&extension=ts&play_token=xnnxLe7UKV
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MTV-LIVE.png",MTV LIVE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880409&extension=ts&play_token=fcdxd4ejNJ
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/mtvpolska.png",MTV POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880408&extension=ts&play_token=vZtSR0HGKP
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MTV-ROCKS.png",MTV 80S
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880208&extension=ts&play_token=XZfqnwSrr7
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VOX-MUSIC.png",VOX MUSIC TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880198&extension=ts&play_token=6qS0Lw4mIP
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POWER-TV.png",POWER TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880205&extension=ts&play_token=viDRQM8TJb
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLO-TV.png",POLO TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=880383&extension=ts&play_token=m1Uamakzv7
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/JAZZ-PL.png",JAZZ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1121754&extension=ts&play_token=PURWB8h887
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-BIALYSTOK.png",TVP 3 BIALYSTOK
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936815&extension=ts&play_token=vJxi7qWmct
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-BYDGOSZCZ.png",TVP 3 BYDGOSZCZ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936816&extension=ts&play_token=iTrREnZ3t6
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-GDANSK.jpeg",TVP 3 GDANSK
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936817&extension=ts&play_token=0dblqNFNI0
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-GORZOW.png",TVP 3 GORZOW
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936818&extension=ts&play_token=trDEmADo8B
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-KATOWICE.png",TVP 3 KATOWICE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936819&extension=ts&play_token=AWzqz3v7L8
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-KIELCE.png",TVP 3 KIELCE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936820&extension=ts&play_token=zkrJaRiwAv
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-KRAKOW.jpeg",TVP 3 KRAKOW
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936821&extension=ts&play_token=jzmF6I0WMR
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-LUBLIN.jpeg",TVP 3 LUBLIN
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936834&extension=ts&play_token=VfxfOtJCeH
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-LODZ.png",TVP 3 LODZ
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936835&extension=ts&play_token=IFCTUeyAih
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-OLSZTYN.png",TVP 3 OLSZTYN
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936836&extension=ts&play_token=gw9RAI7K6O
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-OPOLE.png",TVP 3 OPOLE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936837&extension=ts&play_token=Ll7pOm1TQZ
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-POZNAN.png",TVP 3 POZNAN
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936838&extension=ts&play_token=ptFn34ghPL
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-RZESZOW.png",TVP 3 RZESZOW
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936839&extension=ts&play_token=Isgzct3bhh
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-SZCZECIN.png",TVP 3 SZCZECIN
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936948&extension=ts&play_token=4Dxritjn7W
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-WARSZAWA.png",TVP 3 WARSZAWA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936950&extension=ts&play_token=MJb8oufK6L
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/logos/tvpabc.png",TVP ABC
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530240&extension=ts&play_token=kvCn6GZV3Y
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/logos/tvphistoria.png",TVP HISTORIA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530241&extension=ts&play_token=ALOWB4aZOg
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/logos/tvpseriale.png",TVP SERIALE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530244&extension=ts&play_token=BH1IgyOVWo
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/logos/polsatsportpremiumppv3.png",POLSAT SPORT 3
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530208&extension=ts&play_token=P2GHuYU9xk
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/picons/logos/logos/polsatsportpremiumppv6.png",POLSAT SPORT PREMIUM PPV6
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530215&extension=ts&play_token=645I78flMV
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/piconsnew/canalplusdomo.png",CANAL+ DOMO
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530129&extension=ts&play_token=NWDql7vR1k
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/piconsnew/canalpluskuchnia.png",CANAL+ KUCHNIA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530132&extension=ts&play_token=gaZ4kYnNYQ
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport2.png",CANAL+ SPORT 2 POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530136&extension=ts&play_token=1VHSKsaVqd
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport3hd.png",CANAL+ SPORT 3 POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530137&extension=ts&play_token=A125Qk2Wf3
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport4hd.png",CANAL+ SPORT 4 POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530138&extension=ts&play_token=L7uLnWUudl
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport5hd.png",CANAL+ SPORT 5 POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530139&extension=ts&play_token=qYX42z9pxv
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport.png",CANAL+ SPORT POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530140&extension=ts&play_token=zbKJVChFcM
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/logos/4fundance.png",4 FUN DANCE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530112&extension=ts&play_token=moXeoUECfe
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/logos/4funkids.png",4 FUN KIDS
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530113&extension=ts&play_token=E5R77lG8Cb
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/logos/4funtv.png",4 FUN TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530114&extension=ts&play_token=SQJnh6O5Y0
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/logos/AlLE-INO-PLUS.png",AlLE INO+
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530116&extension=ts&play_token=ZqPB14uPEu
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/piconsnew/amc.png",AMC POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530117&extension=ts&play_token=EHk4XoU4es
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/piconsnew/axnblack.png",AXN BLACK
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530119&extension=ts&play_token=gO3dYu3pYw
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/piconsnew/axnwhite.png",AXN WHITE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530121&extension=ts&play_token=bwfbFSutte
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/piconsnew/bbccbeebies.png",BBC CBEEBIES POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530123&extension=ts&play_token=uqo8Ikv4Eo
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/bbclifestyle.png",BBC LIFESTYLE POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530125&extension=ts&play_token=dcwuJ3ZEK3
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/CBS-RRALITY.png",CBS RRALITY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530143&extension=ts&play_token=IgJK4pu9ga
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/CIPOLSAT.png",CI POLSAT
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530146&extension=ts&play_token=rUFAr6EIvZ
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/davinci.png",DA VINCI POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530148&extension=ts&play_token=72tLltEU71
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/logos/discopolomusic.png",DISCO POLO MUSIC
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530149&extension=ts&play_token=1aQDaFlxLc
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/DISCOVERY-SCIENCE.png",DISCOVERY SCIENCE POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530152&extension=ts&play_token=0CWUmkdKX0
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/logos/disneyjunior.png",DISNEY JUNIOR
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530154&extension=ts&play_token=3qtORSB57R
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/logos/DISNEY.png",DISNEY XD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530155&extension=ts&play_token=Vfc4sYnLjF
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/eentertainment.png",E ENTERTAINMENT
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530156&extension=ts&play_token=hnMFnYIZXL
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/logos/eskarock.png",ESKA ROCK TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530161&extension=ts&play_token=g5UBnWfw9g
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/logos/eskatv.png",ESKA TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530162&extension=ts&play_token=8it3PeIkqi
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/logos/filmboxfamily.png",FILMBOX FAMILY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530262&extension=ts&play_token=1sL2zlqI6D
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/logos/FX-COMEDY.png",FX COMEDY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530260&extension=ts&play_token=QR0I29E5AU
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/logos/FX.png",FX
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530111&extension=ts&play_token=jqRwtVq1CR
+#EXTINF:-1 group-title="Dokument" tvg-logo="http://logo.protv.cc/picons/logos/logos/history2.png",HISTORY 2 POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530174&extension=ts&play_token=U4FMBTCl0D
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/investigationdiscovery.png",INVESTIGATION DISCOVERY POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530176&extension=ts&play_token=npu5lGIB7G
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/logos/miniminiplus.png",MINIMINI+
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530177&extension=ts&play_token=kl1UeP9gDY
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-00s.png",MTV 00s
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530178&extension=ts&play_token=O2Tfp9ScqD
+#EXTINF:-1 group-title="Muzyka" tvg-logo="http://logo.protv.cc/picons/logos/logos/mtv90s.png",MTV 90s
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530179&extension=ts&play_token=cS1XXbu3Gb
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/NATIONAL-GEO.png",NATIONAL GEO
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530183&extension=ts&play_token=K2BtWgPkyF
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/nationalgeographicwild.png",NATIONAL GEOGRAPHIC WILD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530182&extension=ts&play_token=Zy0vUPQKVw
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/logos/nickjr.png",NICK JR
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530185&extension=ts&play_token=JM5zZqzkrM
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.protv.cc/picons/logos/logos/nickelodeon.png",NICKELODEON
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530184&extension=ts&play_token=tFtYkdRlVI
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/novelatv.png",NOVELA TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530186&extension=ts&play_token=OxPvrDqy63
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/logos/paramountchannel.png",PARAMOUNT CHANNEL POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530188&extension=ts&play_token=jNXoeI6AUG
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/SCIENCE-POLAND.png",SCIENCE POLAND
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530259&extension=ts&play_token=FipczvJqcs
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/scifi.png",SCIFI POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530219&extension=ts&play_token=34TboUkHqr
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/stopklatkatv.png",STOPKLATKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530258&extension=ts&play_token=DhupM62Y7T
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/teennick.png",TEENNICK POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530221&extension=ts&play_token=gR9C9GAtzW
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/tele5.png",TELE 5
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530222&extension=ts&play_token=m57E2xpc00
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/tvpuls.png",TV PULS
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530246&extension=ts&play_token=ds3vdXICkN
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVS.png",TVS
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530248&extension=ts&play_token=tgouGlHncF
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/polsatviasatexplore.png",VIASAT EXPLORE POLSAT
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530249&extension=ts&play_token=V9bwfDhnd1
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/logos/polsatviasatnature.png",VIASAT NATURE POLSAT
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530250&extension=ts&play_token=kRSYm4aAwS
+#EXTINF:-1 group-title="Film" tvg-logo="http://logo.protv.cc/picons/logos/logos/WARNER-TV.png",WARNER TV POLSKA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530253&extension=ts&play_token=BEMsmqDIqv
+#EXTINF:-1 group-title="Info" tvg-logo="http://logo.protv.cc/picons/logos/logos/wpolscepl.png",WPOLSCE.PL
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530256&extension=ts&play_token=USmLQRhl4K
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/logos/tvp3.png",TVP 3
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1530239&extension=ts&play_token=MIPO5l0Hga
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ITVN.png",ITVN
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=897006&extension=ts&play_token=CsZnoQGN9M
+#EXTINF:-1 group-title="TVN" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ITVN-EXTRA.png",ITVN EXTRA
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=897007&extension=ts&play_token=GA1lZuvZXs
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/TV-RELAX.png",TV RELAX
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1005093&extension=ts&play_token=eRsnzw6Nyf
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP3-WROCLAW.png",TVP 3 WROCLAW
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=936949&extension=ts&play_token=rEsZciZwCC
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/DAMI-TV.png",DAMI TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=1005092&extension=ts&play_token=yf0xxqqIO5
+#EXTINF:-1 group-title="Region" tvg-logo="http://logo.protv.cc/picons/logos/LUBELSKA-TV.png",LUBELSKA TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=897009&extension=ts&play_token=yHmrmsc3CM
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/channel13.png",CHANNEL 13
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=897004&extension=ts&play_token=Gca4PAxpfI
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-1.png",POLSAT 1
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:50:00:37&stream=897011&extension=ts&play_token=O2c2PSdir9
