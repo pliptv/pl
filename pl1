@@ -1,495 +1,933 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/b7589e99b86a35a25306948e458cc5ef.png" group-title="",TVP 1
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105345
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/973d02b39d8460242cfe79887635c963.png" group-title="",TVP 2
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105346
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/7e3420d2782f72c7b47bd3d4f4ba91de.png" group-title="",TVP 3
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105347
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/4fc089dcef909e1f2b7c6ba23ed4d208.png" group-title="",TVP
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105348
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/c7079714540d46c9f5bb9f78f090ea39.png" group-title="",Polsat
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105349
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/abdc327fd10084b3e6877cccbfd4f4e2.png" group-title="",Super Polsat
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105351
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/2ea325ffb82521ee39ad2403eef6084a.png" group-title="",TVN
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105352
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/8976ea86fa5393676636d0d9bfe716ce.png" group-title="",TTV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105353
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/f7c242d4f286ca40d1cc4c90d568a589.png" group-title="",TV4
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105354
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TV%206%20HD.png" group-title="",TV6
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105355
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/97bd0a95cd7e9dc1a65069be3ccb129d.png" group-title="",TVN 7
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105356
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/ddbf13685943f24041438d7653d09f87.png" group-title="",TV Puls
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105357
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/526dedb5075de82a3a60fc48bdfb0e25.png" group-title="",Puls 2
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105358
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/comedycentralhd.png" group-title="",Comedy Central
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105385
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/aff4676b89d4f41d548c39056da92c51.png" group-title="",Polsat Comedy Central Extra
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105386
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/tvnfabula.png" group-title="",TVN Fabula
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105393
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/4c1993ef3762fba502ff20578d5c7651.png" group-title="",TVP Seriale
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105398
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/b79d2096c66248cad58c309283bcd8d4.png" group-title="",Metro
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105399
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/animalplanethd.png" group-title="",Animal Planet
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105401
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/7b0c0f3a88cd6e0ba5b4c2469ec62d9e.png" group-title="",BBC First
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105402
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/bbclifestyle.png" group-title="",BBC Lifestyle
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105404
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/bbcearthhd.png" group-title="",BBC Earth
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105405
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/a663a79a5488f99aed3da06427d74be5.png" group-title="",CBS Reality
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105407
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/CI%20Polsat.png" group-title="",CI Polsat
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105408
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/canalplusdiscoveryhd.png" group-title="",Canal+ Dokument
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105409
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/95ba0b8bff0356941e9e52c927d4278c.png" group-title="",Discovery
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105410
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/discoveryhistoria.png" group-title="",Discovery Historia
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105411
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/discoverylifepoland.png" group-title="",Discovery Life
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105412
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/discoverysciencehd.png" group-title="",Discovery Science
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105413
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/idhd.png" group-title="",ID
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105414
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/domoplushd.png" group-title="",Canal+ Domo
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105416
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/epicdramahd.png" group-title="",Epic Drama
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105417
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/eentertainment.png" group-title="",E! Entertainment
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105418
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/6b7378044d05174e0c1dc78e7d545b8a.png" group-title="",Red Carpet TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/134089
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/3e0f56568349f095c63e4484e9deacf0.png" group-title="",Food Network
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105419
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/f3e2783dfb3517fce5251e6ffce65c8c.png" group-title="",Fokus TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105420
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/50d4859f871c253cdd38796675a47bb3.png" group-title="",History
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105421
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/57ba1b309c448eae56337ebb48f80e4f.png" group-title="",History 2
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105422
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/natgeohd.png" group-title="",National Geographic
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105423
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/09f3e55d09d705c6b987fa46c2989d69.png" group-title="",National Geographic Wild
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105424
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/NatGeoPeople.png" group-title="",Nat Geo People
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105425
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/planeteplushd.png" group-title="",Planete+
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105426
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/waterplanet.png" group-title="",Water Planet
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105427
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatdoku.png" group-title="",Polsat Doku
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105428
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/9d123fd69b8da6ff39bd573bd18ab632.png" group-title="",Polsat Viasat History
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105429
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/128619136b16ade6483fed9c1254ffe4.png" group-title="",Polsat Viasat Explore
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105430
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/polsatviasatnature.png" group-title="",Polsat Viasat Nature
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105431
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatcafe.png" group-title="",Polsat Cafe
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105432
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatrodzina.png" group-title="",Polsat Rodzina
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105433
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/9eef0fc8228085e5e9b5780619f2870e.png" group-title="",Polsat Seriale
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105434
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatplay.png" group-title="",Polsat Play
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105435
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/6e249520574a41bbba826c364d2cf320.png" group-title="",Nuta Gold
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105437
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/kuchniaplushd.png" group-title="",Canal+ Kuchnia
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105438
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/31acab505e73cb9ae49fefed3e2dd6f7.png" group-title="",StudioMed TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105440
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/tvnstylehd.png" group-title="",TVN Style
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105441
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/tvs.png" group-title="",TVS
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105444
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/91ab8030e9246ebaec455b89869e7100.png" group-title="",TVC Polska
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105445
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/tlchd.png" group-title="",TLC
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105446
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/f2222d7903e9887844a97252645aa13e.png" group-title="",TBN Polska
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/134088
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/e957dcbbbe591322f649cd96d961d18b.png" group-title="",TELE 5
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105447
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Novelas+
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/135978
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/9f307ec416908b1a0c6c2693b67adb5e.png" group-title="",Novela TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105448
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/ec451dcdb0bd3c0c363c1211ee732057.png" group-title="",Polonia 1
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105449
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/72d433544420288f327043443b9cd8dc.png" group-title="",TVP Polonia
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105450
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/tvpkultura.png" group-title="",TVP Kultura
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105451
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/tvprozrywka.png" group-title="",TVP Rozrywka
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105452
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/tvphistoria.png" group-title="",TVP Historia
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105453
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/fc3ea3367270e2cf8691e88311b66078.png" group-title="",TVP Dokument
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/134087
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/nowatv.png" group-title="",Nowa TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105455
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/travelchannelhd.png" group-title="",Travel Channel
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105456
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/hgtv.png" group-title="",HGTV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105457
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/25e20053ed7a0b71110207f5481bbe96.png" group-title="",Home TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/120417
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/zoomtv.png" group-title="",Zoom TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105458
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/532e98d4746f65e900916bf78f97c775.png" group-title="",TV Okazje
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105459
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVT.png" group-title="",TVT
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105519
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/wp1.png" group-title="",WP
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105460
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/68cac160461e39eab055592a7c795cd7.png" group-title="",TV Trwam
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105461
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/a68da3b7c1a1694599c63812d3dd3df2.png" group-title="",TVP INFO
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105462
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/tvrepublika.png" group-title="",TV Republika
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105463
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/wPolsce.pl.png" group-title="",wPolsce 24
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105464
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/Biznes24+HD.png" group-title="",Biznes 24
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/119834
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatnews.png" group-title="",Polsat News
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105465
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatnews2.png" group-title="",Polsat News 2
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105466
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/tvn24hd.png" group-title="",TVN 24
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105467
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/tvn24biznesiswiat.png" group-title="",TVN 24 BIS
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105468
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/872e5fb8651062c3a86cb667773dc62f.png" group-title="",Antena
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/151847
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/f9e7859024d3f269a3295e461ee99b81.png" group-title="",Wydarzenia 24
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/151853
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Bialystok.png" group-title="",TVP 3 Bialystok
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105469
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Bydgoszcz.png" group-title="",TVP 3 Bydgoszcz
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105470
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Gdansk.png" group-title="",TVP 3 Gdansk
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105471
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Gorzow%20Wielkopolski.png" group-title="",TVP 3 Gorzów Wielkopolski
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105472
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Katowice.png" group-title="",TVP 3 Katowice
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105473
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Kielce.png" group-title="",TVP 3 Kielce
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105474
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Krakow.png" group-title="",TVP 3 Kraków
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105475
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Lublin.png" group-title="",TVP 3 Lublin
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105476
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVPLodz.png" group-title="",TVP 3 Lódz
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105477
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Olsztyn.png" group-title="",TVP 3 Olsztyn
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105478
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Opole.png" group-title="",TVP 3 Opole
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105479
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Poznan.png" group-title="",TVP 3 Poznan
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105480
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Rzeszow.png" group-title="",TVP 3 Rzeszów
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105481
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Szczecin.png" group-title="",TVP 3 Szczecin
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105482
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Warszawa.png" group-title="",TVP 3 Warszawa
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105483
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Wroclaw.png" group-title="",TVP 3 Wroclaw
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105484
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/bbccbeebies.png" group-title="",BBC CBeebies
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105485
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/nickjr.png" group-title="",Nick Jr Polska
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105486
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/nickelodeon.png" group-title="",Nickelodeon
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105487
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/nicktoons.png" group-title="",NickToons
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105488
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/disneychannelhd.png" group-title="",Disney Channel
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105489
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/babytv.png" group-title="",Baby TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105490
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://assets.www.warnerbros.com/drupal-root/public/cartoonito_-_logo_-_no_background.png" group-title="",Cartoonito
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105491
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/cartoonnetworkhd.png" group-title="",Cartoon Network
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105492
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/disneyjunior.png" group-title="",Disney Junior
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105493
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="",Disney XD
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105494
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/miniminiplushd.png" group-title="",MiniMini+
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105495
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/jimjam.png" group-title="",Polsat Jim Jam
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105497
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/ac7f283bca75fdf911c6cf85d4b94a4d.png" group-title="",TeleTOON+
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105498
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/davincilearning.png" group-title="",Da Vinci Learning
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105499
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/Top+Kids+HD.png" group-title="",TOP Kids
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/120419
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/9c0cb7101915944abc187d38c5be754c.png" group-title="",TeenNick
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/152819
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/4funtv.png" group-title="",4Fun.TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/4fundance.png" group-title="",4Fun Dance
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105502
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/discopolomusic.png" group-title="",Disco Polo Music
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105503
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/eskatv.png" group-title="",Eska TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105504
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/eskatvextra.png" group-title="",Eska TV Extra
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105505
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/eb15b32b0b69258d92a88c02dcdfae62.png" group-title="",Eska Rock TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105506
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/kinopolskamuzyka.png" group-title="",Kino Polska Muzyka
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105507
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://1.bp.blogspot.com/-7hVOYAQhdjw/X07zvW_CIOI/AAAAAAAA6TQ/2EW0Kh7AUZA4X3RoOjgUW9_tPaoDgBH0gCLcBGAsYHQ/w410-h71/nick-music-2020.png" group-title="",NickMusic
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105508
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/0c3b449361ed5fe382319aba9504c1ce.png" group-title="",MTV Live
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105509
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/mtvpolska.png" group-title="",MTV Polska
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105510
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/4687cfb021a02cebf31a249689ecc60e.png" group-title="",MTV 90s
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105511
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/Nuta%20TV.png" group-title="",NUTA TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105512
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/polotv.png" group-title="",Polo TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105513
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/polsatmusichd.png" group-title="",Polsat Music
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105514
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/c364d6ccebb7748183f33f819a1a9482.png" group-title="",Power TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105515
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/starstv.png" group-title="",STARS.TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105516
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MTV 00s
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105517
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/voxmusictv.png" group-title="",VOX Music TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105518
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/3654b34017508a963ccce2426e91e4cd.png" group-title="",AMC
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105360
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/alekinoplushd.png" group-title="",Ale Kino+
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105361
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/canalplushd.png" group-title="",Canal+ Premium
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105362
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/canalplus1hd.png" group-title="",Canal+ 1
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105363
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/98cf6425061d6b8740dfc7ff7cff4c1f.png" group-title="",Canal+ Film
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105364
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/e405664b2aeba493f05db093737b1853.png" group-title="",Canal+ 360
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105365
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/canalplusserialehd.png" group-title="",Canal+ Seriale
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105366
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/f9adcc04d047cc512ebe96f95745912f.png" group-title="",HBO
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105368
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/12713c6ff264a3ac58c707c7b2a4bbcf.png" group-title="",HBO 2
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105369
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/cee71028915464dbf234547f65c22c0e.png" group-title="",HBO 3
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105370
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/0874f230b6ba300544ba4f90689d9a72.png" group-title="",Cinemax
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105371
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/cinemax2hd.png" group-title="",Cinemax 2
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105372
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/bf1b9303db9bce9f7d547ad418353b2a.png" group-title="",Filmbox Extra
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105373
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/cff179fcdb23d2951807bc3040cda9c3.png" group-title="",Filmbox Action
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105374
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/filmboxarthouse.png" group-title="",Filmbox Arthouse
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105375
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/filmboxpremium.png" group-title="",Filmbox Premium
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105376
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/aa1e8832a1b2c29d9950c4899033b08a.png" group-title="",Filmbox Family
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105377
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/foxhd.png" group-title="",FX
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105378
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/foxcomedyhd.png" group-title="",FX Comedy
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105379
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/13ulicahd.png" group-title="",13 Ulica
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105380
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/axnhd.png" group-title="",AXN
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105381
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/axnblack.png" group-title="",AXN Black
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105382
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/8d3a45db744642c838ec164e5c7b21dd.png" group-title="",AXN Spin
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105383
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/axnwhite.png" group-title="",AXN White
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105384
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/stopklatkatv.png" group-title="",Stopklatka TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105387
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/7302859692925d4b45fb5b92ffa3dfd0.png" group-title="",Active Family
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105388
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://fabryka.stream:8880/images/bfeea42f9d27d8a5e4879b4e7a55cb21.png" group-title="",Kino Polska
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105389
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/KinoTV.png" group-title="",Kino TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105390
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/sundancehd.png" group-title="",Sundance
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105391
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatfilm.png" group-title="",Polsat Film
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105392
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/27645951f8a7c8d54011f0ab86b64f5f.png" group-title="",Romance TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105394
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/e9828e94e6fa51ccf2f1b4d5bf23230c.png" group-title="",Paramount Network
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105395
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/scifi.png" group-title="",SciFi
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105396
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/tnthd.png" group-title="",TNT
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105397
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/cbseuropa.png" group-title="",CBS Europa
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105406
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/VOD%205.png" group-title="",VOD 205
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105549
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/VOD%206.png" group-title="",VOD 206
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105550
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/VOD%207.png" group-title="",VOD 207
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105551
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/VOD%208.png" group-title="",VOD 208
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105552
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/bbcbrit.png" group-title="",BBC Brit
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105403
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/dtxhd.png" group-title="",DTX
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105415
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/tvnturbohd.png" group-title="",TVN Turbo
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105442
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/b6cc47559e49f4d10d8e27b8cb14816e.png" group-title="",Motowizja
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105443
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/b7f3adca9ad46ea3909336fbb39bca4e.png" group-title="",Canal+ Sport
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105520
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/e3f46b60378e8f3057b59094ff3b81e7.png" group-title="",Canal+ Sport 2
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105521
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/canalplussport3hd.png" group-title="",Canal+ Sport 3
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105522
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/ac7ce164e24691290dc17fd5fb2e8634.png" group-title="",Canal+ Sport 4
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105523
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/canalplussporthd.png" group-title="",Canal+ Sport 5
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/153306
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/Canal+%20Now%20HD.png" group-title="",Canal+ NOW
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105524
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/0205b33d00c33dfc5b63f217616d67be.png" group-title="",Eleven Sports 1
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105525
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/39afd408825c655f76fac50ec04ba301.png" group-title="",Eleven Sports 2
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105526
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://fabryka.stream:8880/images/d91d9b739ddf1fd861ffdd1f9be8efc9.png" group-title="",Eleven Sports 3
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105527
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/7d35169bc5f63f033d3562c4fbcb367e.png" group-title="",Eleven Sports 4
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105528
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/905d9e9cec50adf2156cec18f26857d4.png" group-title="",Polsat Sport
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105530
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportextra.png" group-title="",Polsat Sport Extra
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105531
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportfight.png" group-title="",Polsat Sport Fight
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105532
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportnews.png" group-title="",Polsat Sport News
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105533
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatgames.png" group-title="",Polsat Games
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105534
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/e221f30d81d809132fda8bfe5a1b884e.png" group-title="",Polsat Sport Premium 1
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105535
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/5eaf859784921ee6f80956b9b66a3a36.png" group-title="",Polsat Sport Premium 2
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105536
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/af502221e35e7b23823fa933b39d3791.png" group-title="",Polsat Sport Premium 3 PPV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105537
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/6cfef4132cd6259cdf6a37271a7afb4d.png" group-title="",Polsat Sport Premium 4 PPV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105538
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/dd022b750eb9dd37aacfce394a27929f.png" group-title="",Polsat Sport Premium 5 PPV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105539
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/5e451965e5093807801a588b8f104f63.png" group-title="",Polsat Sport Premium 6 PPV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105540
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/FightKlub%20HD.png" group-title="",Fightklub
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105541
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/extremesportshd.png" group-title="",Extreme Sports
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105542
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/sportklub.png" group-title="",Sportklub
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105543
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/eurosport1hd.png" group-title="",Eurosport 1
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105544
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/eurosport2hd.png" group-title="",Eurosport 2
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105545
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" group-title="",Fightbox
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105546
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/logo/golfchannel.png" group-title="",Golf Channel
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105547
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/fcf96423f74a741a0fa5f80e4f021f52.png" group-title="",TVP Sport
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105548
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_WarnerTV_422x278.png" group-title="",Warner TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155028
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://e-cho.pl/wp-content/uploads/2021/03/TVP-Kobieta-logo-300x147.png" group-title="",TVP Kobieta
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155036
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/c4fdeabe7e79c676a426dfe7c310aa86.jpg" group-title="",TVP Historia 2
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155037
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TVP_ABC_2_-_Logo_od_15_lutego_2022_roku.png" group-title="",TVP ABC 2
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155038
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/1ab90f6803db1250be7a5ca62e6ca2ff.png" group-title="",TVP Nauka
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155039
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Xtreme TV
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155040
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BollywooD
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Dizi
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155042
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FilMax
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155043
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/2c2f17d2095f35e1c25a8598492ea331.png" group-title="",Adventure
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155077
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/5fd28c2bda2e21a8b1c81550b1df21cf.png" group-title="",Crime+ Investigation Polsat
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155083
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat News Polityka
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155148
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/33a91b1b7820e603e3544597680209ca.png" group-title="",TVP ABC
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155176
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/946fbf8602bb61121af0d46ae730ae80.png" group-title="",4Fun Kids
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155182
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/13667c2478f5dad7cddb7fb42085c00a.png" group-title="",FOX
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155218
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/e1522fc80b12daad7fb34af014ff08e3.png" group-title="",Fox Comedy
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155219
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Player_%28TVN%29.svg/1200px-Player_%28TVN%29.svg.png" group-title="",TVN Pora na Show
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170452
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759890/images/55090786?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="",TVN Rewolucje W Kuchni
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170437
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://r-scale-e7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759888/images/55089743?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="",TVN Seriale O Kobietach
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170438
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://r-scale-9c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759893/images/55089326?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="",TVN Szkola Zycia
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170439
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://r-scale-45.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759892/images/55080443?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="",TVN Szpitalne Historie
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170440
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://r-scale-49.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759886/images/55089641?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="",TVN Talk Show
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170441
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://r-scale-0c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759887/images/55089677?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="",TVN Telenowele
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170442
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://r-scale-34.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759885/images/55089575?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="",TVN Usterka
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170443
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://r-scale-fb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759889/images/55090765?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="",TVN W Domu
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170444
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://r-scale-eb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759891/images/55090792?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="",TVN Zycie Jak W Bajce
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170445
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://r-scale-f5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759884/images/55089509?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="",TVN Kryminalnie
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170446
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.tvmedia.io/images/89eef7ceb989dfc56eacc65a18753442.jpg" group-title="",Prime MMA
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/154937
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://fabryka.stream:8880/images/11a577f7dcbb60b053758ff859ee4828.png" group-title="",FAME MMA
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/152821
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ EXTRA 1
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170506
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ EXTRA 2
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170507
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ EXTRA 3
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170508
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ EXTRA 4
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170509
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ EXTRA 5
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170510
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ EXTRA 6
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170511
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ EXTRA 7
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170512
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Live+1.png" group-title="",Canal+ Event 1
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Live+5.png" group-title="",Canal+ Event 5
-http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/170504
+#EXTINF:-1 tvg-id="tvp1.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvp1.png",PL - TVP 1 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814363.ts
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/tvp2.png",PL - TVP 2 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814362.ts
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/tvpinfo.png",PL - TVP INFO FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814361.ts
+#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/tvphd.png",PL - TVP FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814360.ts
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/tvpkultura.png",PL - TVP KULTURA FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814359.ts
+#EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/polsatseriale.png",PL - POLSAT SERIALE FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814358.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/tvpdokumenthd.png",PL - TVP DOKUMENT FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814357.ts
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/tvn.png",PL - TVN FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814356.ts
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/tvn7.png",PL - TVN 7 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814355.ts
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvn24.png",PL - TVN24 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814354.ts
+#EXTINF:-1 tvg-id="TVN24BiznesSwiat.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/tvn24bis.png",PL - TVN24 BIS FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814353.ts
+#EXTINF:-1 tvg-id="TBNPolska.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/TBN-POLSKA.png",PL - TBN POLSKA FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1148827.ts
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/dtx.png",PL - POLSAT FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814352.ts
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/polsat2.png",PL - POLSAT 2 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814351.ts
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/tvnfabula.png",PL - TVN FABULA FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814350.ts
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/tv4.png",PL - TV4 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814349.ts
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/tv6.png",PL - TV6 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814348.ts
+#EXTINF:-1 tvg-id="TTV.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/ttv.png",PL - TTV FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814347.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/dtx.png",PL - DTX FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814346.ts
+#EXTINF:-1 tvg-id="MotowizjaTV.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/motowizja.png",PL - MOTOWIZJA FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814345.ts
+#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/fightbox.png",PL - FIGHTBOX FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814344.ts
+#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/fightklub.png",PL - FIGHTKLUB FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814343.ts
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/tvpsport.png",PL - TVP SPORT FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814342.ts
+#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/eurosport1.png",PL - EUROSPORT 1 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814341.ts
+#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/eurosport2.png",PL - EUROSPORT 2 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814340.ts
+#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/sportklub.png",PL - SPORTKLUB FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814339.ts
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/polsatsport.png",PL - POLSAT SPORT 1 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814338.ts
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/polsatsportfighthd.png",PL - POLSAT SPORT FIGHT FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814337.ts
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/polsatsport.png",PL - POLSAT SPORT 3 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814336.ts
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/polsatsport.png",PL - POLSAT SPORT 2 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814335.ts
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport.png",PL - CANAL+ SPORT FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814334.ts
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport2.png",PL - CANAL+ SPORT 2 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814333.ts
+#EXTINF:-1 tvg-id="CanalPlusSport3.ke" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport3hd.png",PL - CANAL+ SPORT 3 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814332.ts
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport4hd.png",PL - CANAL+ SPORT 4 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814331.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport5hd.png",PL - CANAL+ SPORT 5 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814330.ts
+#EXTINF:-1 tvg-id="ExtremeSports.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/extremesports.png",PL - EXTREME SPORTS FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814329.ts
+#EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports1.png",PL - ELEVEN SPORTS 1 4K
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814328.ts
+#EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports1.png",PL - ELEVEN SPORTS 1 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814327.ts
+#EXTINF:-1 tvg-id="ElevenSport2.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports2.png",PL - ELEVEN SPORTS 2 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814326.ts
+#EXTINF:-1 tvg-id="ElevenSport3.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports3.png",PL - ELEVEN SPORTS 3 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814325.ts
+#EXTINF:-1 tvg-id="ElevenSport4.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports4.png",PL - ELEVEN SPORTS 4 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814324.ts
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/polsatsportpremium1.png",PL - POLSAT SPORT PREMIUM 1 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814323.ts
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/polsatsportpremium2.png",PL - POLSAT SPORT PREMIUM 2 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814322.ts
+#EXTINF:-1 tvg-id="PolsatSportPremium3.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/polsatsportpremiumppv3.png",PL - POLSAT SPORT PREMIUM 3 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814321.ts
+#EXTINF:-1 tvg-id="PolsatSportPremium4.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/polsatsportpremiumppv4.png",PL - POLSAT SPORT PREMIUM 4 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814320.ts
+#EXTINF:-1 tvg-id="PolsatSportPremium5.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/polsatsportpremiumppv5.png",PL - POLSAT SPORT PREMIUM 5 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814319.ts
+#EXTINF:-1 tvg-id="PolsatSportPremium6.pl" tvg-name="" group-title="|PL| POLAND FHD" tvg-logo="http://logo.protv.cc/piconsnew/polsatsportpremiumppv6.png",PL - POLSAT SPORT PREMIUM 6 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/814318.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| INFORMACJE" tvg-logo="http://51.158.145.100/picons/logos/logos/POLAND.png",##### PL - INFORMACJE #####
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/763254.ts
+#EXTINF:-1 tvg-id="tvn24biznesswiat.pl" tvg-name="" group-title="|PL| INFORMACJE" tvg-logo="http://logo.protv.cc/piconsnew/tvn24bis.png",PL - TVN24 BIS HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689639.ts
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="" group-title="|PL| INFORMACJE" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvn24.png",PL - TVN24 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689640.ts
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="" group-title="|PL| INFORMACJE" tvg-logo="http://logo.protv.cc/piconsnew/tvpinfo.png",PL - TVP INFO HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689649.ts
+#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="" group-title="|PL| INFORMACJE" tvg-logo="http://logo.protv.cc/piconsnew/polsatnews.png",PL - POLSAT NEWS HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689711.ts
+#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="" group-title="|PL| INFORMACJE" tvg-logo="http://logo.protv.cc/piconsnew/polsatnews2.png",PL - POLSAT NEWS 2
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689785.ts
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="" group-title="|PL| INFORMACJE" tvg-logo="http://logo.protv.cc/piconsnew/tvrepublika.png",PL - TV REPUBLIKA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689809.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| INFORMACJE" tvg-logo="http://103.176.90.118/picons/logos/cnnihd.png",PL - CNNI HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/690390.ts
+#EXTINF:-1 tvg-id="wPolsce.pl" tvg-name="" group-title="|PL| INFORMACJE" tvg-logo="https://iptvextreme.org/picon/TRS/100x60/wpolscepl.png",PL - WPOLSCE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689821.ts
+#EXTINF:-1 tvg-id="Wydarzenia24.pl" tvg-name="" group-title="|PL| INFORMACJE" tvg-logo="http://103.176.90.118/picons/logos/WYDARZENIA-24.png",PL - WYDARZENIA 24
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/986068.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://51.158.145.100/picons/logos/logos/POLAND.png",##### PL - FILMOWE #####
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/763255.ts
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/tvnfabula.png",PL - TVN FABULA HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689636.ts
+#EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/polsatseriale.png",PL - POLSAT SERIALE HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689645.ts
+#EXTINF:-1 tvg-id="PolsatRodzina.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="https://iptvextreme.org/picon/TRS/85x51/polsatrodzina.png",PL - POLSAT RODZINA HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689646.ts
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/polsatfilm.png",PL - POLSAT FILM HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689647.ts
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/canalplus1.png",PL - CANAL+ 1 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689651.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/canalplusnow.png",PL - CANAL+ NOW HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689653.ts
+#EXTINF:-1 tvg-id="CanalPlusPremium.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/canalpluspremiumhd.png",PL - CANAL+ PREMIUM HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689654.ts
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/canalplusseriale.png",PL - CANAL+ SERIALE HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689655.ts
+#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/hbo2.png",PL - HBO 2 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689656.ts
+#EXTINF:-1 tvg-id="HBO3.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/hbo3.png",PL - HBO 3 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689657.ts
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://103.176.90.118/picons/logos/HBO-HD.png",PL - HBO HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689658.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/alekinoplus.png",PL - ALE KINO+ HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689659.ts
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/canalplusfilm.png",PL - CANAL+ FILM HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689661.ts
+#EXTINF:-1 tvg-id="AXN.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/axn.png",PL - AXN HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689662.ts
+#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/axnspin.png",PL - AXN SPIN HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689663.ts
+#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/cinemax2.png",PL - CINEMAX 2 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689664.ts
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/comedycentral.png",PL - COMEDY CENTRAL HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689665.ts
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/comedycentralpolandhd.png",PL - COMEDY CENTRAL POLAND HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689666.ts
+#EXTINF:-1 tvg-id="Cinemax.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/cinemax.png",PL - CINEMAX HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689667.ts
+#EXTINF:-1 tvg-id="FilmboxExtra.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/filmboxextra.png",PL - FILMBOX EXTRA HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689668.ts
+#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/filmboxpremium.png",PL - FILMBOX PREMIUM HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689669.ts
+#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/foxcomedy.png",PL - FOX COMEDY HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689672.ts
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/kino.png",PL - KINO TV HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689674.ts
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/kinopolska.png",PL - KINO POLSKA HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689676.ts
+#EXTINF:-1 tvg-id="FOX.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/fox.png",PL - FOX HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689675.ts
+#EXTINF:-1 tvg-id="TLC.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://103.176.90.118/picons/logos/TLC-HD.png",PL - TLC HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689678.ts
+#EXTINF:-1 tvg-id="ParamountChannel.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/paramountchannel.png",PL - PARAMOUNT CHANNEL HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689680.ts
+#EXTINF:-1 tvg-id="ScifiUniversal.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/scifiuniversal.png",PL - SCIFI UNIVERSAL HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689701.ts
+#EXTINF:-1 tvg-id="AMC.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/amc.png",PL - AMC HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689719.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/novelasplus.png",PL - NOVELAS+ HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689742.ts
+#EXTINF:-1 tvg-id="RedCarpet.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/redcarpettv.png",PL - RED CARPET TV HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689757.ts
+#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/axnblack.png",PL - AXN BLACK
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689776.ts
+#EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/axnwhite.png",PL - AXN WHITE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689777.ts
+#EXTINF:-1 tvg-id="BBC.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/bbcfirst.png",PL - BBC FIRST HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689703.ts
+#EXTINF:-1 tvg-id="CBSEuropa.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/cbseuropa.png",PL - CBS EUROPA HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689721.ts
+#EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/romances.png",PL - ROMANCE TV HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689758.ts
+#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/filmboxaction.png",PL - FILMBOX ACTION
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689779.ts
+#EXTINF:-1 tvg-id="FilmBoxArtHouse.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/filmboxarthouse.png",PL - FILMBOX ARTHOUSE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689780.ts
+#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/filmboxfamily.png",PL - FILMBOX FAMILY
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689781.ts
+#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/kinopolskamuzyka.png",PL - KINO POLSKA MUZYKA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689799.ts
+#EXTINF:-1 tvg-id="ActiveFamily.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/activefamily.png",PL - ACTIVE FAMILY
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689778.ts
+#EXTINF:-1 tvg-id="EpicDrama.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/epicdrama.png",PL - EPIC DRAMA HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689731.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/vod205.png",PL - VOD 205
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689815.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/vod206.png",PL - VOD 206
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689816.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/vod207.png",PL - VOD 207
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689817.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/vod208.png",PL - VOD 208
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689818.ts
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="" group-title="|PL| FILMOWE" tvg-logo="http://logo.protv.cc/piconsnew/tvpseriale.png",PL - TVP SERIALE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689823.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://51.158.145.100/picons/logos/logos/POLAND.png",##### PL - KULTURA #####
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/763257.ts
+#EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/travelchannel.png",PL - TRAVEL CHANNEL HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689707.ts
+#EXTINF:-1 tvg-id="TVN24BiznesSwiat.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/biznes24.png",PL - BIZNES24 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689708.ts
+#EXTINF:-1 tvg-id="CanalPlusDokument.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/canalplusdokumenthd.png",PL - CANAL+ DOKUMENT HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689710.ts
+#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/natgeopeople.png",PL - NAT GEO PEOPLE HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689712.ts
+#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/natgeowild.png",PL - NAT GEO WILD HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689713.ts
+#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographic.png",PL - NATIONAL GEOGRAPHIC HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689714.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/animalplanet.png",PL - ANIMAL PLANET HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689715.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/planeteplus.png",PL - PLANETE+ HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689747.ts
+#EXTINF:-1 tvg-id="CIPolsat.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/crimeandinvestigation.png",PL - CRIME AND INVESTIGATION HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689723.ts
+#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/discovery.png",PL - DISCOVERY HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689724.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/discoveryscience.png",PL - DISCOVERY SCIENCE HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689726.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/eentertainment.png",PL - E! ENTERTAINMENT HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689730.ts
+#EXTINF:-1 tvg-id="FoodNetwork.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/foodnetwork.png",PL - FOOD NETWORK HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689671.ts
+#EXTINF:-1 tvg-id="Adventure.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/adventurehd.png",PL - ADVENTURE HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689718.ts
+#EXTINF:-1 tvg-id="History2.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/h2hd.png",PL - H2 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689734.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://103.176.90.118/picons/logos/INVESTIGATION-DISCOVERY.png",PL - ID HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689736.ts
+#EXTINF:-1 tvg-id="ViasatExplore.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://103.176.90.118/picons/logos/VIASAT-EXPLORER.png",PL - POLSAT VIASAT EXPLORE HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689754.ts
+#EXTINF:-1 tvg-id="ViasatHistory.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/polsatviasathistory.png",PL - POLSAT VIASAT HISTORY HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689755.ts
+#EXTINF:-1 tvg-id="ViasatNature.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/polsatviasatnature.png",PL - POLSAT VIASAT NATURE HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689756.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/tvpdokumenthd.png",PL - TVP DOKUMENT HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689764.ts
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/tvpkultura.png",PL - TVP KULTURA HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689765.ts
+#EXTINF:-1 tvg-id="History.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/history.png",PL - HISTORY HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689768.ts
+#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/tvphistoria.png",PL - TVP HISTORIA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689774.ts
+#EXTINF:-1 tvg-id="DiscoveryHistoria.pl" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/discoveryhistoria.png",PL - DISCOVERY HISTORIA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689784.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/davincilearning.png",PL - DA VINCI LEARNING
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689788.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/home.png",PL - HOME TV
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689798.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| KULTURA" tvg-logo="http://logo.protv.cc/piconsnew/waterplanet.png",PL - WATER PLANET
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689819.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| INFORMACJE" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/Trwam.png",PL - TRWAM
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/826828.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://51.158.145.100/picons/logos/logos/POLAND.png",##### PL - OGÓLNE #####
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/763256.ts
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvp1.png",PL - TVP 1 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689632.ts
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/tvp2.png",PL - TVP 2 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689633.ts
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/tvn.png",PL - TVN HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689634.ts
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/tvn7.png",PL - TVN 7 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689635.ts
+#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/tvnstyle.png",PL - TVN STYLE HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689637.ts
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/tvnturbo.png",PL - TVN TURBO HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689638.ts
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/tv4.png",PL - TV4 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689642.ts
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/tv6.png",PL - TV6 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689641.ts
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/tvphd.png",PL - TVP HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689648.ts
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/polonia1.png",PL - POLONIA HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689770.ts
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/13ulicahd.png",PL - 13 ULICA HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689660.ts
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/polsat.png",PL - POLSAT HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689643.ts
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/polsat2.png",PL - POLSAT 2 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689644.ts
+#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/fokustv.png",PL - FOKUS TV HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689670.ts
+#EXTINF:-1 tvg-id="TVPuls2.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/puls2.png",PL - PULS 2 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689673.ts
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/puls.png",PL - PULS HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689677.ts
+#EXTINF:-1 tvg-id="TNT.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://103.176.90.118/picons/logos/TNT-HD.png",PL - TNT HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689679.ts
+#EXTINF:-1 tvg-id="BBCBrit.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/bbcbrit.png",PL - BBC BRIT HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689702.ts
+#EXTINF:-1 tvg-id="BBCLifestyle.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/bbclifestyle.png",PL - BBC LIFESTYLE HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689717.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/cartoonnetwork.png",PL - CARTOON NETWORK HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689720.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/domoplus.png",PL - DOMO+ HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689728.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/dtx.png",PL - DTX HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689729.ts
+#EXTINF:-1 tvg-id="KuchniaPlus.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/kuchniaplus.png",PL - KUCHNIA+ HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689737.ts
+#EXTINF:-1 tvg-id="NowaTV.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/nowatv.png",PL - NOWA TV HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689745.ts
+#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/polsatcafe.png",PL - POLSAT CAFE HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689748.ts
+#EXTINF:-1 tvg-id="ComedyCentralExtra.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/polsatcomedycentralextra.png",PL - POLSAT COMEDY CENTRAL EXTRA HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689749.ts
+#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/polsatdoku.png",PL - POLSAT DOKU HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689750.ts
+#EXTINF:-1 tvg-id="PolsatGames.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/polsatgames.png",PL - POLSAT GAMES HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689751.ts
+#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/polsatplay.png",PL - POLSAT PLAY HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689753.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://51.158.145.100/picons/logos/logos/EWTN-POLSKA.png",PL - EWTN POLSKA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1187594.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://51.158.145.100/picons/logos/logos/TELEWIZJA-TVT.png",PL - TELEWIZJA TVT
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1187593.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/studiomedtv.png",PL - STUDIOMED TV HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689759.ts
+#EXTINF:-1 tvg-id="Superstacja.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://51.158.145.100/picons/logos/logos/superstacja.png",PL - SUPERSTACJA HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689761.ts
+#EXTINF:-1 tvg-id="TTV.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/ttv.png",PL - TTV HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689763.ts
+#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/superpolsat.png",PL - SUPER POLSAT HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689766.ts
+#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/hgtv.png",PL - HGTV HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689767.ts
+#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/tvppolonia.png",PL - TVP POLONIA 1
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689771.ts
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/tvp3.png",PL - TVP 3
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689772.ts
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/tvpabc.png",PL - TVP ABC
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689773.ts
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/atmrozrywkatv.png",PL - TVP ROZRYWKA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689775.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVP-KOBIETA.png",PL - TVP KOBIETA HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1115300.ts
+#EXTINF:-1 tvg-id="Tele5.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/tele5.png",PL - TELE 5
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689782.ts
+#EXTINF:-1 tvg-id="Metro.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/metrotv.png",PL - METRO
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689800.ts
+#EXTINF:-1 tvg-id="WPTelewizja.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/wp.png",PL - WP
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689820.ts
+#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-name="" group-title="|PL| OGÓLNE" tvg-logo="http://logo.protv.cc/piconsnew/zoom.png",PL - ZOOM TV
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689822.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://51.158.145.100/picons/logos/logos/POLAND.png",##### PL - MUZYKA & DZIECI #####
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/763259.ts
+#EXTINF:-1 tvg-id="Boomerang.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/boomerang.png",PL - BOOMERANG HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689709.ts
+#EXTINF:-1 tvg-id="BBCEarth.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/bbcearth.png",PL - BBC EARTH HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689716.ts
+#EXTINF:-1 tvg-id="CBSReality.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/cbsreality.png",PL - CBS REALITY HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689722.ts
+#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/disneychannel.png",PL - DISNEY CHANNEL HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689727.ts
+#EXTINF:-1 tvg-id="Minimini.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/miniminiplus.png",PL - MINIMINI HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689738.ts
+#EXTINF:-1 tvg-id="NickToons.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/nicktoons.png",PL - NICKTOONS HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689740.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/teennick.png",PL - TEENNICK HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689741.ts
+#EXTINF:-1 tvg-id="MTVLive.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/mtvlive.png",PL - MTV LIVE HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689743.ts
+#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/mtvpolska.png",PL - MTV POLSKA HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689744.ts
+#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/polsatmusichd.png",PL - POLSAT MUSIC HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689752.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/sundance.png",PL - SUNDANCE TV HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689760.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/teletoonplus.png",PL - TELETOON+ HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689762.ts
+#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/polotv.png",PL - POLO TV HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689769.ts
+#EXTINF:-1 tvg-id="BBCCbeebies.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/bbccbeebies.png",PL - BBC CBEEBIES
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689786.ts
+#EXTINF:-1 tvg-id="BabyTV.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/babytv.png",PL - BABY TV
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689787.ts
+#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/discopolomusic.png",PL - DISCO POLO MUSIC
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689789.ts
+#EXTINF:-1 tvg-id="4FunDance.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/4fundance.png",PL - 4FUN DANCE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689790.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/4fungoldhits.png",PL - 4FUN GOLD HITS
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689791.ts
+#EXTINF:-1 tvg-id="4funTV.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/4funtv.png",PL - 4FUN.TV
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689792.ts
+#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/disneyjunior.png",PL - DISNEY JUNIOR
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689793.ts
+#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/disneyxd.png",PL - DISNEY XD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689794.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/eskarocktv.png",PL - ESKA ROCK TV
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689795.ts
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/eskatv.png",PL - ESKA TV
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689796.ts
+#EXTINF:-1 tvg-id="EskaTVextra.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/eskatvextra.png",PL - ESKA TV EXTRA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689797.ts
+#EXTINF:-1 tvg-id="NickJr.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/nickjrpolska.png",PL - NICK JR POLSKA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689801.ts
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://103.176.90.118/picons/logos/NICKELODEON-HD.png",PL - NICKELODEON
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689802.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="https://logo.protv.cc/piconsnew/mtvrocks.png",PL - MTV ROCKS
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689804.ts
+#EXTINF:-1 tvg-id="NutaTV.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://logo.protv.cc/piconsnew/nutatv.png",PL - NUTA TV
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689805.ts
+#EXTINF:-1 tvg-id="JimJam.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="https://logo.protv.cc/piconsnew/polsatjimjam.png",PL - POLSAT JIM JAM
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689806.ts
+#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="https://logo.protv.cc/piconsnew/powerhd.png",PL - POWER TV
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689807.ts
+#EXTINF:-1 tvg-id="StarsTV.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="https://logo.protv.cc/piconsnew/starstv.png",PL - STARS.TV
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689808.ts
+#EXTINF:-1 tvg-id="TVS.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://103.176.90.118/picons/logos/TVS--.png",PL - TVS
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689811.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="http://103.176.90.118/picons/logos/MTV-HD.png",PL - MTV 00S
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689812.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="https://logo.protv.cc/piconsnew/musicboxpolska.png",PL - MUSIC BOX POLSKA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689813.ts
+#EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="" group-title="|PL| MUZYKA | DZIECI" tvg-logo="https://logo.protv.cc/piconsnew/voxmusic.png",PL - VOX MUSIC TV
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689814.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://51.158.145.100/picons/logos/logos/POLAND.png",##### PL - SPORTOWE #####
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/763258.ts
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/tvpsport.png",PL - TVP SPORT HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689650.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://51.158.145.100/picons/logos/logos/PPV-EVENTS.png",PL - PPV EVENTS
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/696887.ts
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportpremiumppv3.png",PL - POLSAT SPORT 3 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689684.ts
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportpremium1.png",PL - POLSAT SPORT 1 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689681.ts
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportpremium2.png",PL - POLSAT SPORT 2 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689682.ts
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportfighthd.png",PL - POLSAT SPORT FIGHT HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689683.ts
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportpremium1.png",PL - POLSAT SPORT PREMIUM 1 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689685.ts
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportpremium2.png",PL - POLSAT SPORT PREMIUM 2 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689686.ts
+#EXTINF:-1 tvg-id="PolsatSportPremium3.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportpremiumppv3.png",PL - POLSAT SPORT PREMIUM 3 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689687.ts
+#EXTINF:-1 tvg-id="PolsatSportPremium4.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportpremiumppv4.png",PL - POLSAT SPORT PREMIUM 4 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689688.ts
+#EXTINF:-1 tvg-id="PolsatSportPremium5.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportpremiumppv5.png",PL - POLSAT SPORT PREMIUM 5 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689689.ts
+#EXTINF:-1 tvg-id="PolsatSportPremium6.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportpremiumppv6.png",PL - POLSAT SPORT PREMIUM 6 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689690.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-360.png",PL - CANAL+ 360 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689652.ts
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/canalplussport.png",PL - CANAL+ SPORT HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689691.ts
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/canalplussport2.png",PL - CANAL+ SPORT 2 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689692.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/canalplussport3hd.png",PL - CANAL+ SPORT 3 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689693.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/canalplussport4hd.png",PL - CANAL+ SPORT 4 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689694.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://103.176.90.118/piconsnew/canalplussport5hd.png",PL - CANAL+ SPORT 5 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1136499.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png",PL - CANAL+ EXTRA 1 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1142683.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png",PL - CANAL+ EXTRA 1 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1142682.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png",PL - CANAL+ EXTRA 2 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1142681.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png",PL - CANAL+ EXTRA 2 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1142680.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png",PL - CANAL+ EXTRA 3 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1142679.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png",PL - CANAL+ EXTRA 3 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1142678.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png",PL - CANAL+ EXTRA 4 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1142677.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png",PL - CANAL+ EXTRA 4 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1142676.ts
+#EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://51.158.145.100/picons/logos/logos/ELEVEN-SPORTS-1.png",PL - ELEVEN SPORTS 1 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689695.ts
+#EXTINF:-1 tvg-id="ElevenSport2.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://51.158.145.100/picons/logos/logos/ELEVEN-SPORTS-2.png",PL - ELEVEN SPORTS 2 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689696.ts
+#EXTINF:-1 tvg-id="ElevenSport3.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://51.158.145.100/picons/logos/logos/ELEVEN-SPORTS-3.png",PL - ELEVEN SPORTS 3 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689697.ts
+#EXTINF:-1 tvg-id="ElevenSport4.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://51.158.145.100/picons/logos/logos/ELEVEN-SPORTS-4.png",PL - ELEVEN SPORTS 4 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689698.ts
+#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/eurosport1.png",PL - EUROSPORT 1 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689699.ts
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/eurosport2.png",PL - EUROSPORT 2 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689700.ts
+#EXTINF:-1 tvg-id="ExtremeSports.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/extremesports.png",PL - EXTREME SPORTS HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689704.ts
+#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/sportklub.png",PL - SPORTKLUB HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689705.ts
+#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/fightbox.png",PL - FIGHTBOX HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689706.ts
+#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/fightklub.png",PL - FIGHTKLUB HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689732.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://103.176.90.118/picons/logos/GOLF-CHANNEL-NP.png",PL - GOLF CHANNEL HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689733.ts
+#EXTINF:-1 tvg-id="MotowizjaTV.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/motowizja.png",PL - MOTOWIZJA HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689739.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/nsportplus.png",PL - NSPORT+ HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689746.ts
+#EXTINF:-1 tvg-id="Stopklatka.pl" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="https://logo.protv.cc/piconsnew/stopklatka.png",PL - STOPKLATKA TV
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/689783.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="http://51.158.145.100/picons/logos/logos/POLAND.png",##### PL - POLAND NA #####
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691008.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tvphd.png",PL - TVP HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691009.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tvp1.png",PL - TVP 1 HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691010.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tvp2.png",PL - TVP 2 HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691011.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tvpkultura.png",PL - TVP KULTURA HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691012.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tvphistoria.png",PL - TVP HISTORIA NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691013.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tvpabc.png",PL - TVP ABC NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691014.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tvprozrywka.png",PL - TVP ROZRYWKA NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691015.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tvpseriale.png",PL - TVP SERIALE NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691016.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/ttv.png",PL - TTV HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691017.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tvn.png",PL - TVN HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691018.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tvn7.png",PL - TVN 7 HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691019.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tvn24.png",PL - TVN24 HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691038.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tvnstyle.png",PL - TVN STYLE HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691020.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tvnturbo.png",PL - TVN TURBO HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691021.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/polsatplay.png",PL - POLSAT PLAY HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691022.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/polsatcafe.png",PL - POLSAT CAFE HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691023.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/kuchniaplus.png",PL - KUCHNIA+ HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691024.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/domoplus.png",PL - DOMO+ HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691025.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/kinopolska.png",PL - KINO POLSKA HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691026.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportpremium1.png",PL - POLSAT SPORT PREMIUM 1 HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691027.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportpremium2.png",PL - POLSAT SPORT PREMIUM 2 HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691028.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/canalplusfilm.png",PL - CANAL+ FILM HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691029.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/canalplus1.png",PL - CANAL+ 1 HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691030.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-360.png",PL - CANAL+ 360 HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691031.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/canalplusnow.png",PL - CANAL+ NOW HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691032.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/canalpluspremiumhd.png",PL - CANAL+ PREMIUM HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691033.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/canalplusseriale.png",PL - CANAL+ SERIALE HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691034.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/hbo.png",PL - HBO HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691035.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/hbo2.png",PL - HBO 2 HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691036.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/hbo3.png",PL - HBO 3 HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691037.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tv6.png",PL - TV6 HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691039.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/tv4.png",PL - TV4 HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691040.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/polsat.png",PL - POLSAT HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691041.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/polsat2.png",PL - POLSAT2 HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691042.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| NA HD" tvg-logo="https://logo.protv.cc/piconsnew/polsatseriale.png",PL - POLSAT SERIALE HD NA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/691043.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| SPORTOWE" tvg-logo="http://51.158.145.100/picons/logos/logos/HIGH-LEAGUE.png",PL - HIGH LEAGUE 6
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/863705.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/HIGH-LEAGUE.png",PL - HIGH LEAGUE 6
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191152.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/HIGH-LEAGUE.png",PL - HIGH LEAGUE 6 BACKUP 1
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191151.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/HIGH-LEAGUE.png",PL - HIGH LEAGUE 6 BACKUP 2
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191150.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/KSW.png",PL - KSW
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191149.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FAME-MMA.png",PL - FAME MMA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191148.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/PRIME-MMA.png",PL - PRIME MMA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191147.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/HIGH-LEAGUE.png",PL - HIGH LEAGUE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191146.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FEN-MMA.png",PL - FEN MMA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191145.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/THE-WAR.png",PL - THE WAR
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191144.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/OKTAGON-MMA.png",PL - OKTAGON MMA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191143.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/WOTORE.png",PL - WOTORE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191142.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/GROMDA.png",PL - GROMDA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191141.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/CLOUT-MMA.png",PL - CLOUT MMA
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191140.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/WALKI.png",PL - WALKI 1 (LIVE EVENT ONLY)
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191139.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| WALKI PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/WALKI.png",PL - WALKI 2 (LIVE EVENT ONLY)
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1191138.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - PREMIER LEAGUE TOP EVENT FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842137.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - PREMIER LEAGUE TOP EVENT HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842136.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 1 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842135.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 2 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842134.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 3 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842133.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 4 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842132.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 5 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842131.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 6 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842130.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 7 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842129.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 8 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842128.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 9 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842127.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 10 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842126.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 11 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842125.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 12 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842124.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 13 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842123.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 14 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842122.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 15 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842121.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 16 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842120.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 17 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842119.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 18 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842118.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 19 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842117.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 20 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842116.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 21 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842115.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 22 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842114.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 23 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842113.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 25 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842112.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 26 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842111.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 40 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842110.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 44 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842109.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 48 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842108.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 49 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842107.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 50 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842106.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 63 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842105.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 64 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842104.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 65 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842103.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 66 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842102.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 67 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842101.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 68 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842100.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 69 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842099.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 70 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842098.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 71 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842097.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 71 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842096.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 72 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842095.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 73 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842094.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 74 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842093.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 75 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842092.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 76 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842091.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 77 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842090.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 78 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842089.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 79 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842088.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 80 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842087.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 81 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842086.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 82 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842085.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 83 FHD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842084.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - XTRA 83 HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842083.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| VIAPLAY SPORT" tvg-logo="https://logo.protv.cc/piconsnew/viaplayxtra.png",PL - NFL HD
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/842082.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",####### MAX PPV #######
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168966.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 1 - HOAG CLASSIC | 3. DZIEŃ | SUN 23 MAR 20:00 | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168965.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 2 - VALSPAR CHAMPIONSHIP | 4. DZIEŃ | WYRÓŻNIONE GRUPY/DOŁKI | SUN 23 MAR 12:15 | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168964.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168963.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 4 - VALSPAR CHAMPIONSHIP | 4. DZIEŃ | GRUPA MARQUEE/WYRÓŻNIONE GRUPY | SUN 23 MAR 13:00 | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168962.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 5 - VALSPAR CHAMPIONSHIP | 4. DZIEŃ | SUN 23 MAR 17:00 | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168961.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 6 - VALSPAR CHAMPIONSHIP | 4. DZIEŃ | WYRÓŻNIONE GRUPY | SUN 23 MAR 11:29 | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168960.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168959.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168958.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 9 - VALSPAR CHAMPIONSHIP | 4. DZIEŃ | WYBRANE DOŁKI | SUN 23 MAR 12:15 | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168957.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 10 - JUDD TRUMP - KYREN WILSON | 2. SESJA  | SUN 23 MAR 19:00 | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168956.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168955.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168954.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168953.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168952.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168951.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168950.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168949.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168948.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168947.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168946.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168945.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168944.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168943.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168942.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168941.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168940.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168939.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168938.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168937.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168936.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168935.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168934.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168933.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168932.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168931.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168930.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168929.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168928.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168927.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168926.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168925.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168924.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168923.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168922.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168921.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168920.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168919.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168918.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168917.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168916.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 51 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168915.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 52 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168914.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 53 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168913.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 54 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168912.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 55 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168911.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 56 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168910.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 57 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168909.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 58 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168908.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 59 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168907.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 60 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168906.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 61 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168905.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 62 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168904.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 63 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168903.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 64 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168902.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 65 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168901.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 66 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168900.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 67 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168899.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 68 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168898.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 69 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168897.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 70 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168896.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 71 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168895.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 72 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168894.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 73 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168893.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 74 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168892.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 75 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168891.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 76 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168890.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 77 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168889.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 78 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168888.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 79 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168887.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 80 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168886.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 81 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168885.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 82 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168884.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 83 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168883.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 84 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168882.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 85 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168881.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 86 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168880.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 87 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168879.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 88 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168878.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 89 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168877.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 90 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168876.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 91 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168875.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 92 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168874.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 93 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168873.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 94 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168872.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 95 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168871.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 96 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168870.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 97 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168869.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 98 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168868.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 99 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168867.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|PL| MAX PPV" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png",PL: MAX PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.rs4ott.com/live/cde9216488/d29061c2078e/1168866.ts
